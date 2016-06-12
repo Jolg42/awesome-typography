@@ -12,7 +12,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 
 
 ## OpenType
-* [OpenType: let's learn how modern fonts actually work](https://pomax.github.io/1449777175633/opentype-let-s-learn-how-modern-fonts-actually-work)
+* [OpenType: let's learn how modern fonts actually work](https://pomax.github.io/#gh-weblog-1449777175633)
 
 ### Javascript
 * [Opentype.js](https://github.com/nodebox/opentype.js) Read and write OpenType fonts
@@ -30,7 +30,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [ChromaCheck](https://github.com/RoelN/ChromaCheck) Feature test for color font support in browsers
 * [Font Face Observer](https://github.com/bramstein/fontfaceobserver) Font load events, simple, small and efficient [fontfaceobserver.com](https://fontfaceobserver.com)
 * [Web Font Loader](https://github.com/typekit/webfontloader) Web Font Loader gives you added control when using linked fonts via @font-face.
-* [localFont](https://github.com/jaicab/localFont) Implement localStorage web font caching in seconds http://jaicab.com/localFont/
+* [localFont](https://github.com/jaicab/localFont) Implement localStorage web font caching in seconds https://jaicab.com/localFont/
 * [Fontello](https://github.com/fontello/fontello) This tool lets you combine icon webfonts for your own project. http://fontello.com
 
 ### Python
@@ -97,7 +97,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [ofont](https://github.com/raphaelbastide/ofont) Web interface for font collections (used by usemodify.com)
 * [Git for Type Designers](https://github.com/frankrolf/git-for-type-designers)
 * [designwithfontforge.com](https://github.com/fontforge/designwithfontforge.com) A book about how to design new typefaces with FontForge. See [designwithfontforge.com](http://designwithfontforge.com)
-* [FontTesting Page](https://github.com/impallari/Font-Testing-Page) A webpage for testing typefaces, live at [www.impallari.com/testing](http://www.impallari.com/testing)
+* [FontTesting Page](https://github.com/impallari/Font-Testing-Page) A webpage for testing typefaces, live at [www.impallari.com/testing](http://www.impallari.com/testing/)
 * [CSS Utility OpenType](https://github.com/kennethormandy/utility-opentype) Simple, CSS utility classes for advanced typographic features. See it [here](http://utility-opentype.kennethormandy.com/)
 * [Alfred Special Characters](https://github.com/typefacts/alfred-special-characters) Typefacts Special Characters Workflow for Alfred 3
 * [Typomanie.fr Ressources](http://typomanie.fr/ressources/)
@@ -122,7 +122,7 @@ For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 
 
 ## Contribute?
-➡️Pull request! (Or open an issue [here](https://github.com/Jolg42/awesome-typography/issues/new))
+➡️Pull request! (Or open an issue [here](https://github.com/Jolg42/awesome-typography/issues))
 
 
 ## License
