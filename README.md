@@ -1,6 +1,7 @@
 # Awesome typography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Curated list about typography
 
+
 ## Specifications
 * [Microsoft's Documentation](https://www.microsoft.com/en-us/Typography/OpenTypeSpecification.aspx)
 * [Apple's Documentation](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
@@ -9,19 +10,20 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [the-cff-table](https://github.com/Pomax/the-cff-table) A markdown conversion of the Adobe Tech notes 5176 and 5177 about CFF
 * [Adobe's Documentation](http://www.adobe.com/devnet/font.html)
 
+
 ## OpenType
 * [OpenType: let's learn how modern fonts actually work](https://pomax.github.io/1449777175633/opentype-let-s-learn-how-modern-fonts-actually-work)
 
 ### Javascript
 * [Opentype.js](https://github.com/nodebox/opentype.js) Read and write OpenType fonts
 * [font](https://github.com/Benvie/font) Parse otf/ttf file format directory from buffers for metadata
-* [Minimal-font-generator](https://github.com/Pomax/Minimal-font-generator) Font's Hello world 
+* [Minimal-font-generator](https://github.com/Pomax/Minimal-font-generator) Font's Hello world
 * [simple-cff-builder](https://github.com/Pomax/simple-cff-builder) A simple CFF builder for testing fonts with different Type2 charstrings.
 * [ttf2woff](https://github.com/fontello/ttf2woff) Font convertor, TTF to WOFF, for node.js
 * [ttf2eot](https://github.com/fontello/ttf2eot) Font convertor, TTF to EOT, for node.js
 * [cubic2quad](https://github.com/fontello/cubic2quad) Aproximates cubic bezier curves with quadratic ones.
 * [SVG font creator](https://github.com/fontello/svg-font-create) Create SVG font from separate images
-* [node-sfnt](https://github.com/be5invis/node-sfnt) SFNT parser and generator for Nodejs. 
+* [node-sfnt](https://github.com/be5invis/node-sfnt) SFNT parser and generator for Nodejs.
 * [node-unicode-data](https://github.com/mathiasbynens/node-unicode-data) JavaScript-compatible Unicode data generator.
 * [fontwr](https://github.com/raphaklaus/fontwr) A font manager for web projects
 * [Open Type playground](https://github.com/magalhini/open-type-playground) A playground for Open Type experiments with CSS.
@@ -42,17 +44,14 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [glyphNameFormatter](https://github.com/LettError/glyphNameFormatter) Generate list of glyphnames from unicode names.
 * [woffTools](https://github.com/typesupply/woffTools) A library for working with WOFF files.
 
-
 ### C
 * [otfcc](https://github.com/caryll/otfcc) Parses & writes SFNT structures.
 * [AFDKO](https://github.com/adobe-type-tools/afdko) Adobe Font Development Kit for OpenType. See [AFDKO Overview](https://www.adobe.com/devnet/opentype/afdko/topic_overview.html)
-
 
 ### C++
 * [font to svg](https://github.com/donbright/font_to_svg) Render characters from font files into an SVG path
 * [LCDF Typetools](https://github.com/kohler/lcdf-typetools) Utilities for manipulating OpenType, PostScript Type 1, and Multiple Master fonts.
 * [HarfBuzz](https://github.com/googlei18n/harfbuzz) HarfBuzz OpenType text shaping engine
-
 
 ### Java
 * [sfntly](https://github.com/googlei18n/sfntly) A Library for Using, Editing, and Creating SFNT-based Fonts
@@ -68,6 +67,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [ufoNormalizer](https://github.com/unified-font-object/ufoNormalizer) A tool that will normalize the XML and other data inside of a UFO.
 * [ufo2ft](https://github.com/googlei18n/ufo2ft) UFO to FontTools
 
+
 ## Tools with GUI
 
 ### Free
@@ -75,12 +75,14 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [TruFont](https://github.com/trufont/trufont) A ufo3 font editor. À l’ancienne.
 * [fontTools](https://github.com/behdad/fonttools) A library for manipulating fonts, written in Python.
 * [Metapolator](https://github.com/metapolator) Web-based GUI for creating UFO and Metafont fonts.
+* [Birdfont](https://github.com/johanmattssonm/birdfont) A font editor which can generate fonts in TTF, EOT, SVG and BF format.
 
 ### Non-Free
 * [Robofont](http://doc.robofont.com) UFO based, mac only, font editor.
 * [Glyphs](https://glyphsapp.com) Font editor (Mac)
 * [Prototypo](https://www.prototypo.io) Web based font generator with a parametric approach.
 * [Fontself](https://www.fontself.com) Adobe Illustrator extension for creating font with Drag&Drop, borned on Kickstarter.
+* [FontLab Studio](http://old.fontlab.com/font-editor/fontlab-studio/) Font editor for font professionals. Version 5 for Mac and Windows.
 
 
 ## Font Validator
@@ -101,10 +103,11 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Typomanie.fr Ressources](http://typomanie.fr/ressources/)
 * [Drawing good paths Tutorial](https://glyphsapp.com/tutorials/drawing-good-paths) Badly drawn outlines can cause headache. Your letters may look mangled or not appear at all. You can avoid these difficulties if you keep a few basic rules in mind.
 
+
 ## Fonts
 * [Nanofont](https://github.com/bramstein/nanofont) A nano font for testing font format support (TrueType, WOFF, WOFF2).
 * [FiraSystemFontReplacement](https://github.com/jenskutilek/FiraSystemFontReplacement) Modified version of the Fira Sans fonts to replace the default system font on Mac OS X 10.10 and 10.11
-* [SansBullshitSans Font](https://github.com/RoelN/SansBullshitSans) Every buzzword will be replaced by a Comic Sans-styled censorship bar. 
+* [SansBullshitSans Font](https://github.com/RoelN/SansBullshitSans) Every buzzword will be replaced by a Comic Sans-styled censorship bar.
 * [AIFont](https://github.com/Denly/AIFont) The fist Chinese font that generated artificial intelligent.
 * [Noto Fonts](https://github.com/googlei18n/noto-fonts) Noto’s goal is to provide a beautiful reading experience for all languages.
 * [EmojiOne Color Font](https://github.com/eosrei/emojione-color-font) ⚛ A color emoji SVGinOT font using EmojiOne Unicode 9.0 graphics with diversity and country flags. Linux, OS X, & Windows.
@@ -113,13 +116,14 @@ For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 * [Bixa Color](https://bixacolor.com) Building Bixa Color, a color font for the web [pixelambacht.nl/2016/building-bixa-color/](https://pixelambacht.nl/2016/building-bixa-color/)
 * [fontwr-fonts](https://github.com/raphaklaus/fontwr-fonts) Fonts repository for fontwr
 
+
 ## TrueType
 * [Truetype font software](http://luc.devroye.org/ttsoftware-index.html) List (Big!) with descriptions [here](http://luc.devroye.org/ttsoftware.html)
 
-## Contribute?
 
-➡️Pull request! (Or open an issue [here](https://github.com/Jolg42/awesome-typography/issues/new))  
+## Contribute?
+➡️Pull request! (Or open an issue [here](https://github.com/Jolg42/awesome-typography/issues/new))
+
 
 ## License
-
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
