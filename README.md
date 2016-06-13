@@ -47,6 +47,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 ### C
 * [otfcc](https://github.com/caryll/otfcc) Parses & writes SFNT structures.
 * [AFDKO](https://github.com/adobe-type-tools/afdko) Adobe Font Development Kit for OpenType. See [AFDKO Overview](https://www.adobe.com/devnet/opentype/afdko/topic_overview.html)
+* [stb_truetype](https://github.com/nothings/stb/) Parse, decode, and rasterize characters for TrueType fonts. Single header file.
 
 ### C++
 * [font to svg](https://github.com/donbright/font_to_svg) Render characters from font files into an SVG path
