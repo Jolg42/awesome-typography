@@ -15,7 +15,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [OpenType: let's learn how modern fonts actually work](https://pomax.github.io/#gh-weblog-1449777175633)
 
 ### Javascript
-* [Opentype.js](https://github.com/nodebox/opentype.js) Read and write OpenType fonts
+* [OpenType.js](https://github.com/nodebox/opentype.js) Read and write OpenType fonts
 * [font](https://github.com/Benvie/font) Parse otf/ttf file format directory from buffers for metadata
 * [Minimal-font-generator](https://github.com/Pomax/Minimal-font-generator) Font's Hello world
 * [simple-cff-builder](https://github.com/Pomax/simple-cff-builder) A simple CFF builder for testing fonts with different Type2 charstrings.
