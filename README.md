@@ -13,6 +13,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 
 ## OpenType
 * [OpenType: let's learn how modern fonts actually work](https://pomax.github.io/#gh-weblog-1449777175633)
+* [The OpenType Cookbook](http://opentypecookbook.com) (Unofficial)
 
 ### Javascript
 * [OpenType.js](https://github.com/nodebox/opentype.js) Read and write OpenType fonts
@@ -32,6 +33,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Web Font Loader](https://github.com/typekit/webfontloader) Web Font Loader gives you added control when using linked fonts via @font-face.
 * [localFont](https://github.com/jaicab/localFont) Implement localStorage web font caching in seconds https://jaicab.com/localFont/
 * [Fontello](https://github.com/fontello/fontello) This tool lets you combine icon webfonts for your own project. http://fontello.com
+* [GitHub Font Preview](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-font-preview) Adds a preview for fonts & glyphs on GitHub with opentype.js.
 
 ### Python
 * [fontmake](https://github.com/googlei18n/fontmake) Compile fonts from sources (UFO, Glyphs) to binary (OpenType, TrueType).
@@ -43,6 +45,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Font Bakery](https://github.com/googlefonts/fontbakery) Tools to prepare font families for inclusion in github.com/google/fonts
 * [glyphNameFormatter](https://github.com/LettError/glyphNameFormatter) Generate list of glyphnames from unicode names.
 * [woffTools](https://github.com/typesupply/woffTools) A library for working with WOFF files.
+* [pyftfeatfreeze](https://github.com/twardoch/fonttools-utils/tree/master/pyftfeatfreeze) With pyftfeatfreeze, you can “freeze” some OpenType features into a font.
 
 ### C
 * [otfcc](https://github.com/caryll/otfcc) Parses & writes SFNT structures.
@@ -77,6 +80,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [fontTools](https://github.com/behdad/fonttools) A library for manipulating fonts, written in Python.
 * [Metapolator](https://github.com/metapolator) Web-based GUI for creating UFO and Metafont fonts.
 * [Birdfont](https://github.com/johanmattssonm/birdfont) A font editor which can generate fonts in TTF, EOT, SVG and BF format.
+* [Glyphr Studio](https://twitter.com/glyphrstudio) A free, web-based font editor, focusing on font design hobbyists.
 
 ### Non-Free
 * [Robofont](http://doc.robofont.com) UFO based, mac only, font editor.
@@ -103,6 +107,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Alfred Special Characters](https://github.com/typefacts/alfred-special-characters) Typefacts Special Characters Workflow for Alfred 3
 * [Typomanie.fr Ressources](http://typomanie.fr/ressources/)
 * [Drawing good paths Tutorial](https://glyphsapp.com/tutorials/drawing-good-paths) Badly drawn outlines can cause headache. Your letters may look mangled or not appear at all. You can avoid these difficulties if you keep a few basic rules in mind.
+* [Deep Into OpenType Features](http://blog.ricardofilipe.com/post/deep-into-opentype-features) What are OpenType features?
 
 
 ## Fonts
@@ -116,6 +121,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 * [Bixa Color](https://bixacolor.com) Building Bixa Color, a color font for the web [pixelambacht.nl/2016/building-bixa-color/](https://pixelambacht.nl/2016/building-bixa-color/)
 * [fontwr-fonts](https://github.com/raphaklaus/fontwr-fonts) Fonts repository for fontwr
+* [Bungee](https://github.com/djrrb/Bungee) A chromatic signage typeface for vertical and horizontal setting. https://djr.com/bungee
 
 
 ## TrueType
