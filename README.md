@@ -16,8 +16,11 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [The OpenType Cookbook](http://opentypecookbook.com) (Unofficial)
 
 ### Javascript
+
 * [OpenType.js](https://github.com/nodebox/opentype.js) Read and write OpenType fonts
+* [opentype-layout](https://github.com/Jam3/opentype-layout) Experimental word-wrapping and layout for Opentype.js https://jam3.github.io/opentype-layout/
 * [font](https://github.com/Benvie/font) Parse otf/ttf file format directory from buffers for metadata
+* [fontkit](https://github.com/devongovett/fontkit) An advanced font engine for Node and the browser
 * [Minimal-font-generator](https://github.com/Pomax/Minimal-font-generator) Font's Hello world
 * [simple-cff-builder](https://github.com/Pomax/simple-cff-builder) A simple CFF builder for testing fonts with different Type2 charstrings.
 * [ttf2woff](https://github.com/fontello/ttf2woff) Font convertor, TTF to WOFF, for node.js
@@ -121,7 +124,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 * [Bixa Color](https://bixacolor.com) Building Bixa Color, a color font for the web [pixelambacht.nl/2016/building-bixa-color/](https://pixelambacht.nl/2016/building-bixa-color/)
 * [fontwr-fonts](https://github.com/raphaklaus/fontwr-fonts) Fonts repository for fontwr
-* [Bungee](https://github.com/djrrb/Bungee) A chromatic signage typeface for vertical and horizontal setting. https://djr.com/bungee
+* [Bungee](https://github.com/djrrb/Bungee/) A chromatic signage typeface for vertical and horizontal setting. https://djr.com/bungee
 
 
 ## TrueType
