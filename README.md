@@ -19,6 +19,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 
 * [OpenType.js](https://github.com/nodebox/opentype.js) Read and write OpenType fonts
 * [opentype-layout](https://github.com/Jam3/opentype-layout) Experimental word-wrapping and layout for Opentype.js https://jam3.github.io/opentype-layout/
+* [CharacterMap](https://github.com/bluejamesbond/CharacterMap) Online Character Map / Glyph / Icon / Font Viewer https://bluejamesbond.github.io/CharacterMap
 * [font](https://github.com/Benvie/font) Parse otf/ttf file format directory from buffers for metadata
 * [fontkit](https://github.com/devongovett/fontkit) An advanced font engine for Node and the browser
 * [Minimal-font-generator](https://github.com/Pomax/Minimal-font-generator) Font's Hello world
@@ -124,7 +125,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 * [Bixa Color](https://bixacolor.com) Building Bixa Color, a color font for the web [pixelambacht.nl/2016/building-bixa-color/](https://pixelambacht.nl/2016/building-bixa-color/)
 * [fontwr-fonts](https://github.com/raphaklaus/fontwr-fonts) Fonts repository for fontwr
-* [Bungee](https://github.com/djrrb/Bungee/) A chromatic signage typeface for vertical and horizontal setting. https://djr.com/bungee
+* [Bungee](https://github.com/djrrb/Bungee/) A chromatic signage typeface for vertical and horizontal setting. https://djr.com/bungee/
 
 
 ## TrueType
@@ -136,4 +137,4 @@ For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 
 
 ## License
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
