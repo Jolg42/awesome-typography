@@ -19,7 +19,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 
 * [OpenType.js](https://github.com/nodebox/opentype.js) Read and write OpenType fonts
 * [opentype-layout](https://github.com/Jam3/opentype-layout) Experimental word-wrapping and layout for Opentype.js https://jam3.github.io/opentype-layout/
-* [CharacterMap](https://github.com/bluejamesbond/CharacterMap) Online Character Map / Glyph / Icon / Font Viewer https://bluejamesbond.github.io/CharacterMap
+* [CharacterMap](https://github.com/bluejamesbond/CharacterMap/) Online Character Map / Glyph / Icon / Font Viewer https://bluejamesbond.github.io/CharacterMap
 * [font](https://github.com/Benvie/font) Parse otf/ttf file format directory from buffers for metadata
 * [fontkit](https://github.com/devongovett/fontkit) An advanced font engine for Node and the browser
 * [Minimal-font-generator](https://github.com/Pomax/Minimal-font-generator) Font's Hello world
@@ -112,6 +112,9 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Typomanie.fr Ressources](http://typomanie.fr/ressources/)
 * [Drawing good paths Tutorial](https://glyphsapp.com/tutorials/drawing-good-paths) Badly drawn outlines can cause headache. Your letters may look mangled or not appear at all. You can avoid these difficulties if you keep a few basic rules in mind.
 * [Deep Into OpenType Features](http://blog.ricardofilipe.com/post/deep-into-opentype-features) What are OpenType features?
+* [The A-Z of typographic terms](http://www.fontsmith.com/blog/2016/06/29/the-a-z-of-typographic-terms) Typography terms in images.
+* [Emoj](https://github.com/sindresorhus/emoj) Find relevant emoji from text on the command-line 😮 ✨ 🙌 🐴 💥 🙈
+* [Emoji Wrap Monthly Newsletter](http://emojiwrap.com/) A bite-sized summary of what's happening in the world of emoji and Unicode.
 
 
 ## Fonts
@@ -126,6 +129,7 @@ For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 * [Bixa Color](https://bixacolor.com) Building Bixa Color, a color font for the web [pixelambacht.nl/2016/building-bixa-color/](https://pixelambacht.nl/2016/building-bixa-color/)
 * [fontwr-fonts](https://github.com/raphaklaus/fontwr-fonts) Fonts repository for fontwr
 * [Bungee](https://github.com/djrrb/Bungee/) A chromatic signage typeface for vertical and horizontal setting. https://djr.com/bungee/
+* [Aerial Bold](http://type.aerial-bold.com/tw/) Aerial Bold is the first map and typeface of the earth.
 
 
 ## TrueType
