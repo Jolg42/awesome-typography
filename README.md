@@ -19,7 +19,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 
 * [OpenType.js](https://github.com/nodebox/opentype.js) Read and write OpenType fonts
 * [opentype-layout](https://github.com/Jam3/opentype-layout) Experimental word-wrapping and layout for Opentype.js https://jam3.github.io/opentype-layout/
-* [CharacterMap](https://github.com/bluejamesbond/CharacterMap/) Online Character Map / Glyph / Icon / Font Viewer https://bluejamesbond.github.io/CharacterMap
+* [CharacterMap](https://github.com/bluejamesbond/CharacterMap/) Online Character Map / Glyph / Icon / Font Viewer https://bluejamesbond.github.io/CharacterMap/
 * [font](https://github.com/Benvie/font) Parse otf/ttf file format directory from buffers for metadata
 * [fontkit](https://github.com/devongovett/fontkit) An advanced font engine for Node and the browser
 * [Minimal-font-generator](https://github.com/Pomax/Minimal-font-generator) Font's Hello world
@@ -50,11 +50,13 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [glyphNameFormatter](https://github.com/LettError/glyphNameFormatter) Generate list of glyphnames from unicode names.
 * [woffTools](https://github.com/typesupply/woffTools) A library for working with WOFF files.
 * [pyftfeatfreeze](https://github.com/twardoch/fonttools-utils/tree/master/pyftfeatfreeze) With pyftfeatfreeze, you can “freeze” some OpenType features into a font.
+* [RoboFab](https://github.com/robofab-developers/robofab) RoboFab http://robofab.org
 
 ### C
 * [otfcc](https://github.com/caryll/otfcc) Parses & writes SFNT structures.
 * [AFDKO](https://github.com/adobe-type-tools/afdko) Adobe Font Development Kit for OpenType. See [AFDKO Overview](https://www.adobe.com/devnet/opentype/afdko/topic_overview.html)
 * [stb_truetype](https://github.com/nothings/stb/) Parse, decode, and rasterize characters for TrueType fonts. Single header file.
+* [FreeType](https://www.freetype.org/) Freely available software library to render fonts.
 
 ### C++
 * [font to svg](https://github.com/donbright/font_to_svg) Render characters from font files into an SVG path
@@ -63,6 +65,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 
 ### Java
 * [sfntly](https://github.com/googlei18n/sfntly) A Library for Using, Editing, and Creating SFNT-based Fonts
+* [Emoji-Tools](https://github.com/MitchTalmadge/Emoji-Tools) Multiple useful tools to help Android and iOS/OSX developers with creating and modifying Emoji Font files.
 
 ### Ruby
 * [emoji-extractor](https://github.com/tmm1/emoji-extractor) Extracts high-resolution emoji pngs from Apple Color Emoji.ttf
@@ -74,6 +77,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [ufoLib](https://github.com/unified-font-object/ufoLib) A low-level UFO reader and writer.
 * [ufoNormalizer](https://github.com/unified-font-object/ufoNormalizer) A tool that will normalize the XML and other data inside of a UFO.
 * [ufo2ft](https://github.com/googlei18n/ufo2ft) UFO to FontTools
+* [ufoJS](https://github.com/graphicore/ufoJS) Javascript API for the Unified Font Object http://lib.ufojs.org
 
 
 ## Tools with GUI
@@ -85,6 +89,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Metapolator](https://github.com/metapolator) Web-based GUI for creating UFO and Metafont fonts.
 * [Birdfont](https://github.com/johanmattssonm/birdfont) A font editor which can generate fonts in TTF, EOT, SVG and BF format.
 * [Glyphr Studio](https://twitter.com/glyphrstudio) A free, web-based font editor, focusing on font design hobbyists.
+* [DTL OTMaster Light](http://www.fontmaster.nl/) In the Light editions of dtl OTMaster only the saving of files is disabled. Checking fonts and exporting OpenType Layout features ﬁles, be and ik formats, and Character Layout (.cha) ﬁles is possible though. 
 
 ### Non-Free
 * [Robofont](http://doc.robofont.com) UFO based, mac only, font editor.
@@ -92,6 +97,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Prototypo](https://www.prototypo.io) Web based font generator with a parametric approach.
 * [Fontself](https://www.fontself.com) Adobe Illustrator extension for creating font with Drag&Drop, borned on Kickstarter.
 * [FontLab Studio](http://old.fontlab.com/font-editor/fontlab-studio/) Font editor for font professionals. Version 5 for Mac and Windows.
+* [DTL OTMaster](http://www.fontmaster.nl/) DTL OTMaster (OTM), is a highly sophisticated application for reviewing, editing and altering tables and contours of fonts with a snft ﬁle structure, as there are CFF and TTF flavored OpenType fonts, TrueType fonts and TrueType Collection fonts.
 
 
 ## Font Validator
@@ -115,6 +121,9 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [The A-Z of typographic terms](http://www.fontsmith.com/blog/2016/06/29/the-a-z-of-typographic-terms) Typography terms in images.
 * [Emoj](https://github.com/sindresorhus/emoj) Find relevant emoji from text on the command-line 😮 ✨ 🙌 🐴 💥 🙈
 * [Emoji Wrap Monthly Newsletter](http://emojiwrap.com/) A bite-sized summary of what's happening in the world of emoji and Unicode.
+* [FSBP](http://silnrsi.github.io/FDBP) Font Development Best Practice documentation
+* [UnicodeChecker](http://earthlingsoft.net/UnicodeChecker/) Explore and convert Unicode 
+* [unicodes](https://github.com/jessetane/unicodes) Browse all of the unicodes http://unicodes.jessetane.com/
 
 
 ## Fonts
