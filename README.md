@@ -89,7 +89,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Metapolator](https://github.com/metapolator) Web-based GUI for creating UFO and Metafont fonts.
 * [Birdfont](https://github.com/johanmattssonm/birdfont) A font editor which can generate fonts in TTF, EOT, SVG and BF format.
 * [Glyphr Studio](https://twitter.com/glyphrstudio) A free, web-based font editor, focusing on font design hobbyists.
-* [DTL OTMaster Light](http://www.fontmaster.nl/) In the Light editions of dtl OTMaster only the saving of files is disabled. Checking fonts and exporting OpenType Layout features ﬁles, be and ik formats, and Character Layout (.cha) ﬁles is possible though. 
+* [DTL OTMaster Light](http://www.fontmaster.nl/#) In the Light editions of dtl OTMaster only the saving of files is disabled. Checking fonts and exporting OpenType Layout features ﬁles, be and ik formats, and Character Layout (.cha) ﬁles is possible though. 
 
 ### Non-Free
 * [Robofont](http://doc.robofont.com) UFO based, mac only, font editor.
@@ -97,7 +97,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Prototypo](https://www.prototypo.io) Web based font generator with a parametric approach.
 * [Fontself](https://www.fontself.com) Adobe Illustrator extension for creating font with Drag&Drop, borned on Kickstarter.
 * [FontLab Studio](http://old.fontlab.com/font-editor/fontlab-studio/) Font editor for font professionals. Version 5 for Mac and Windows.
-* [DTL OTMaster](http://www.fontmaster.nl/) DTL OTMaster (OTM), is a highly sophisticated application for reviewing, editing and altering tables and contours of fonts with a snft ﬁle structure, as there are CFF and TTF flavored OpenType fonts, TrueType fonts and TrueType Collection fonts.
+* [DTL OTMaster](http://www.fontmaster.nl) DTL OTMaster (OTM), is a highly sophisticated application for reviewing, editing and altering tables and contours of fonts with a snft ﬁle structure, as there are CFF and TTF flavored OpenType fonts, TrueType fonts and TrueType Collection fonts.
 
 
 ## Font Validator
@@ -121,7 +121,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [The A-Z of typographic terms](http://www.fontsmith.com/blog/2016/06/29/the-a-z-of-typographic-terms) Typography terms in images.
 * [Emoj](https://github.com/sindresorhus/emoj) Find relevant emoji from text on the command-line 😮 ✨ 🙌 🐴 💥 🙈
 * [Emoji Wrap Monthly Newsletter](http://emojiwrap.com/) A bite-sized summary of what's happening in the world of emoji and Unicode.
-* [FSBP](http://silnrsi.github.io/FDBP) Font Development Best Practice documentation
+* [FDBP](http://silnrsi.github.io/FDBP/) Font Development Best Practice documentation
 * [UnicodeChecker](http://earthlingsoft.net/UnicodeChecker/) Explore and convert Unicode 
 * [unicodes](https://github.com/jessetane/unicodes) Browse all of the unicodes http://unicodes.jessetane.com/
 
