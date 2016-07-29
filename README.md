@@ -40,6 +40,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [GitHub Font Preview](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-font-preview) Adds a preview for fonts & glyphs on GitHub with opentype.js.
 
 ### Python
+* [fontTools](https://github.com/behdad/fonttools) A library for manipulating fonts, written in Python.
 * [fontmake](https://github.com/googlei18n/fontmake) Compile fonts from sources (UFO, Glyphs) to binary (OpenType, TrueType).
 * [FontReport](https://github.com/googlei18n/fontreport) Tool to create PDF files containing glyph images and information about a font.
 * [fontdiff](https://github.com/googlei18n/fontdiff) A tool for finding visual differences between two font versions
@@ -85,7 +86,6 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 ### Free
 * [FontForge](https://github.com/fontforge/fontforge) Free (libre) font editor for Windows, Mac OS X and GNU+Linux
 * [TruFont](https://github.com/trufont/trufont) A ufo3 font editor. À l’ancienne.
-* [fontTools](https://github.com/behdad/fonttools) A library for manipulating fonts, written in Python.
 * [Metapolator](https://github.com/metapolator) Web-based GUI for creating UFO and Metafont fonts.
 * [Birdfont](https://github.com/johanmattssonm/birdfont) A font editor which can generate fonts in TTF, EOT, SVG and BF format.
 * [Glyphr Studio](https://twitter.com/glyphrstudio) A free, web-based font editor, focusing on font design hobbyists.
