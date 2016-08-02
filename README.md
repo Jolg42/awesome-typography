@@ -13,7 +13,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 
 ## OpenType
 * [OpenType: let's learn how modern fonts actually work](https://pomax.github.io/#gh-weblog-1449777175633)
-* [The OpenType Cookbook](http://opentypecookbook.com) (Unofficial)
+* [The OpenType Cookbook](http://opentypecookbook.com) An introduction to OpenType features for type designers. [(Source)](https://github.com/typesupply/opentype-feature-intro)
 
 ### Javascript
 
@@ -38,6 +38,9 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [localFont](https://github.com/jaicab/localFont) Implement localStorage web font caching in seconds https://jaicab.com/localFont/
 * [Fontello](https://github.com/fontello/fontello) This tool lets you combine icon webfonts for your own project. http://fontello.com
 * [GitHub Font Preview](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-font-preview) Adds a preview for fonts & glyphs on GitHub with opentype.js.
+* [unidata](https://github.com/chbrown/unidata) Unicode Character Database for JavaScript
+* [UCD](https://github.com/ynakajima/ucd) Unicode Character Database for JavaScript  
+* [Character Set Inspector](https://github.com/graphicore/charset-inspector) Unicode Character Database for JavaScript
 
 ### Python
 * [fontTools](https://github.com/behdad/fonttools) A library for manipulating fonts, written in Python.
@@ -52,6 +55,9 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [woffTools](https://github.com/typesupply/woffTools) A library for working with WOFF files.
 * [pyftfeatfreeze](https://github.com/twardoch/fonttools-utils/tree/master/pyftfeatfreeze) With pyftfeatfreeze, you can “freeze” some OpenType features into a font.
 * [RoboFab](https://github.com/robofab-developers/robofab) RoboFab http://robofab.org
+* [unicode-properties](https://github.com/devongovett/unicode-properties) Provides fast access to unicode character properties 
+* [pyfontaine](https://github.com/davelab6/pyfontaine) Python tool to check font files for language/character set support
+* [Glyph Nanny](https://github.com/typesupply/glyph-nanny) A live report about potential drawing issues in your glyph.
 
 ### C
 * [otfcc](https://github.com/caryll/otfcc) Parses & writes SFNT structures.
@@ -125,6 +131,12 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [UnicodeChecker](http://earthlingsoft.net/UnicodeChecker/) Explore and convert Unicode 
 * [unicodes](https://github.com/jessetane/unicodes) Browse all of the unicodes http://unicodes.jessetane.com/
 * [Method of Action](http://method.ac/) Method of Action is a collection of tools, games and articles to help you learn design.
+* [Encodings and character sets for Programmers](http://kunststube.net/encoding/) What every programmer absolutely, positively needs to know about encodings and character sets to work with text
+* [Kernall](https://github.com/n8willis/kernall) Kerning and letterspacing research
+* [Type Facet](https://github.com/charlesmchen/typefacet) A collection of Python scripts for working with fonts. See [TypeFacet Autokern](http://charlesmchen.github.io/typefacet/topics/autokern/index.html)
+* [OpenType feature reference](https://github.com/opensource-opentype/features) Documentation and other info about advanced font features
+https://github.com/typesupply/opentype-feature-intro
+* [Typography Supply](http://typography.supply/) An inventory of typographic tools.
 
 ## Fonts
 * [Nanofont](https://github.com/bramstein/nanofont) A nano font for testing font format support (TrueType, WOFF, WOFF2).
