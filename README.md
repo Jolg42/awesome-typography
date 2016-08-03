@@ -129,14 +129,15 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Emoji Wrap Monthly Newsletter](http://emojiwrap.com/) A bite-sized summary of what's happening in the world of emoji and Unicode.
 * [FDBP](http://silnrsi.github.io/FDBP/) Font Development Best Practice documentation
 * [UnicodeChecker](http://earthlingsoft.net/UnicodeChecker/) Explore and convert Unicode 
-* [unicodes](https://github.com/jessetane/unicodes) Browse all of the unicodes http://unicodes.jessetane.com/
+* [unicodes](https://github.com/jessetane/unicodes) Browse all of the unicodes https://unicodes.jessetane.com/
 * [Method of Action](http://method.ac/) Method of Action is a collection of tools, games and articles to help you learn design.
 * [Encodings and character sets for Programmers](http://kunststube.net/encoding/) What every programmer absolutely, positively needs to know about encodings and character sets to work with text
 * [Kernall](https://github.com/n8willis/kernall) Kerning and letterspacing research
 * [Type Facet](https://github.com/charlesmchen/typefacet) A collection of Python scripts for working with fonts. See [TypeFacet Autokern](http://charlesmchen.github.io/typefacet/topics/autokern/index.html)
 * [OpenType feature reference](https://github.com/opensource-opentype/features) Documentation and other info about advanced font features
-https://github.com/typesupply/opentype-feature-intro
 * [Typography Supply](http://typography.supply/) An inventory of typographic tools.
+* [OpenType Feature Bundle](https://github.com/brew/opentype-feature-bundle) Syntax highlighting and snippets for OpenType feature development in TextMate/Sublime Text
+* [Type Tools dotfiles](https://github.com/benkiel/dotfiles) Setup for type tools
 
 ## Fonts
 * [Nanofont](https://github.com/bramstein/nanofont) A nano font for testing font format support (TrueType, WOFF, WOFF2).
