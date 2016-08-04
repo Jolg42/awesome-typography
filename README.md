@@ -15,10 +15,10 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [OpenType: let's learn how modern fonts actually work](https://pomax.github.io/#gh-weblog-1449777175633)
 * [The OpenType Cookbook](http://opentypecookbook.com) An introduction to OpenType features for type designers. [(Source)](https://github.com/typesupply/opentype-feature-intro)
 
-### Javascript
+### JavaScript
 
 * [OpenType.js](https://github.com/nodebox/opentype.js) Read and write OpenType fonts
-* [opentype-layout](https://github.com/Jam3/opentype-layout) Experimental word-wrapping and layout for Opentype.js https://jam3.github.io/opentype-layout/
+* [opentype-layout](https://github.com/Jam3/opentype-layout) Experimental word-wrapping and layout for OpenType.js https://jam3.github.io/opentype-layout/
 * [CharacterMap](https://github.com/bluejamesbond/CharacterMap/) Online Character Map / Glyph / Icon / Font Viewer https://bluejamesbond.github.io/CharacterMap/
 * [font](https://github.com/Benvie/font) Parse otf/ttf file format directory from buffers for metadata
 * [fontkit](https://github.com/devongovett/fontkit) An advanced font engine for Node and the browser
@@ -37,10 +37,14 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Web Font Loader](https://github.com/typekit/webfontloader) Web Font Loader gives you added control when using linked fonts via @font-face.
 * [localFont](https://github.com/jaicab/localFont) Implement localStorage web font caching in seconds https://jaicab.com/localFont/
 * [Fontello](https://github.com/fontello/fontello) This tool lets you combine icon webfonts for your own project. http://fontello.com
-* [GitHub Font Preview](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-font-preview) Adds a preview for fonts & glyphs on GitHub with opentype.js.
+* [GitHub Font Preview](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-font-preview) Adds a preview for fonts & glyphs on GitHub with OpenType.js.
 * [unidata](https://github.com/chbrown/unidata) Unicode Character Database for JavaScript
 * [UCD](https://github.com/ynakajima/ucd) Unicode Character Database for JavaScript  
 * [Character Set Inspector](https://github.com/graphicore/charset-inspector) Unicode Character Database for JavaScript
+* [OpenType](https://github.com/bramstein/opentype) An OpenType font parser in JavaScript
+* [opentype-geometry](https://github.com/nascherman/opentype-geometry) Convert Text from OpenType font to three.js 3D
+* [Plumin.js](https://github.com/byte-foundry/plumin.js) Create and manipulate fonts in the browser. http://www.pluminjs.com
+* [Typr.js](https://github.com/photopea/Typr.js) Process fonts in JavaScript
 
 ### Python
 * [fontTools](https://github.com/behdad/fonttools) A library for manipulating fonts, written in Python.
@@ -58,6 +62,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [unicode-properties](https://github.com/devongovett/unicode-properties) Provides fast access to unicode character properties 
 * [pyfontaine](https://github.com/davelab6/pyfontaine) Python tool to check font files for language/character set support
 * [Glyph Nanny](https://github.com/typesupply/glyph-nanny) A live report about potential drawing issues in your glyph.
+* [Kernagic](https://github.com/hodefoting/kernagic) Semi-automatic font spacing tool
 
 ### C
 * [otfcc](https://github.com/caryll/otfcc) Parses & writes SFNT structures.
@@ -70,6 +75,9 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [LCDF Typetools](https://github.com/kohler/lcdf-typetools) Utilities for manipulating OpenType, PostScript Type 1, and Multiple Master fonts.
 * [HarfBuzz](https://github.com/googlei18n/harfbuzz) HarfBuzz OpenType text shaping engine
 
+### C#
+* [NRasterizer](https://github.com/vidstige/NRasterizer) Simple and clean TrueType font renderer written purely in c#
+
 ### Java
 * [sfntly](https://github.com/googlei18n/sfntly) A Library for Using, Editing, and Creating SFNT-based Fonts
 * [Emoji-Tools](https://github.com/MitchTalmadge/Emoji-Tools) Multiple useful tools to help Android and iOS/OSX developers with creating and modifying Emoji Font files.
@@ -78,13 +86,18 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [emoji-extractor](https://github.com/tmm1/emoji-extractor) Extracts high-resolution emoji pngs from Apple Color Emoji.ttf
 * [font](https://github.com/penman/font) A command-line font manager
 
+### Go
+* [font](https://github.com/ConradIrwin/font) Parsing OpenType fonts in Golang.
+
+### Rust
+* [OpenType](https://github.com/bodoni/opentype) Parser for OpenType fonts
 
 ## UFO [unifiedfontobject.org](http://unifiedfontobject.org)
 * [ufo-spec](https://github.com/unified-font-object/ufo-spec) The official Unified Font Object specification source files.
 * [ufoLib](https://github.com/unified-font-object/ufoLib) A low-level UFO reader and writer.
 * [ufoNormalizer](https://github.com/unified-font-object/ufoNormalizer) A tool that will normalize the XML and other data inside of a UFO.
 * [ufo2ft](https://github.com/googlei18n/ufo2ft) UFO to FontTools
-* [ufoJS](https://github.com/graphicore/ufoJS) Javascript API for the Unified Font Object http://lib.ufojs.org
+* [ufoJS](https://github.com/graphicore/ufoJS) JavaScript API for the Unified Font Object http://lib.ufojs.org
 
 
 ## Tools with GUI
@@ -104,6 +117,8 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Fontself](https://www.fontself.com) Adobe Illustrator extension for creating font with Drag&Drop, borned on Kickstarter.
 * [FontLab Studio](http://old.fontlab.com/font-editor/fontlab-studio/) Font editor for font professionals. Version 5 for Mac and Windows.
 * [DTL OTMaster](http://www.fontmaster.nl) DTL OTMaster (OTM), is a highly sophisticated application for reviewing, editing and altering tables and contours of fonts with a snft ﬁle structure, as there are CFF and TTF flavored OpenType fonts, TrueType fonts and TrueType Collection fonts.
+* [010 Editor](http://www.sweetscape.com/010editor/) Professional text and hex editing with Binary Templates technology. OpenType template http://pikensoft.com/programs/OpenTypeTemplate.bt
+* [Synalyze It!](https://www.synalysis.net) Reverse Engineering and Binary File Analysis made easy. OpenType template https://www.synalysis.net/Grammars/opentype.grammar
 
 
 ## Font Validator
