@@ -39,12 +39,13 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Fontello](https://github.com/fontello/fontello) This tool lets you combine icon webfonts for your own project. http://fontello.com
 * [GitHub Font Preview](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-font-preview) Adds a preview for fonts & glyphs on GitHub with OpenType.js.
 * [unidata](https://github.com/chbrown/unidata) Unicode Character Database for JavaScript
-* [UCD](https://github.com/ynakajima/ucd) Unicode Character Database for JavaScript  
+* [UCD](https://github.com/ynakajima/ucd) Unicode Character Database for JavaScript
 * [Character Set Inspector](https://github.com/graphicore/charset-inspector) Unicode Character Database for JavaScript
 * [OpenType](https://github.com/bramstein/opentype) An OpenType font parser in JavaScript
 * [opentype-geometry](https://github.com/nascherman/opentype-geometry) Convert Text from OpenType font to three.js 3D
 * [Plumin.js](https://github.com/byte-foundry/plumin.js) Create and manipulate fonts in the browser. http://www.pluminjs.com
 * [Typr.js](https://github.com/photopea/Typr.js) Process fonts in JavaScript
+* [fonteditor-core](https://github.com/kekee000/fonteditor-core) Read, write, transform fonts in JavaScript.
 
 ### Python
 * [fontTools](https://github.com/behdad/fonttools) A library for manipulating fonts, written in Python.
@@ -108,7 +109,8 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Metapolator](https://github.com/metapolator) Web-based GUI for creating UFO and Metafont fonts.
 * [Birdfont](https://github.com/johanmattssonm/birdfont) A font editor which can generate fonts in TTF, EOT, SVG and BF format.
 * [Glyphr Studio](https://twitter.com/glyphrstudio) A free, web-based font editor, focusing on font design hobbyists.
-* [DTL OTMaster Light](http://www.fontmaster.nl/#) In the Light editions of dtl OTMaster only the saving of files is disabled. Checking fonts and exporting OpenType Layout features ﬁles, be and ik formats, and Character Layout (.cha) ﬁles is possible though. 
+* [DTL OTMaster Light](http://www.fontmaster.nl/#) In the Light editions of dtl OTMaster only the saving of files is disabled. Checking fonts and exporting OpenType Layout features ﬁles, be and ik formats, and Character Layout (.cha) ﬁles is possible though.
+* [fonteditor](https://github.com/ecomfe/fonteditor) A web-based TTF font editor, live at [font.baidu.com](http://font.baidu.com/editor/index-en.html).
 
 ### Non-Free
 * [Robofont](http://doc.robofont.com) UFO based, mac only, font editor.
