@@ -46,6 +46,9 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Plumin.js](https://github.com/byte-foundry/plumin.js) Create and manipulate fonts in the browser. http://www.pluminjs.com
 * [Typr.js](https://github.com/photopea/Typr.js) Process fonts in JavaScript
 * [fonteditor-core](https://github.com/kekee000/fonteditor-core) Read, write, transform fonts in JavaScript.
+* [fontmin](https://github.com/ecomfe/fontmin) Minify font seamlessly http://ecomfe.github.io/fontmin
+* [fontfacegen](https://github.com/agentk/fontfacegen) Browser font-face generator for creating browser usable fonts from ttf's or otf's
+* [NType](https://github.com/kevinzweerink/ntype) 4D Type Extruder http://ntype.blue
 
 ### Python
 * [fontTools](https://github.com/behdad/fonttools) A library for manipulating fonts, written in Python.
@@ -64,17 +67,23 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [pyfontaine](https://github.com/davelab6/pyfontaine) Python tool to check font files for language/character set support
 * [Glyph Nanny](https://github.com/typesupply/glyph-nanny) A live report about potential drawing issues in your glyph.
 * [Kernagic](https://github.com/hodefoting/kernagic) Semi-automatic font spacing tool
+* [Huerta Tipográfica Letterspacer](https://github.com/huertatipografica/HTLetterspacer) HT Letterspacer is a tool for spacing fonts https://huertatipografica.github.io/HTLetterspacer/
+* [FontTest](https://github.com/brawer/fonttest) OpenType test suite
+* [OpenType-SVG Tools](https://github.com/adobe-type-tools/opentype-svg) Tools and sample files for making OpenType-SVG fonts
+* [boxDrawing.py](https://github.com/adobe-type-tools/box-drawing) Python script to draw all the box drawing characters and block elements based on parameters. http://adobe-type-tools.github.io/box-drawing/
 
 ### C
 * [otfcc](https://github.com/caryll/otfcc) Parses & writes SFNT structures.
 * [AFDKO](https://github.com/adobe-type-tools/afdko) Adobe Font Development Kit for OpenType. See [AFDKO Overview](https://www.adobe.com/devnet/opentype/afdko/topic_overview.html)
 * [stb_truetype](https://github.com/nothings/stb/) Parse, decode, and rasterize characters for TrueType fonts. Single header file.
 * [FreeType](https://www.freetype.org/) Freely available software library to render fonts.
+* [Raqm](https://github.com/HOST-Oman/libraqm) A library for complex text layout
 
 ### C++
 * [font to svg](https://github.com/donbright/font_to_svg) Render characters from font files into an SVG path
 * [LCDF Typetools](https://github.com/kohler/lcdf-typetools) Utilities for manipulating OpenType, PostScript Type 1, and Multiple Master fonts.
 * [HarfBuzz](https://github.com/googlei18n/harfbuzz) HarfBuzz OpenType text shaping engine
+* [FontView](https://github.com/googlei18n/fontview) Demo app that displays fonts with a free/libre/open-source text rendering stack: FreeType, HarfBuzz and Raqm
 
 ### C#
 * [NRasterizer](https://github.com/vidstige/NRasterizer) Simple and clean TrueType font renderer written purely in c#
@@ -92,6 +101,8 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 
 ### Rust
 * [OpenType](https://github.com/bodoni/opentype) Parser for OpenType fonts
+* [font-rs](https://github.com/google/font-rs) The fastest font renderer in the world.
+* [RustType](https://github.com/dylanede/rusttype) A pure Rust alternative to libraries like FreeType.
 
 ## UFO [unifiedfontobject.org](http://unifiedfontobject.org)
 * [ufo-spec](https://github.com/unified-font-object/ufo-spec) The official Unified Font Object specification source files.
@@ -116,7 +127,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Robofont](http://doc.robofont.com) UFO based, mac only, font editor.
 * [Glyphs](https://glyphsapp.com) Font editor (Mac)
 * [Prototypo](https://www.prototypo.io) Web based font generator with a parametric approach.
-* [Fontself](https://www.fontself.com) Adobe Illustrator extension for creating font with Drag&Drop, borned on Kickstarter.
+* [Fontself](https://www.fontself.com) Adobe Illustrator & Photoshop extensions for creating vector and bitmap fonts with Drag&Drop, born on Kickstarter.
 * [FontLab Studio](http://old.fontlab.com/font-editor/fontlab-studio/) Font editor for font professionals. Version 5 for Mac and Windows.
 * [DTL OTMaster](http://www.fontmaster.nl) DTL OTMaster (OTM), is a highly sophisticated application for reviewing, editing and altering tables and contours of fonts with a snft ﬁle structure, as there are CFF and TTF flavored OpenType fonts, TrueType fonts and TrueType Collection fonts.
 * [010 Editor](http://www.sweetscape.com/010editor/) Professional text and hex editing with Binary Templates technology. OpenType template http://pikensoft.com/programs/OpenTypeTemplate.bt
@@ -125,7 +136,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 
 ## Font Validator
 * [Font Validator](https://github.com/HinTak/Font-Validator) Font Validator is a tool for testing fonts prior to release. See [Install post for Mac](http://typedrawers.com/discussion/comment/16090/#Comment_16090)
-
+* [OpenType Sanitiser](https://github.com/khaledhosny/ots) The OpenType Sanitiser (OTS) parses and serialises OpenType files (OTF, TTF) and WOFF and WOFF2 font files, validating them and sanitising them as it goes.
 
 ## Others
 * [TypeDrawers](http://typedrawers.com) A discussion forum for professionals and enthusiasts in the fields of typeface design, lettering, and typography.
@@ -155,6 +166,11 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Typography Supply](http://typography.supply/) An inventory of typographic tools.
 * [OpenType Feature Bundle](https://github.com/brew/opentype-feature-bundle) Syntax highlighting and snippets for OpenType feature development in TextMate/Sublime Text
 * [Type Tools dotfiles](https://github.com/benkiel/dotfiles) Setup for type tools
+* [AGL & AGLFN](https://github.com/adobe-type-tools/agl-aglfn) AGL / AGLFN (Adobe Glyph List / For New Fonts) simply provides mappings from glyph names to Unicode scalar values. [See specification](https://github.com/adobe-type-tools/agl-specification)
+* [Hypher](https://github.com/bramstein/hypher) A fast and small JavaScript hyphenation engine.
+* [Hyphenator](https://github.com/mnater/Hyphenator) JavaScript that implements client-side hyphenation of HTML-Documents http://mnater.github.io/Hyphenator/
+* [The Terrible Secret of OpenType Glyph Substitution](http://ansuz.sooke.bc.ca/entry/131)
+* [Google Fonts Infos](https://github.com/thisarmy/fontsinfo) Extract info out of the Google Fonts archive. http://code.thisarmy.com/fontsinfo/
 
 ## Fonts
 * [Nanofont](https://github.com/bramstein/nanofont) A nano font for testing font format support (TrueType, WOFF, WOFF2).
@@ -169,10 +185,15 @@ For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 * [fontwr-fonts](https://github.com/raphaklaus/fontwr-fonts) Fonts repository for fontwr
 * [Bungee](https://github.com/djrrb/Bungee/) A chromatic signage typeface for vertical and horizontal setting. https://djr.com/bungee/
 * [Aerial Bold](http://type.aerial-bold.com/tw/) Aerial Bold is the first map and typeface of the earth.
-
+* [wavefont](https://github.com/audio-lab/wavefont) A typeface for rendering data: waveforms, spectrums, diagrams, bars etc.
 
 ## TrueType
 * [Truetype font software](http://luc.devroye.org/ttsoftware-index.html) List (Big!) with descriptions [here](http://luc.devroye.org/ttsoftware.html)
+
+
+## Books
+* [Fonts & Encodings](http://shop.oreilly.com/product/9780596102425.do) From Advanced Typography to Unicode and Everything in Between [Google Books Preview](https://books.google.fr/books?id=qrElYgVLDwYC&printsec=frontcover#v=onepage&q&f=false)
+* [Unicode Explained](http://shop.oreilly.com/product/9780596101213.do) There are hundreds of different encoding systems for mapping characters to numbers, but Unicode promises a single mapping. [Google Books Preview](https://books.google.fr/books?id=lxndiWaFMvMC&printsec=frontcover#v=onepage&q&f=false)
 
 
 ## Contribute?
