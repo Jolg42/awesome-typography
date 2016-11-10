@@ -46,12 +46,12 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Plumin.js](https://github.com/byte-foundry/plumin.js) Create and manipulate fonts in the browser. http://www.pluminjs.com
 * [Typr.js](https://github.com/photopea/Typr.js) Process fonts in JavaScript
 * [fonteditor-core](https://github.com/kekee000/fonteditor-core) Read, write, transform fonts in JavaScript.
-* [fontmin](https://github.com/ecomfe/fontmin) Minify font seamlessly http://ecomfe.github.io/fontmin
+* [fontmin](https://github.com/ecomfe/fontmin) Minify font seamlessly https://ecomfe.github.io/fontmin/
 * [fontfacegen](https://github.com/agentk/fontfacegen) Browser font-face generator for creating browser usable fonts from ttf's or otf's
 * [NType](https://github.com/kevinzweerink/ntype) 4D Type Extruder http://ntype.blue
 
 ### Python
-* [fontTools](https://github.com/behdad/fonttools) A library for manipulating fonts, written in Python.
+* [fontTools](https://github.com/fonttools/fonttools) A library for manipulating fonts, written in Python.
 * [fontmake](https://github.com/googlei18n/fontmake) Compile fonts from sources (UFO, Glyphs) to binary (OpenType, TrueType).
 * [FontReport](https://github.com/googlei18n/fontreport) Tool to create PDF files containing glyph images and information about a font.
 * [fontdiff](https://github.com/googlei18n/fontdiff) A tool for finding visual differences between two font versions
@@ -68,7 +68,6 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Glyph Nanny](https://github.com/typesupply/glyph-nanny) A live report about potential drawing issues in your glyph.
 * [Kernagic](https://github.com/hodefoting/kernagic) Semi-automatic font spacing tool
 * [Huerta Tipográfica Letterspacer](https://github.com/huertatipografica/HTLetterspacer) HT Letterspacer is a tool for spacing fonts https://huertatipografica.github.io/HTLetterspacer/
-* [FontTest](https://github.com/brawer/fonttest) OpenType test suite
 * [OpenType-SVG Tools](https://github.com/adobe-type-tools/opentype-svg) Tools and sample files for making OpenType-SVG fonts
 * [boxDrawing.py](https://github.com/adobe-type-tools/box-drawing) Python script to draw all the box drawing characters and block elements based on parameters. http://adobe-type-tools.github.io/box-drawing/
 
@@ -84,6 +83,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [LCDF Typetools](https://github.com/kohler/lcdf-typetools) Utilities for manipulating OpenType, PostScript Type 1, and Multiple Master fonts.
 * [HarfBuzz](https://github.com/googlei18n/harfbuzz) HarfBuzz OpenType text shaping engine
 * [FontView](https://github.com/googlei18n/fontview) Demo app that displays fonts with a free/libre/open-source text rendering stack: FreeType, HarfBuzz and Raqm
+* [Text rendering tests](https://github.com/unicode-org/text-rendering-tests) Test suite for text rendering
 
 ### C#
 * [NRasterizer](https://github.com/vidstige/NRasterizer) Simple and clean TrueType font renderer written purely in c#
@@ -94,7 +94,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 
 ### Ruby
 * [emoji-extractor](https://github.com/tmm1/emoji-extractor) Extracts high-resolution emoji pngs from Apple Color Emoji.ttf
-* [font](https://github.com/penman/font) A command-line font manager
+* [font](https://github.com/alyssais/font) A command-line font manager
 
 ### Go
 * [font](https://github.com/ConradIrwin/font) Parsing OpenType fonts in Golang.
@@ -128,7 +128,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Glyphs](https://glyphsapp.com) Font editor (Mac)
 * [Prototypo](https://www.prototypo.io) Web based font generator with a parametric approach.
 * [Fontself](https://www.fontself.com) Adobe Illustrator & Photoshop extensions for creating vector and bitmap fonts with Drag&Drop, born on Kickstarter.
-* [FontLab Studio](http://old.fontlab.com/font-editor/fontlab-studio/) Font editor for font professionals. Version 5 for Mac and Windows.
+* [FontLab Studio](http://www.fontlab.com/font-editor/fontlab-studio/) Font editor for font professionals. Version 5 for Mac and Windows.
 * [DTL OTMaster](http://www.fontmaster.nl) DTL OTMaster (OTM), is a highly sophisticated application for reviewing, editing and altering tables and contours of fonts with a snft ﬁle structure, as there are CFF and TTF flavored OpenType fonts, TrueType fonts and TrueType Collection fonts.
 * [010 Editor](http://www.sweetscape.com/010editor/) Professional text and hex editing with Binary Templates technology. OpenType template http://pikensoft.com/programs/OpenTypeTemplate.bt
 * [Synalyze It!](https://www.synalysis.net) Reverse Engineering and Binary File Analysis made easy. OpenType template https://www.synalysis.net/Grammars/opentype.grammar
@@ -157,7 +157,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Emoji Wrap Monthly Newsletter](http://emojiwrap.com/) A bite-sized summary of what's happening in the world of emoji and Unicode.
 * [FDBP](http://silnrsi.github.io/FDBP/) Font Development Best Practice documentation
 * [UnicodeChecker](http://earthlingsoft.net/UnicodeChecker/) Explore and convert Unicode 
-* [unicodes](https://github.com/jessetane/unicodes) Browse all of the unicodes https://unicodes.jessetane.com/
+* [unicodes](https://github.com/jessetane/unicodes) Browse all of the unicodes https://unicodes.smpc.io/
 * [Method of Action](http://method.ac/) Method of Action is a collection of tools, games and articles to help you learn design.
 * [Encodings and character sets for Programmers](http://kunststube.net/encoding/) What every programmer absolutely, positively needs to know about encodings and character sets to work with text
 * [Kernall](https://github.com/n8willis/kernall) Kerning and letterspacing research
@@ -186,6 +186,7 @@ For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 * [Bungee](https://github.com/djrrb/Bungee/) A chromatic signage typeface for vertical and horizontal setting. https://djr.com/bungee/
 * [Aerial Bold](http://type.aerial-bold.com/tw/) Aerial Bold is the first map and typeface of the earth.
 * [wavefont](https://github.com/audio-lab/wavefont) A typeface for rendering data: waveforms, spectrums, diagrams, bars etc.
+
 
 ## TrueType
 * [Truetype font software](http://luc.devroye.org/ttsoftware-index.html) List (Big!) with descriptions [here](http://luc.devroye.org/ttsoftware.html)
