@@ -16,7 +16,6 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [The OpenType Cookbook](http://opentypecookbook.com) An introduction to OpenType features for type designers. [(Source)](https://github.com/typesupply/opentype-feature-intro)
 
 ### JavaScript
-
 * [OpenType.js](https://github.com/nodebox/opentype.js) Read and write OpenType fonts
 * [opentype-layout](https://github.com/Jam3/opentype-layout) Experimental word-wrapping and layout for OpenType.js https://jam3.github.io/opentype-layout/
 * [CharacterMap](https://github.com/bluejamesbond/CharacterMap/) Online Character Map / Glyph / Icon / Font Viewer https://bluejamesbond.github.io/CharacterMap/
@@ -49,6 +48,14 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [fontmin](https://github.com/ecomfe/fontmin) Minify font seamlessly https://ecomfe.github.io/fontmin/
 * [fontfacegen](https://github.com/agentk/fontfacegen) Browser font-face generator for creating browser usable fonts from ttf's or otf's
 * [NType](https://github.com/kevinzweerink/ntype) 4D Type Extruder http://ntype.blue
+* [node-emoji](https://github.com/omnidan/node-emoji) 😏 simple emoji support for node.js projects
+* [custom-fonts-in-emails](https://github.com/crocodilejs/custom-fonts-in-emails) An extremely easy way to use custom fonts in emails without having to use art software.
+* [Google Fonts Infos](https://github.com/thisarmy/fontsinfo) Extract info out of the Google Fonts archive. http://code.thisarmy.com/fontsinfo/
+* [Hyphenopoly.js](https://github.com/mnater/Hyphenopoly) JavaScript polyfill for client-side hyphenation
+* [Hyphenator.js](https://github.com/mnater/Hyphenator) JavaScript polyfill for client-side hyphenation
+* [Hypher](https://github.com/bramstein/hypher) A fast and small JavaScript hyphenation engine
+* [Typeset.js](https://github.com/davidmerfield/Typeset) An html pre-proces­sor for web ty­pog­ra­phy (hang­ing punc­tu­a­tion, soft hy­phen in­ser­tion, op­ti­cal mar­gin out­dents, small-caps con­ver­sion and punctuation substitution).
+* [Typeset](https://github.com/bramstein/typeset) TeX line breaking algorithm in JavaScript
 
 ### Python
 * [fontTools](https://github.com/fonttools/fonttools) A library for manipulating fonts, written in Python.
@@ -70,6 +77,9 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Huerta Tipográfica Letterspacer](https://github.com/huertatipografica/HTLetterspacer) HT Letterspacer is a tool for spacing fonts https://huertatipografica.github.io/HTLetterspacer/
 * [OpenType-SVG Tools](https://github.com/adobe-type-tools/opentype-svg) Tools and sample files for making OpenType-SVG fonts
 * [boxDrawing.py](https://github.com/adobe-type-tools/box-drawing) Python script to draw all the box drawing characters and block elements based on parameters. http://adobe-type-tools.github.io/box-drawing/
+* [scfbuild](https://github.com/eosrei/scfbuild/) Create SVG in OpenType color fonts from a set of SVG source files.
+* [color-emoji](https://github.com/googlei18n/color-emoji) Tool to build color fonts using Google color-font format (CBDT/CBLC).
+* [monospacifier.py](https://github.com/cpitclaudel/monospacifier) Convert variable-pitch fonts to monospace (useful for unicode and indentation-friendly programming).
 
 ### C
 * [otfcc](https://github.com/caryll/otfcc) Parses & writes SFNT structures.
@@ -104,6 +114,11 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [font-rs](https://github.com/google/font-rs) The fastest font renderer in the world.
 * [RustType](https://github.com/dylanede/rusttype) A pure Rust alternative to libraries like FreeType.
 
+### PHP
+* [JoliTypo](https://github.com/jolicode/JoliTypo) Microtypography fixer for the web http://jolitypo-demo.herokuapp.com/
+* [PHP SmartyPants](https://github.com/michelf/php-smartypants) SmartyPants is a free web typography prettifyier tool for web writers. It easily translates plain ASCII punctuation characters into "smart" typographic punctuation HTML entities.
+
+
 ## UFO [unifiedfontobject.org](http://unifiedfontobject.org)
 * [ufo-spec](https://github.com/unified-font-object/ufo-spec) The official Unified Font Object specification source files.
 * [ufoLib](https://github.com/unified-font-object/ufoLib) A low-level UFO reader and writer.
@@ -122,6 +137,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Glyphr Studio](https://twitter.com/glyphrstudio) A free, web-based font editor, focusing on font design hobbyists.
 * [DTL OTMaster Light](http://www.fontmaster.nl/#) In the Light editions of dtl OTMaster only the saving of files is disabled. Checking fonts and exporting OpenType Layout features ﬁles, be and ik formats, and Character Layout (.cha) ﬁles is possible though.
 * [fonteditor](https://github.com/ecomfe/fonteditor) A web-based TTF font editor, live at [font.baidu.com](http://font.baidu.com/editor/index-en.html).
+* [FontArk](http://fontark.net) FontArk is an innovative browser-based font editor, font creator (BETA), featuring the most versatile real-time multiple glyph editing system.
 
 ### Non-Free
 * [Robofont](http://doc.robofont.com) UFO based, mac only, font editor.
@@ -170,15 +186,22 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Hypher](https://github.com/bramstein/hypher) A fast and small JavaScript hyphenation engine.
 * [Hyphenator](https://github.com/mnater/Hyphenator) JavaScript that implements client-side hyphenation of HTML-Documents http://mnater.github.io/Hyphenator/
 * [The Terrible Secret of OpenType Glyph Substitution](http://ansuz.sooke.bc.ca/entry/131)
-* [Google Fonts Infos](https://github.com/thisarmy/fontsinfo) Extract info out of the Google Fonts archive. http://code.thisarmy.com/fontsinfo/
+* [I Can Variable Font](https://github.com/scribbletone/i-can-variable-font) Tips for making variable fonts.
+* [Character Sets, Encoding And Emoji](https://www.smashingmagazine.com/2016/11/character-sets-encoding-emoji/) Character Sets, Encoding And Emoji.
+* [Emoji Rolodex](http://emoji.codes/rolodex) Resourceful links to emoji-related sites, plug-ins, and apps.
+
 
 ## Fonts
 * [Nanofont](https://github.com/bramstein/nanofont) A nano font for testing font format support (TrueType, WOFF, WOFF2).
-* [FiraSystemFontReplacement](https://github.com/jenskutilek/FiraSystemFontReplacement) Modified version of the Fira Sans fonts to replace the default system font on Mac OS X 10.10 and 10.11
+* [FiraSystemFontReplacement](https://github.com/jenskutilek/FiraSystemFontReplacement) Modified version of the Fira Sans fonts to replace the default system font on Mac OS X 10.10 and 10.11.
 * [SansBullshitSans Font](https://github.com/RoelN/SansBullshitSans) Every buzzword will be replaced by a Comic Sans-styled censorship bar.
+* [Blackout](https://github.com/RoelN/Blackout) One font to blackout them all.
+* [Compyx](https://github.com/RoelN/Compyx) 8-bit Multicolor OpenType font.
+* [LapisLegit](https://github.com/RoelN/LapisLegit) An SVG-in-OpenType testfont.
 * [AIFont](https://github.com/Denly/AIFont) The fist Chinese font that generated artificial intelligent.
 * [Noto Fonts](https://github.com/googlei18n/noto-fonts) Noto’s goal is to provide a beautiful reading experience for all languages.
-* [EmojiOne Color Font](https://github.com/eosrei/emojione-color-font) ⚛ A color emoji SVGinOT font using EmojiOne Unicode 9.0 graphics with diversity and country flags. Linux, OS X, & Windows.
+* [Noto Emoji](https://github.com/googlei18n/noto-emoji) Color and Black-and-White Noto emoji fonts, and tools for working with them.
+* [EmojiOne Color Font](https://github.com/eosrei/emojione-color-font) ⚛ A color emoji OpenType SVG font using EmojiOne Unicode 9.0 graphics with diversity and country flags. Linux, OS X, & Windows.
 * [Twitter Color Emoji Font](https://github.com/eosrei/twemoji-color-font) ⛱ A color emoji SVGinOT font using Twitter Emoji for Everyone graphics with diversity and country flags. Linux, OS X, & Windows.
 For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 * [Bixa Color](https://bixacolor.com) Building Bixa Color, a color font for the web [pixelambacht.nl/2016/building-bixa-color/](https://pixelambacht.nl/2016/building-bixa-color/)
@@ -186,6 +209,11 @@ For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 * [Bungee](https://github.com/djrrb/Bungee/) A chromatic signage typeface for vertical and horizontal setting. https://djr.com/bungee/
 * [Aerial Bold](http://type.aerial-bold.com/tw/) Aerial Bold is the first map and typeface of the earth.
 * [wavefont](https://github.com/audio-lab/wavefont) A typeface for rendering data: waveforms, spectrums, diagrams, bars etc.
+* [Adobe Variable Font Prototype](https://github.com/adobe-fonts/adobe-variable-font-prototype) OpenType-CFF2 variable font example.
+* [Microsoft open source fonts](https://github.com/Microsoft/fonts) Central location to share Microsoft's open source fonts
+* [Reinebow](https://github.com/xerographer/reinebow-color-font) Reinebow, an OpenType SVG color font TTF & WOFF https://xerographer.github.io/reinebow/
+* [Freizer](https://github.com/xerographer/freizer-color-font) Freizer, an OpenType SVG color font TTF & WOFF https://xerographer.github.io/freizer/
+* [Multicoloure](https://github.com/xerographer/multicoloure-font) Multicoloure, a SVGinOT color font TTF & WOFF based on Multicolore Vector Typeface https://xerographer.github.io/multicoloure/
 
 
 ## TrueType
