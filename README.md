@@ -1,5 +1,5 @@
 # Awesome typography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-Curated list about typography
+Curated list about typography.
 
 
 ## Specifications
@@ -7,7 +7,7 @@ Curated list about typography
 * [Apple's Documentation](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
 * [The Compact Font Format
 Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf) Technical Note #5176
-* [the-cff-table](https://github.com/Pomax/the-cff-table) A markdown conversion of the Adobe Tech notes 5176 and 5177 about CFF
+* [the-cff-table](https://github.com/Pomax/the-cff-table) A markdown conversion of the Adobe Tech notes 5176 and 5177 about CFF.
 * [Adobe's Documentation](http://www.adobe.com/devnet/font.html)
 
 
@@ -16,20 +16,20 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [The OpenType Cookbook](http://opentypecookbook.com) An introduction to OpenType features for type designers. [(Source)](https://github.com/typesupply/opentype-feature-intro)
 
 ### JavaScript
-* [OpenType.js](https://github.com/nodebox/opentype.js) Read and write OpenType fonts
+* [OpenType.js](https://github.com/nodebox/opentype.js) Read and write OpenType fonts.
 * [opentype-layout](https://github.com/Jam3/opentype-layout) Experimental word-wrapping and layout for OpenType.js https://jam3.github.io/opentype-layout/
 * [CharacterMap](https://github.com/bluejamesbond/CharacterMap/) Online Character Map / Glyph / Icon / Font Viewer https://bluejamesbond.github.io/CharacterMap/
-* [font](https://github.com/Benvie/font) Parse otf/ttf file format directory from buffers for metadata
+* [font](https://github.com/Benvie/font) Parse otf/ttf file format directory from buffers for metadata.
 * [fontkit](https://github.com/devongovett/fontkit) An advanced font engine for Node and the browser
 * [Minimal-font-generator](https://github.com/Pomax/Minimal-font-generator) Font's Hello world
 * [simple-cff-builder](https://github.com/Pomax/simple-cff-builder) A simple CFF builder for testing fonts with different Type2 charstrings.
 * [ttf2woff](https://github.com/fontello/ttf2woff) Font convertor, TTF to WOFF, for node.js
 * [ttf2eot](https://github.com/fontello/ttf2eot) Font convertor, TTF to EOT, for node.js
 * [cubic2quad](https://github.com/fontello/cubic2quad) Aproximates cubic bezier curves with quadratic ones.
-* [SVG font creator](https://github.com/fontello/svg-font-create) Create SVG font from separate images
+* [SVG font creator](https://github.com/fontello/svg-font-create) Create SVG font from separate images.
 * [node-sfnt](https://github.com/be5invis/node-sfnt) SFNT parser and generator for Nodejs.
 * [node-unicode-data](https://github.com/mathiasbynens/node-unicode-data) JavaScript-compatible Unicode data generator.
-* [fontwr](https://github.com/raphaklaus/fontwr) A font manager for web projects
+* [fontwr](https://github.com/raphaklaus/fontwr) A font manager for web projects.
 * [Open Type playground](https://github.com/magalhini/open-type-playground) A playground for Open Type experiments with CSS.
 * [ChromaCheck](https://github.com/RoelN/ChromaCheck) Feature test for color font support in browsers
 * [Font Face Observer](https://github.com/bramstein/fontfaceobserver) Font load events, simple, small and efficient [fontfaceobserver.com](https://fontfaceobserver.com)
@@ -37,25 +37,25 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [localFont](https://github.com/jaicab/localFont) Implement localStorage web font caching in seconds https://jaicab.com/localFont/
 * [Fontello](https://github.com/fontello/fontello) This tool lets you combine icon webfonts for your own project. http://fontello.com
 * [GitHub Font Preview](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-font-preview) Adds a preview for fonts & glyphs on GitHub with OpenType.js.
-* [unidata](https://github.com/chbrown/unidata) Unicode Character Database for JavaScript
-* [UCD](https://github.com/ynakajima/ucd) Unicode Character Database for JavaScript
-* [Character Set Inspector](https://github.com/graphicore/charset-inspector) Unicode Character Database for JavaScript
-* [OpenType](https://github.com/bramstein/opentype) An OpenType font parser in JavaScript
-* [opentype-geometry](https://github.com/nascherman/opentype-geometry) Convert Text from OpenType font to three.js 3D
+* [unidata](https://github.com/chbrown/unidata) Unicode Character Database for JavaScript.
+* [UCD](https://github.com/ynakajima/ucd) Unicode Character Database for JavaScript.
+* [Character Set Inspector](https://github.com/graphicore/charset-inspector) Unicode Character Database for JavaScript.
+* [OpenType](https://github.com/bramstein/opentype) An OpenType font parser in JavaScript.
+* [opentype-geometry](https://github.com/nascherman/opentype-geometry) Convert Text from OpenType font to three.js 3D.
 * [Plumin.js](https://github.com/byte-foundry/plumin.js) Create and manipulate fonts in the browser. http://www.pluminjs.com
-* [Typr.js](https://github.com/photopea/Typr.js) Process fonts in JavaScript
+* [Typr.js](https://github.com/photopea/Typr.js) Process fonts in JavaScript.
 * [fonteditor-core](https://github.com/kekee000/fonteditor-core) Read, write, transform fonts in JavaScript.
 * [fontmin](https://github.com/ecomfe/fontmin) Minify font seamlessly https://ecomfe.github.io/fontmin/
-* [fontfacegen](https://github.com/agentk/fontfacegen) Browser font-face generator for creating browser usable fonts from ttf's or otf's
+* [fontfacegen](https://github.com/agentk/fontfacegen) Browser font-face generator for creating browser usable fonts from ttf's or otf's.
 * [NType](https://github.com/kevinzweerink/ntype) 4D Type Extruder http://ntype.blue
-* [node-emoji](https://github.com/omnidan/node-emoji) 😏 simple emoji support for node.js projects
+* [node-emoji](https://github.com/omnidan/node-emoji) 😏 simple emoji support for node.js projects.
 * [custom-fonts-in-emails](https://github.com/crocodilejs/custom-fonts-in-emails) An extremely easy way to use custom fonts in emails without having to use art software.
 * [Google Fonts Infos](https://github.com/thisarmy/fontsinfo) Extract info out of the Google Fonts archive. http://code.thisarmy.com/fontsinfo/
-* [Hyphenopoly.js](https://github.com/mnater/Hyphenopoly) JavaScript polyfill for client-side hyphenation
-* [Hyphenator.js](https://github.com/mnater/Hyphenator) JavaScript polyfill for client-side hyphenation
-* [Hypher](https://github.com/bramstein/hypher) A fast and small JavaScript hyphenation engine
+* [Hyphenopoly.js](https://github.com/mnater/Hyphenopoly) JavaScript polyfill for client-side hyphenation.
+* [Hyphenator.js](https://github.com/mnater/Hyphenator) JavaScript that implements client-side hyphenation of HTML-Documents http://mnater.github.io/Hyphenator/
+* [Hypher](https://github.com/bramstein/hypher) A fast and small JavaScript hyphenation engine.
 * [Typeset.js](https://github.com/davidmerfield/Typeset) An html pre-proces­sor for web ty­pog­ra­phy (hang­ing punc­tu­a­tion, soft hy­phen in­ser­tion, op­ti­cal mar­gin out­dents, small-caps con­ver­sion and punctuation substitution).
-* [Typeset](https://github.com/bramstein/typeset) TeX line breaking algorithm in JavaScript
+* [Typeset](https://github.com/bramstein/typeset) TeX line breaking algorithm in JavaScript.
 
 ### Python
 * [fontTools](https://github.com/fonttools/fonttools) A library for manipulating fonts, written in Python.
@@ -183,8 +183,6 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [OpenType Feature Bundle](https://github.com/brew/opentype-feature-bundle) Syntax highlighting and snippets for OpenType feature development in TextMate/Sublime Text
 * [Type Tools dotfiles](https://github.com/benkiel/dotfiles) Setup for type tools
 * [AGL & AGLFN](https://github.com/adobe-type-tools/agl-aglfn) AGL / AGLFN (Adobe Glyph List / For New Fonts) simply provides mappings from glyph names to Unicode scalar values. [See specification](https://github.com/adobe-type-tools/agl-specification)
-* [Hypher](https://github.com/bramstein/hypher) A fast and small JavaScript hyphenation engine.
-* [Hyphenator](https://github.com/mnater/Hyphenator) JavaScript that implements client-side hyphenation of HTML-Documents http://mnater.github.io/Hyphenator/
 * [The Terrible Secret of OpenType Glyph Substitution](http://ansuz.sooke.bc.ca/entry/131)
 * [I Can Variable Font](https://github.com/scribbletone/i-can-variable-font) Tips for making variable fonts.
 * [Character Sets, Encoding And Emoji](https://www.smashingmagazine.com/2016/11/character-sets-encoding-emoji/) Character Sets, Encoding And Emoji.
