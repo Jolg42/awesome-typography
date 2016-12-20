@@ -6,7 +6,7 @@ Curated list about typography.
 * [Microsoft's Documentation](https://www.microsoft.com/en-us/Typography/OpenTypeSpecification.aspx)
 * [Apple's Documentation](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
 * [The Compact Font Format
-Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf) Technical Note #5176
+Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technical Note #5176
 * [the-cff-table](https://github.com/Pomax/the-cff-table) A markdown conversion of the Adobe Tech notes 5176 and 5177 about CFF.
 * [Adobe's Documentation](http://www.adobe.com/devnet/font.html)
 
