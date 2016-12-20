@@ -137,7 +137,7 @@ Specification](https://partners.adobe.com/public/developer/en/font/5176.CFF.pdf)
 * [Glyphr Studio](https://twitter.com/glyphrstudio) A free, web-based font editor, focusing on font design hobbyists.
 * [DTL OTMaster Light](http://www.fontmaster.nl/#) In the Light editions of dtl OTMaster only the saving of files is disabled. Checking fonts and exporting OpenType Layout features ﬁles, be and ik formats, and Character Layout (.cha) ﬁles is possible though.
 * [fonteditor](https://github.com/ecomfe/fonteditor) A web-based TTF font editor, live at [font.baidu.com](http://font.baidu.com/editor/index-en.html).
-* [FontArk](http://fontark.net) FontArk is an innovative browser-based font editor, font creator (BETA), featuring the most versatile real-time multiple glyph editing system.
+* [FontArk](http://fontark.net/farkwp/) FontArk is an innovative browser-based font editor, font creator (BETA), featuring the most versatile real-time multiple glyph editing system.
 
 ### Non-Free
 * [Robofont](http://doc.robofont.com) UFO based, mac only, font editor.
