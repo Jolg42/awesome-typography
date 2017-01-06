@@ -10,7 +10,6 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [the-cff-table](https://github.com/Pomax/the-cff-table) A markdown conversion of the Adobe Tech notes 5176 and 5177 about CFF.
 * [Adobe's Documentation](http://www.adobe.com/devnet/font.html)
 
-
 ## OpenType
 * [OpenType: let's learn how modern fonts actually work](https://pomax.github.io/#gh-weblog-1449777175633)
 * [The OpenType Cookbook](http://opentypecookbook.com) An introduction to OpenType features for type designers. [(Source)](https://github.com/typesupply/opentype-feature-intro)
@@ -18,6 +17,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 ### JavaScript
 * [OpenType.js](https://github.com/nodebox/opentype.js) Read and write OpenType fonts.
 * [opentype-layout](https://github.com/Jam3/opentype-layout) Experimental word-wrapping and layout for OpenType.js https://jam3.github.io/opentype-layout/
+* [canvas-text-opentypejs-shim](https://github.com/shyiko/canvas-text-opentypejs-shim) Consistent text rendering for <canvas> (backed by OpenType.js)
 * [CharacterMap](https://github.com/bluejamesbond/CharacterMap/) Online Character Map / Glyph / Icon / Font Viewer https://bluejamesbond.github.io/CharacterMap/
 * [font](https://github.com/Benvie/font) Parse otf/ttf file format directory from buffers for metadata.
 * [fontkit](https://github.com/devongovett/fontkit) An advanced font engine for Node and the browser
@@ -56,6 +56,10 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [Hypher](https://github.com/bramstein/hypher) A fast and small JavaScript hyphenation engine.
 * [Typeset.js](https://github.com/davidmerfield/Typeset) An html pre-proces­sor for web ty­pog­ra­phy (hang­ing punc­tu­a­tion, soft hy­phen in­ser­tion, op­ti­cal mar­gin out­dents, small-caps con­ver­sion and punctuation substitution).
 * [Typeset](https://github.com/bramstein/typeset) TeX line breaking algorithm in JavaScript.
+* [otfcc-cubic2quad](https://github.com/caryll/otfcc-cubic2quad) Losslessly turn CFF OTF to TTF using otfcc.
+* [caryll / shapeops](https://github.com/caryll/shapeops) Boolean operations and overlap removal for curves.
+* [OpenType-SVG Workshop](https://github.com/rocallahan/svg-opentype-workshop) OpenType-SVG Workshop Web application https://rocallahan.github.io/svg-opentype-workshop/
+* [A-binary-parser-generator](https://github.com/Pomax/A-binary-parser-generator) This project aims to create a tool that can turn a spec file into a parser skeleton for binary data files such as OpenType fonts, PNG images, etc.
 
 ### Python
 * [fontTools](https://github.com/fonttools/fonttools) A library for manipulating fonts, written in Python.
@@ -65,21 +69,23 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [Fontuley](https://github.com/googlei18n/fontuley) Font tools (inspect / modify fonts)
 * [kern-dump](https://github.com/adobe-type-tools/kern-dump) Scripts for working with and analyzing kerning information (ATypI 2013)
 * [cu2qu](https://github.com/googlei18n/cu2qu) Cubic-to-quadratic bezier curve conversion
-* [Font Bakery](https://github.com/googlefonts/fontbakery) Tools to prepare font families for inclusion in github.com/google/fonts
+* [Font Bakery](https://github.com/googlefonts/fontbakery) Tools to prepare font families for inclusion in github.com/google/fonts https://fontbakery.appspot.com
 * [glyphNameFormatter](https://github.com/LettError/glyphNameFormatter) Generate list of glyphnames from unicode names.
 * [woffTools](https://github.com/typesupply/woffTools) A library for working with WOFF files.
 * [pyftfeatfreeze](https://github.com/twardoch/fonttools-utils/tree/master/pyftfeatfreeze) With pyftfeatfreeze, you can “freeze” some OpenType features into a font.
 * [RoboFab](https://github.com/robofab-developers/robofab) RoboFab http://robofab.org
-* [unicode-properties](https://github.com/devongovett/unicode-properties) Provides fast access to unicode character properties 
+* [unicode-properties](https://github.com/devongovett/unicode-properties) Provides fast access to unicode character properties
 * [pyfontaine](https://github.com/davelab6/pyfontaine) Python tool to check font files for language/character set support
 * [Glyph Nanny](https://github.com/typesupply/glyph-nanny) A live report about potential drawing issues in your glyph.
 * [Kernagic](https://github.com/hodefoting/kernagic) Semi-automatic font spacing tool
 * [Huerta Tipográfica Letterspacer](https://github.com/huertatipografica/HTLetterspacer) HT Letterspacer is a tool for spacing fonts https://huertatipografica.github.io/HTLetterspacer/
 * [OpenType-SVG Tools](https://github.com/adobe-type-tools/opentype-svg) Tools and sample files for making OpenType-SVG fonts
 * [boxDrawing.py](https://github.com/adobe-type-tools/box-drawing) Python script to draw all the box drawing characters and block elements based on parameters. http://adobe-type-tools.github.io/box-drawing/
-* [scfbuild](https://github.com/eosrei/scfbuild/) Create SVG in OpenType color fonts from a set of SVG source files.
+* [scfbuild](https://github.com/eosrei/scfbuild/) Create OpenType-SVG color fonts from a set of SVG source files.
 * [color-emoji](https://github.com/googlei18n/color-emoji) Tool to build color fonts using Google color-font format (CBDT/CBLC).
 * [monospacifier.py](https://github.com/cpitclaudel/monospacifier) Convert variable-pitch fonts to monospace (useful for unicode and indentation-friendly programming).
+* [edf825/SVG-OpenType-Utils](https://github.com/edf825/SVG-OpenType-Utils) SVG in OpenType Utils (!Old: 2013).
+* [Icon Font to PNG](https://github.com/Pythonity/icon-font-to-png) Python script (and library) for exporting icons from icon fonts (e.g. Font Awesome, Octicons) as PNG images.
 
 ### C
 * [otfcc](https://github.com/caryll/otfcc) Parses & writes SFNT structures.
@@ -118,6 +124,8 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [JoliTypo](https://github.com/jolicode/JoliTypo) Microtypography fixer for the web http://jolitypo-demo.herokuapp.com/
 * [PHP SmartyPants](https://github.com/michelf/php-smartypants) SmartyPants is a free web typography prettifyier tool for web writers. It easily translates plain ASCII punctuation characters into "smart" typographic punctuation HTML entities.
 
+### Perl
+* [Font::TTFMetrics](https://metacpan.org/release/Font-TTFMetrics) Fast & easy-to-use parser for true-type font (TTF) file.
 
 ## UFO [unifiedfontobject.org](http://unifiedfontobject.org)
 * [ufo-spec](https://github.com/unified-font-object/ufo-spec) The official Unified Font Object specification source files.
@@ -138,6 +146,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [DTL OTMaster Light](http://www.fontmaster.nl/#) In the Light editions of dtl OTMaster only the saving of files is disabled. Checking fonts and exporting OpenType Layout features ﬁles, be and ik formats, and Character Layout (.cha) ﬁles is possible though.
 * [fonteditor](https://github.com/ecomfe/fonteditor) A web-based TTF font editor, live at [font.baidu.com](http://font.baidu.com/editor/index-en.html).
 * [FontArk](http://fontark.net/farkwp/) FontArk is an innovative browser-based font editor, font creator (BETA), featuring the most versatile real-time multiple glyph editing system.
+* [TTFEdit](https://sourceforge.net/projects/ttfedit/) TrueType fonts editor. Allows for editing vector-based glyphs.
 
 ### Non-Free
 * [Robofont](http://doc.robofont.com) UFO based, mac only, font editor.
@@ -172,7 +181,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [Emoj](https://github.com/sindresorhus/emoj) Find relevant emoji from text on the command-line 😮 ✨ 🙌 🐴 💥 🙈
 * [Emoji Wrap Monthly Newsletter](http://emojiwrap.com/) A bite-sized summary of what's happening in the world of emoji and Unicode.
 * [FDBP](http://silnrsi.github.io/FDBP/) Font Development Best Practice documentation
-* [UnicodeChecker](http://earthlingsoft.net/UnicodeChecker/) Explore and convert Unicode 
+* [UnicodeChecker](http://earthlingsoft.net/UnicodeChecker/) Explore and convert Unicode
 * [unicodes](https://github.com/jessetane/unicodes) Browse all of the unicodes https://unicodes.smpc.io/
 * [Method of Action](http://method.ac/) Method of Action is a collection of tools, games and articles to help you learn design.
 * [Encodings and character sets for Programmers](http://kunststube.net/encoding/) What every programmer absolutely, positively needs to know about encodings and character sets to work with text
@@ -187,7 +196,13 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [I Can Variable Font](https://github.com/scribbletone/i-can-variable-font) Tips for making variable fonts.
 * [Character Sets, Encoding And Emoji](https://www.smashingmagazine.com/2016/11/character-sets-encoding-emoji/) Character Sets, Encoding And Emoji.
 * [Emoji Rolodex](http://emoji.codes/rolodex) Resourceful links to emoji-related sites, plug-ins, and apps.
-
+* [OpenType_Table_Source](https://github.com/Monotype/OpenType_Table_Source) Documentation for Monotype's OpenType Layout Source File Format
+* [jenskutilek/TypoLabs2016](https://github.com/jenskutilek/TypoLabs2016) Code examples from Jens Kutilek's TypoLabs workshop.
+* [W3C - Fonts on the Web](https://www.w3.org/Fonts/) Fonts on the Web
+* [W3C - WebFonts Working Group](https://www.w3.org/Fonts/WG/)
+* [Axis-Praxis](http://www.axis-praxis.org/) Axis-Praxis is a web tool for playing with Variable Fonts.
+* [Twitter Emoji (Twemoji)](https://github.com/twitter/twemoji) The Twemoji library offers support for +2k emojis, including skin tone and gender modifiers.
+* [EmojiOne](https://github.com/Ranks/emojione) EmojiOne™ is the open emoji standard. #iwantemojione http://www.emojione.com
 
 ## Fonts
 * [Nanofont](https://github.com/bramstein/nanofont) A nano font for testing font format support (TrueType, WOFF, WOFF2).
@@ -195,12 +210,12 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [SansBullshitSans Font](https://github.com/RoelN/SansBullshitSans) Every buzzword will be replaced by a Comic Sans-styled censorship bar.
 * [Blackout](https://github.com/RoelN/Blackout) One font to blackout them all.
 * [Compyx](https://github.com/RoelN/Compyx) 8-bit Multicolor OpenType font.
-* [LapisLegit](https://github.com/RoelN/LapisLegit) An SVG-in-OpenType testfont.
+* [LapisLegit](https://github.com/RoelN/LapisLegit) An OpenType-SVG testfont.
 * [AIFont](https://github.com/Denly/AIFont) The fist Chinese font that generated artificial intelligent.
 * [Noto Fonts](https://github.com/googlei18n/noto-fonts) Noto’s goal is to provide a beautiful reading experience for all languages.
 * [Noto Emoji](https://github.com/googlei18n/noto-emoji) Color and Black-and-White Noto emoji fonts, and tools for working with them.
 * [EmojiOne Color Font](https://github.com/eosrei/emojione-color-font) ⚛ A color emoji OpenType SVG font using EmojiOne Unicode 9.0 graphics with diversity and country flags. Linux, OS X, & Windows.
-* [Twitter Color Emoji Font](https://github.com/eosrei/twemoji-color-font) ⛱ A color emoji SVGinOT font using Twitter Emoji for Everyone graphics with diversity and country flags. Linux, OS X, & Windows.
+* [Twitter Color Emoji Font](https://github.com/eosrei/twemoji-color-font) ⛱ A color emoji OpenType-SVG font using Twitter Emoji for Everyone graphics with diversity and country flags. Linux, OS X, & Windows.
 For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 * [Bixa Color](https://bixacolor.com) Building Bixa Color, a color font for the web [pixelambacht.nl/2016/building-bixa-color/](https://pixelambacht.nl/2016/building-bixa-color/)
 * [fontwr-fonts](https://github.com/raphaklaus/fontwr-fonts) Fonts repository for fontwr
@@ -209,9 +224,18 @@ For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 * [wavefont](https://github.com/audio-lab/wavefont) A typeface for rendering data: waveforms, spectrums, diagrams, bars etc.
 * [Adobe Variable Font Prototype](https://github.com/adobe-fonts/adobe-variable-font-prototype) OpenType-CFF2 variable font example.
 * [Microsoft open source fonts](https://github.com/Microsoft/fonts) Central location to share Microsoft's open source fonts
-* [Reinebow](https://github.com/xerographer/reinebow-color-font) Reinebow, an OpenType SVG color font TTF & WOFF https://xerographer.github.io/reinebow/
-* [Freizer](https://github.com/xerographer/freizer-color-font) Freizer, an OpenType SVG color font TTF & WOFF https://xerographer.github.io/freizer/
-* [Multicoloure](https://github.com/xerographer/multicoloure-font) Multicoloure, a SVGinOT color font TTF & WOFF based on Multicolore Vector Typeface https://xerographer.github.io/multicoloure/
+* [Reinebow](https://github.com/xerographer/reinebow-color-font) Reinebow, an OpenType-SVG color font TTF & WOFF https://xerographer.github.io/reinebow/
+* [Freizer](https://github.com/xerographer/freizer-color-font) Freizer, an OpenType-SVG color font TTF & WOFF https://xerographer.github.io/freizer/
+* [Multicoloure](https://github.com/xerographer/multicoloure-font) Multicoloure, a OpenType-SVG color font TTF & WOFF based on Multicolore Vector Typeface https://xerographer.github.io/multicoloure/
+* [null-ttf](https://github.com/grzegorzrolek/null-ttf) This font is null. It's the smallest possible TrueType binary still valid on OS X and with most of its bytes wiped out.
+* [Monotype Variable Font Demo](https://github.com/Monotype/Monotype_prototype_variable_fonts)
+* [CFF opcode test fonts](https://github.com/Pomax/cff-opcode-fonts) OTF fonts for testing CFF opcode support.
+* [TestFont](https://github.com/OpenType/TestFont) A font family for testing OpenType implementations.
+* [BuffaloGals](https://github.com/TrueTyper/BuffaloGals) Buffalo Gals is one of the very first “Variable Fonts”, originally made in 1992 for an Apple TrueType GX developer CD.
+* [Adobe Fonts / Source Emoji](https://github.com/adobe-fonts/source-emoji) Source Emoji is an emoji font project that began development in order to provide monochrome representative glyphs to the Unicode Consortium for emoji candidates that have been accepted by the UTC (Unicode Technical Committee) but have not yet been fully ratified to become a part of the official standard.
+* [No @font-face Syntax will ever be Bulletproof, Nor Should It Be](http://calendar.perfplanet.com/2016/no-font-face-bulletproof-syntax/)
+* [Typography is impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891) The practical guide to why laying out type never quite does what you want.
+* [You, Me And The Emoji: Character Sets, Encoding And Emoji](https://www.smashingmagazine.com/2016/11/character-sets-encoding-emoji/)
 
 
 ## TrueType
