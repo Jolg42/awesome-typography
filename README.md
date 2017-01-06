@@ -194,7 +194,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [AGL & AGLFN](https://github.com/adobe-type-tools/agl-aglfn) AGL / AGLFN (Adobe Glyph List / For New Fonts) simply provides mappings from glyph names to Unicode scalar values. [See specification](https://github.com/adobe-type-tools/agl-specification)
 * [The Terrible Secret of OpenType Glyph Substitution](http://ansuz.sooke.bc.ca/entry/131)
 * [I Can Variable Font](https://github.com/scribbletone/i-can-variable-font) Tips for making variable fonts.
-* [Character Sets, Encoding And Emoji](https://www.smashingmagazine.com/2016/11/character-sets-encoding-emoji/) Character Sets, Encoding And Emoji.
+* [You, Me And The Emoji: Character Sets, Encoding And Emoji](https://www.smashingmagazine.com/2016/11/character-sets-encoding-emoji/)
 * [Emoji Rolodex](http://emoji.codes/rolodex) Resourceful links to emoji-related sites, plug-ins, and apps.
 * [OpenType_Table_Source](https://github.com/Monotype/OpenType_Table_Source) Documentation for Monotype's OpenType Layout Source File Format
 * [jenskutilek/TypoLabs2016](https://github.com/jenskutilek/TypoLabs2016) Code examples from Jens Kutilek's TypoLabs workshop.
@@ -202,7 +202,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [W3C - WebFonts Working Group](https://www.w3.org/Fonts/WG/)
 * [Axis-Praxis](http://www.axis-praxis.org/) Axis-Praxis is a web tool for playing with Variable Fonts.
 * [Twitter Emoji (Twemoji)](https://github.com/twitter/twemoji) The Twemoji library offers support for +2k emojis, including skin tone and gender modifiers.
-* [EmojiOne](https://github.com/Ranks/emojione) EmojiOne™ is the open emoji standard. #iwantemojione http://www.emojione.com
+* [EmojiOne](https://github.com/Ranks/emojione) EmojiOne™ is the open emoji standard. #iwantemojione http://emojione.com/
 
 ## Fonts
 * [Nanofont](https://github.com/bramstein/nanofont) A nano font for testing font format support (TrueType, WOFF, WOFF2).
@@ -235,7 +235,6 @@ For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 * [Adobe Fonts / Source Emoji](https://github.com/adobe-fonts/source-emoji) Source Emoji is an emoji font project that began development in order to provide monochrome representative glyphs to the Unicode Consortium for emoji candidates that have been accepted by the UTC (Unicode Technical Committee) but have not yet been fully ratified to become a part of the official standard.
 * [No @font-face Syntax will ever be Bulletproof, Nor Should It Be](http://calendar.perfplanet.com/2016/no-font-face-bulletproof-syntax/)
 * [Typography is impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891) The practical guide to why laying out type never quite does what you want.
-* [You, Me And The Emoji: Character Sets, Encoding And Emoji](https://www.smashingmagazine.com/2016/11/character-sets-encoding-emoji/)
 
 
 ## TrueType
