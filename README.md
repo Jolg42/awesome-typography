@@ -64,7 +64,6 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [font-spider](https://github.com/aui/font-spider) Smart webfont compression and format conversion tool http://font-spider.org
 * [Brotli.js](https://github.com/devongovett/brotli.js) A JavaScript port of the Brotli compression algorithm, as used in WOFF2
 * [ideohint](https://github.com/caryll/ideohint) Optimized hinter for Ideographs 
-* [node-sfnt](https://github.com/be5invis/node-sfnt) SFNT parser and generator for Nodejs. 
 
 ### Python
 * [fontTools](https://github.com/fonttools/fonttools) A library for manipulating fonts, written in Python.
@@ -167,7 +166,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [Birdfont](https://github.com/johanmattssonm/birdfont) A font editor which can generate fonts in TTF, EOT, SVG and BF format.
 * [Glyphr Studio](https://twitter.com/glyphrstudio) A free, web-based font editor, focusing on font design hobbyists.
 * [DTL OTMaster Light](http://www.fontmaster.nl/#) In the Light editions of dtl OTMaster only the saving of files is disabled. Checking fonts and exporting OpenType Layout features ﬁles, be and ik formats, and Character Layout (.cha) ﬁles is possible though.
-* [fonteditor](https://github.com/ecomfe/fonteditor) A web-based TTF font editor, live at [font.baidu.com](http://font.baidu.com/editor/index-en.html).
+* [fonteditor](https://github.com/ecomfe/fonteditor) A web-based TTF font editor, live at [fontstore.baidu.com](http://fontstore.baidu.com/static/editor/index-en.html).
 * [FontArk](http://fontark.net/farkwp/) FontArk is an innovative browser-based font editor, font creator (BETA), featuring the most versatile real-time multiple glyph editing system.
 * [TTFEdit](https://sourceforge.net/projects/ttfedit/) TrueType fonts editor. Allows for editing vector-based glyphs.
 
@@ -176,7 +175,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [Glyphs](https://glyphsapp.com) Font editor (Mac)
 * [Prototypo](https://www.prototypo.io) Web based font generator with a parametric approach.
 * [Fontself](https://www.fontself.com) Adobe Illustrator & Photoshop extensions for creating vector and bitmap fonts with Drag&Drop, born on Kickstarter.
-* [FontLab Studio](http://www.fontlab.com/font-editor/fontlab-studio/) Font editor for font professionals. Version 5 for Mac and Windows.
+* [FontLab Studio](https://www.fontlab.com/font-editor/fontlab-studio/) Font editor for font professionals. Version 5 for Mac and Windows.
 * [DTL OTMaster](http://www.fontmaster.nl) DTL OTMaster (OTM), is a highly sophisticated application for reviewing, editing and altering tables and contours of fonts with a snft ﬁle structure, as there are CFF and TTF flavored OpenType fonts, TrueType fonts and TrueType Collection fonts.
 * [010 Editor](http://www.sweetscape.com/010editor/) Professional text and hex editing with Binary Templates technology. OpenType template http://pikensoft.com/programs/OpenTypeTemplate.bt
 * [Synalyze It!](https://www.synalysis.net) Reverse Engineering and Binary File Analysis made easy. OpenType template https://www.synalysis.net/Grammars/opentype.grammar
@@ -226,7 +225,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [Axis-Praxis](http://www.axis-praxis.org/) Axis-Praxis is a web tool for playing with Variable Fonts.
 * [Twitter Emoji (Twemoji)](https://github.com/twitter/twemoji) The Twemoji library offers support for +2k emojis, including skin tone and gender modifiers.
 * [EmojiOne](https://github.com/Ranks/emojione) EmojiOne™ is the open emoji standard. #iwantemojione http://emojione.com/
-* [No @font-face Syntax will ever be Bulletproof, Nor Should It Be](http://calendar.perfplanet.com/2016/no-font-face-bulletproof-syntax/)
+* [No @font-face Syntax will ever be Bulletproof, Nor Should It Be](https://calendar.perfplanet.com/2016/no-font-face-bulletproof-syntax/)
 * [Typography is impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891) The practical guide to why laying out type never quite does what you want.
 
 ## Fonts
@@ -261,7 +260,7 @@ For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 * [Adobe Fonts / Source Emoji](https://github.com/adobe-fonts/source-emoji) Source Emoji is an emoji font project that began development in order to provide monochrome representative glyphs to the Unicode Consortium for emoji candidates that have been accepted by the UTC (Unicode Technical Committee) but have not yet been fully ratified to become a part of the official standard.
 * [Hasklig](https://github.com/i-tu/Hasklig) Hasklig - a code font with monospaced ligatures
 * [Firefox OS Emojis](https://github.com/mozilla/fxemoji)
-* [Iosevka](https://github.com/be5invis/Iosevka) Slender typeface for code, from code. http://be5invis.github.io/Iosevka
+* [Iosevka](https://github.com/be5invis/Iosevka) Slender typeface for code, from code. https://be5invis.github.io/Iosevka
 * [Raleway](https://github.com/theleagueof/raleway) An elegant sans-serif, designed in a single thin weight.
 * [Adobe NotDef](https://github.com/adobe-fonts/adobe-notdef) Adobe NotDef maps 1,111,998 Unicode code points to 2,048 .notdef glyphs
 * [Adobe Blank](https://github.com/adobe-fonts/adobe-blank) Adobe Blank maps 1,111,998 Unicode code points to 2,048 non-spacing and non-marking glyphs
