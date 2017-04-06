@@ -13,6 +13,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 ## OpenType
 * [OpenType: let's learn how modern fonts actually work](https://pomax.github.io/#gh-weblog-1449777175633)
 * [The OpenType Cookbook](http://opentypecookbook.com) An introduction to OpenType features for type designers. [(Source)](https://github.com/typesupply/opentype-feature-intro)
+* [A bit of font generation](https://pomax.github.io/CFF-glyphlet-fonts/) A brief excursion into OpenType
 
 ### JavaScript
 * [OpenType.js](https://github.com/nodebox/opentype.js) Read and write OpenType fonts.
@@ -60,6 +61,10 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [caryll / shapeops](https://github.com/caryll/shapeops) Boolean operations and overlap removal for curves.
 * [OpenType-SVG Workshop](https://github.com/rocallahan/svg-opentype-workshop) OpenType-SVG Workshop Web application https://rocallahan.github.io/svg-opentype-workshop/
 * [A-binary-parser-generator](https://github.com/Pomax/A-binary-parser-generator) This project aims to create a tool that can turn a spec file into a parser skeleton for binary data files such as OpenType fonts, PNG images, etc.
+* [font-spider](https://github.com/aui/font-spider) Smart webfont compression and format conversion tool http://font-spider.org
+* [Brotli.js](https://github.com/devongovett/brotli.js) A JavaScript port of the Brotli compression algorithm, as used in WOFF2
+* [ideohint](https://github.com/caryll/ideohint) Optimized hinter for Ideographs 
+* [node-sfnt](https://github.com/be5invis/node-sfnt) SFNT parser and generator for Nodejs. 
 
 ### Python
 * [fontTools](https://github.com/fonttools/fonttools) A library for manipulating fonts, written in Python.
@@ -86,13 +91,17 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [monospacifier.py](https://github.com/cpitclaudel/monospacifier) Convert variable-pitch fonts to monospace (useful for unicode and indentation-friendly programming).
 * [edf825/SVG-OpenType-Utils](https://github.com/edf825/SVG-OpenType-Utils) SVG in OpenType Utils (!Old: 2013).
 * [Icon Font to PNG](https://github.com/Pythonity/icon-font-to-png) Python script (and library) for exporting icons from icon fonts (e.g. Font Awesome, Octicons) as PNG images.
+* [Compositor](https://github.com/typesupply/compositor) A basic OpenType GSUB and GPOS layout engine.
+* [UFO Extractor](https://github.com/typesupply/extractor) Tools for extracting data from font binaries into UFO objects.
+* [Noto Tools](https://github.com/googlei18n/nototools) Noto fonts support tools and scripts.
+* [compreffor](https://github.com/googlei18n/compreffor) A CFF table subroutinizer for FontTools 
 
 ### C
 * [otfcc](https://github.com/caryll/otfcc) Parses & writes SFNT structures.
 * [AFDKO](https://github.com/adobe-type-tools/afdko) Adobe Font Development Kit for OpenType. See [AFDKO Overview](https://www.adobe.com/devnet/opentype/afdko/topic_overview.html)
 * [stb_truetype](https://github.com/nothings/stb/) Parse, decode, and rasterize characters for TrueType fonts. Single header file.
 * [FreeType](https://www.freetype.org/) Freely available software library to render fonts.
-* [Raqm](https://github.com/HOST-Oman/libraqm) A library for complex text layout
+* [Raqm](https://github.com/HOST-Oman/libraqm) A library for complex text layout.
 
 ### C++
 * [font to svg](https://github.com/donbright/font_to_svg) Render characters from font files into an SVG path
@@ -100,9 +109,15 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [HarfBuzz](https://github.com/googlei18n/harfbuzz) HarfBuzz OpenType text shaping engine
 * [FontView](https://github.com/googlei18n/fontview) Demo app that displays fonts with a free/libre/open-source text rendering stack: FreeType, HarfBuzz and Raqm
 * [Text rendering tests](https://github.com/unicode-org/text-rendering-tests) Test suite for text rendering
+* [FTGLES](https://github.com/cdave1/ftgles) A truetype font rendering library for OpenGL ES on iOS devices (iPad and iPhone) http://cdave1.github.io/ftgles/
+* [TTFPatch](https://github.com/rmuch/ttfpatch) Mirror of TTFPATCH by Wolfram Esser, modified to support fonts conforming to newer OTF specifications, built for modern versions of Windows.
+* [stb-truetype-opengl-examples](https://github.com/0xc0dec/stb-truetype-opengl-examples) Examples of TrueType font rendering in C++11 using stb_truetype library and OpenGL 3+
 
 ### C#
 * [NRasterizer](https://github.com/vidstige/NRasterizer) Simple and clean TrueType font renderer written purely in c#
+* [Typography](https://github.com/LayoutFarm/Typography) C# Font Reader (TrueType / OpenType / OpenFont), Glyphs Layout and Rendering
+* [SixLabors.Fonts](https://github.com/SixLabors/Fonts) Font loading and drawing library. http://fonts.sixlabors.com
+* [SharpFont](https://github.com/MikePopoloski/SharpFont) Pure managed TTF / OTF reader and renderer.
 
 ### Java
 * [sfntly](https://github.com/googlei18n/sfntly) A Library for Using, Editing, and Creating SFNT-based Fonts
@@ -116,16 +131,24 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [font](https://github.com/ConradIrwin/font) Parsing OpenType fonts in Golang.
 
 ### Rust
-* [OpenType](https://github.com/bodoni/opentype) Parser for OpenType fonts
 * [font-rs](https://github.com/google/font-rs) The fastest font renderer in the world.
 * [RustType](https://github.com/dylanede/rusttype) A pure Rust alternative to libraries like FreeType.
+* [Pathfinder](https://github.com/pcwalton/pathfinder) A fast, practical GPU rasterizer for OpenType fonts.
+* [Font toolbox](https://github.com/bodoni/font)
+* [Parser for OpenType fonts](https://github.com/bodoni/opentype)
+* [Parser for PostScript fonts](https://github.com/bodoni/postscript)
+* [Parser for TrueType fonts](https://github.com/bodoni/truetype)
 
 ### PHP
+* [PHP Font Lib](https://github.com/PhenX/php-font-lib) A library to read, parse, export and make subsets of different types of font files.
 * [JoliTypo](https://github.com/jolicode/JoliTypo) Microtypography fixer for the web http://jolitypo-demo.herokuapp.com/
 * [PHP SmartyPants](https://github.com/michelf/php-smartypants) SmartyPants is a free web typography prettifyier tool for web writers. It easily translates plain ASCII punctuation characters into "smart" typographic punctuation HTML entities.
 
 ### Perl
 * [Font::TTFMetrics](https://metacpan.org/release/Font-TTFMetrics) Fast & easy-to-use parser for true-type font (TTF) file.
+
+### Processing
+* [Fontastic](https://github.com/andreaskoller/Fontastic) A Processing library to create TrueType font files
 
 ## UFO [unifiedfontobject.org](http://unifiedfontobject.org)
 * [ufo-spec](https://github.com/unified-font-object/ufo-spec) The official Unified Font Object specification source files.
@@ -203,6 +226,8 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [Axis-Praxis](http://www.axis-praxis.org/) Axis-Praxis is a web tool for playing with Variable Fonts.
 * [Twitter Emoji (Twemoji)](https://github.com/twitter/twemoji) The Twemoji library offers support for +2k emojis, including skin tone and gender modifiers.
 * [EmojiOne](https://github.com/Ranks/emojione) EmojiOne™ is the open emoji standard. #iwantemojione http://emojione.com/
+* [No @font-face Syntax will ever be Bulletproof, Nor Should It Be](http://calendar.perfplanet.com/2016/no-font-face-bulletproof-syntax/)
+* [Typography is impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891) The practical guide to why laying out type never quite does what you want.
 
 ## Fonts
 * [Nanofont](https://github.com/bramstein/nanofont) A nano font for testing font format support (TrueType, WOFF, WOFF2).
@@ -214,15 +239,16 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [AIFont](https://github.com/Denly/AIFont) The fist Chinese font that generated artificial intelligent.
 * [Noto Fonts](https://github.com/googlei18n/noto-fonts) Noto’s goal is to provide a beautiful reading experience for all languages.
 * [Noto Emoji](https://github.com/googlei18n/noto-emoji) Color and Black-and-White Noto emoji fonts, and tools for working with them.
-* [EmojiOne Color Font](https://github.com/eosrei/emojione-color-font) ⚛ A color emoji OpenType SVG font using EmojiOne Unicode 9.0 graphics with diversity and country flags. Linux, OS X, & Windows.
-* [Twitter Color Emoji Font](https://github.com/eosrei/twemoji-color-font) ⛱ A color emoji OpenType-SVG font using Twitter Emoji for Everyone graphics with diversity and country flags. Linux, OS X, & Windows.
+* [EmojiOne COLR/CPAL](https://github.com/mozilla/emojione-colr) Project to create a COLR/CPAL-based color OpenType font from the EmojiOne collection of emoji images.
+* [EmojiOne OpenType-SVG](https://github.com/eosrei/emojione-color-font) Color emoji OpenType-SVG font using EmojiOne Unicode 9.0 emoji with diversity and country flags. Linux/MacOS/Windows
+* [Twitter Color Emoji Font](https://github.com/eosrei/twemoji-color-font) Color emoji OpenType-SVG font using Twitter Unicode 9.0 emoji with diversity and country flags. Linux/MacOS/Windows
 For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 * [Bixa Color](https://bixacolor.com) Building Bixa Color, a color font for the web [pixelambacht.nl/2016/building-bixa-color/](https://pixelambacht.nl/2016/building-bixa-color/)
 * [fontwr-fonts](https://github.com/raphaklaus/fontwr-fonts) Fonts repository for fontwr
 * [Bungee](https://github.com/djrrb/Bungee/) A chromatic signage typeface for vertical and horizontal setting. https://djr.com/bungee/
 * [Aerial Bold](http://type.aerial-bold.com/tw/) Aerial Bold is the first map and typeface of the earth.
 * [wavefont](https://github.com/audio-lab/wavefont) A typeface for rendering data: waveforms, spectrums, diagrams, bars etc.
-* [Adobe Variable Font Prototype](https://github.com/adobe-fonts/adobe-variable-font-prototype) OpenType-CFF2 variable font example.
+* [Adobe Variable Font Prototype](https://github.com/adobe-fonts/adobe-variable-font-prototype) Variable font example in OpenType-CFF2 & TrueType formats.
 * [Microsoft open source fonts](https://github.com/Microsoft/fonts) Central location to share Microsoft's open source fonts
 * [Reinebow](https://github.com/xerographer/reinebow-color-font) Reinebow, an OpenType-SVG color font TTF & WOFF https://xerographer.github.io/reinebow/
 * [Freizer](https://github.com/xerographer/freizer-color-font) Freizer, an OpenType-SVG color font TTF & WOFF https://xerographer.github.io/freizer/
@@ -233,8 +259,16 @@ For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 * [TestFont](https://github.com/OpenType/TestFont) A font family for testing OpenType implementations.
 * [BuffaloGals](https://github.com/TrueTyper/BuffaloGals) Buffalo Gals is one of the very first “Variable Fonts”, originally made in 1992 for an Apple TrueType GX developer CD.
 * [Adobe Fonts / Source Emoji](https://github.com/adobe-fonts/source-emoji) Source Emoji is an emoji font project that began development in order to provide monochrome representative glyphs to the Unicode Consortium for emoji candidates that have been accepted by the UTC (Unicode Technical Committee) but have not yet been fully ratified to become a part of the official standard.
-* [No @font-face Syntax will ever be Bulletproof, Nor Should It Be](http://calendar.perfplanet.com/2016/no-font-face-bulletproof-syntax/)
-* [Typography is impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891) The practical guide to why laying out type never quite does what you want.
+* [Hasklig](https://github.com/i-tu/Hasklig) Hasklig - a code font with monospaced ligatures
+* [Firefox OS Emojis](https://github.com/mozilla/fxemoji)
+* [Iosevka](https://github.com/be5invis/Iosevka) Slender typeface for code, from code. http://be5invis.github.io/Iosevka
+* [Raleway](https://github.com/theleagueof/raleway) An elegant sans-serif, designed in a single thin weight.
+* [Adobe NotDef](https://github.com/adobe-fonts/adobe-notdef) Adobe NotDef maps 1,111,998 Unicode code points to 2,048 .notdef glyphs
+* [Adobe Blank](https://github.com/adobe-fonts/adobe-blank) Adobe Blank maps 1,111,998 Unicode code points to 2,048 non-spacing and non-marking glyphs
+* [Adobe Blank 2](https://github.com/adobe-fonts/adobe-blank-2) Based on Adobe Blank, and differs mainly in that the number of glyphs has been reduced to only two, thanks to the Format 13 'cmap' subtable.
+* [Width Test](https://github.com/adobe-fonts/width-test) For testing width-related GSUB features, specifically 'fwid' (Full Widths), 'hwid' (Half Widths), 'twid' (Third Widths), and 'qwid' (Quarter Widths).
+* [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) Set of OpenType/CFF Pan-CJK fonts. 
+* [Source Han Serif](https://github.com/adobe-fonts/source-han-serif) Set of OpenType/CFF Pan-CJK fonts.
 
 
 ## TrueType
