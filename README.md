@@ -94,6 +94,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [UFO Extractor](https://github.com/typesupply/extractor) Tools for extracting data from font binaries into UFO objects.
 * [Noto Tools](https://github.com/googlei18n/nototools) Noto fonts support tools and scripts.
 * [compreffor](https://github.com/googlei18n/compreffor) A CFF table subroutinizer for FontTools 
+* [Flat](http://xxyxyz.org/flat/) - Library for creating and manipulating digital forms of fine arts.
 
 ### C
 * [otfcc](https://github.com/caryll/otfcc) Parses & writes SFNT structures.
