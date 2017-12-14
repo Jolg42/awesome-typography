@@ -1,6 +1,30 @@
 # Awesome typography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Curated list about typography.
 
+## Contents
+* [Specifications](#specifications)
+* [OpenType](#opentype)
+    - [JavaScript](#javascript)
+    - [Python](#python)
+    - [C](#c)
+    - [C++](#c-1)
+    - [C#](#c-2)
+    - [Java](#java)
+    - [Ruby](#ruby)
+    - [Go](#go)
+    - [Rust](#rust)
+    - [PHP](#php)
+    - [Perl](#perl)
+    - [Processing](#processing)
+* [UFO unifiedfontobject.org](#ufo-unifiedfontobjectorg)
+* [Tools with GUI](#tools-with-gui)
+    - [Free](#free)
+    - [Non-Free](#non-free)
+* [Font Validator](#font-validator)
+* [Others](#others)
+* [Fonts](#fonts)
+* [TrueType](#truetype)
+* [Books](#books)
 
 ## Specifications
 * [Microsoft's Documentation](https://www.microsoft.com/en-us/Typography/OpenTypeSpecification.aspx)
