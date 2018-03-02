@@ -3,12 +3,12 @@ Curated list about typography.
 
 
 ## Specifications
-* [Microsoft's Documentation](https://www.microsoft.com/en-us/Typography/OpenTypeSpecification.aspx)
+* [Microsoft's Documentation](https://docs.microsoft.com/en-us/typography/opentype/spec/)
 * [Apple's Documentation](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
 * [The Compact Font Format
 Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technical Note #5176
 * [the-cff-table](https://github.com/Pomax/the-cff-table) A markdown conversion of the Adobe Tech notes 5176 and 5177 about CFF.
-* [Adobe's Documentation](http://www.adobe.com/devnet/font.html)
+* [Adobe's Documentation](https://www.adobe.com/devnet/font.html)
 
 ## OpenType
 * [OpenType: let's learn how modern fonts actually work](https://pomax.github.io/#gh-weblog-1449777175633)
@@ -20,10 +20,11 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [opentype-layout](https://github.com/Jam3/opentype-layout) Experimental word-wrapping and layout for OpenType.js https://jam3.github.io/opentype-layout/
 * [canvas-text-opentypejs-shim](https://github.com/shyiko/canvas-text-opentypejs-shim) Consistent text rendering for <canvas> (backed by OpenType.js)
 * [CharacterMap](https://github.com/bluejamesbond/CharacterMap/) Online Character Map / Glyph / Icon / Font Viewer https://bluejamesbond.github.io/CharacterMap/
-* [font](https://github.com/Benvie/font) Parse otf/ttf file format directory from buffers for metadata.
+* [font](https://www.npmjs.com/package/font) Parse otf/ttf file format directory from buffers for metadata.
 * [fontkit](https://github.com/devongovett/fontkit) An advanced font engine for Node and the browser
 * [Minimal-font-generator](https://github.com/Pomax/Minimal-font-generator) Font's Hello world
 * [simple-cff-builder](https://github.com/Pomax/simple-cff-builder) A simple CFF builder for testing fonts with different Type2 charstrings.
+* [ttf2woff2](https://github.com/nfroidure/ttf2woff2/) Convert ttf files to woff2.
 * [ttf2woff](https://github.com/fontello/ttf2woff) Font convertor, TTF to WOFF, for node.js
 * [ttf2eot](https://github.com/fontello/ttf2eot) Font convertor, TTF to EOT, for node.js
 * [cubic2quad](https://github.com/fontello/cubic2quad) Aproximates cubic bezier curves with quadratic ones.
@@ -50,7 +51,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [fontfacegen](https://github.com/agentk/fontfacegen) Browser font-face generator for creating browser usable fonts from ttf's or otf's.
 * [NType](https://github.com/kevinzweerink/ntype) 4D Type Extruder http://ntype.blue
 * [node-emoji](https://github.com/omnidan/node-emoji) 😏 simple emoji support for node.js projects.
-* [custom-fonts-in-emails](https://github.com/crocodilejs/custom-fonts-in-emails) An extremely easy way to use custom fonts in emails without having to use art software.
+* [custom-fonts-in-emails](https://github.com/ladjs/custom-fonts-in-emails) An extremely easy way to use custom fonts in emails without having to use art software.
 * [Google Fonts Infos](https://github.com/thisarmy/fontsinfo) Extract info out of the Google Fonts archive. http://code.thisarmy.com/fontsinfo/
 * [Hyphenopoly.js](https://github.com/mnater/Hyphenopoly) JavaScript polyfill for client-side hyphenation.
 * [Hyphenator.js](https://github.com/mnater/Hyphenator) JavaScript that implements client-side hyphenation of HTML-Documents http://mnater.github.io/Hyphenator/
@@ -64,6 +65,15 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [font-spider](https://github.com/aui/font-spider) Smart webfont compression and format conversion tool http://font-spider.org
 * [Brotli.js](https://github.com/devongovett/brotli.js) A JavaScript port of the Brotli compression algorithm, as used in WOFF2
 * [ideohint](https://github.com/caryll/ideohint) Optimized hinter for Ideographs 
+* [subfont](https://github.com/Munter/subfont) Command line tool to inject Google font subsets used glyphs into your page
+* [webfont](https://github.com/itgalaxy/webfont) Awesome generator of webfont, WOFF2, WOFF, EOT, TTF and SVG.
+* [grapheme-splitter](https://github.com/orling/grapheme-splitter) A JavaScipt library that breaks strings into their individual user-perceived characters.
+* [unicode-tr51-emoji](https://github.com/cameronhunter/unicode-tr51-emoji) Emoji data extracted from Unicode Technical Report #51 v1.0 – v5.0
+* [fontblast](https://github.com/eugene1g/font-blast) Give me an icon-font, and I'll create individual SVG/PNG files for all icons in it.
+* [fontplop](https://github.com/matthewgonzalez/fontplop) Fast, Simple, & Free Open Source Webfont Converter http://www.fontplop.com
+* [svgfont2svgicons](https://github.com/nfroidure/svgfont2svgicons) Extract SVG icons from an SVG font 
+* [glyphhanger](https://github.com/filamentgroup/glyphhanger) Your web font utility belt. It shows what unicode-ranges are used on a web site (optionally for a font-family or for each font-family). It can also subset web fonts.
+* [Punycode.js](https://github.com/bestiejs/punycode.js) A robust Punycode converter that fully complies to RFC 3492 and RFC 5891. mths.be/punycode
 
 ### Python
 * [fontTools](https://github.com/fonttools/fonttools) A library for manipulating fonts, written in Python.
@@ -94,6 +104,8 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [UFO Extractor](https://github.com/typesupply/extractor) Tools for extracting data from font binaries into UFO objects.
 * [Noto Tools](https://github.com/googlei18n/nototools) Noto fonts support tools and scripts.
 * [compreffor](https://github.com/googlei18n/compreffor) A CFF table subroutinizer for FontTools 
+* [font-line](https://github.com/source-foundry/font-line) OpenType vertical metrics reporting and font line spacing adjustment tool.
+* [code-point-at](https://github.com/sindresorhus/code-point-at) ES2015 String#codePointAt() ponyfill
 * [Flat](http://xxyxyz.org/flat/) - Library for creating and manipulating digital forms of fine arts.
 
 ### C
@@ -102,6 +114,8 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [stb_truetype](https://github.com/nothings/stb/) Parse, decode, and rasterize characters for TrueType fonts. Single header file.
 * [FreeType](https://www.freetype.org/) Freely available software library to render fonts.
 * [Raqm](https://github.com/HOST-Oman/libraqm) A library for complex text layout.
+* [SheenFigure](https://github.com/mta452/SheenFigure) An implementation of advanced typographic tables of OpenType specification.
+* [SheenBidi](https://github.com/mta452/SheenBidi) eenBidi is the world's most sophisticated implementation of latest unicode bidirectional algorithm
 
 ### C++
 * [font to svg](https://github.com/donbright/font_to_svg) Render characters from font files into an SVG path
@@ -111,7 +125,8 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [Text rendering tests](https://github.com/unicode-org/text-rendering-tests) Test suite for text rendering
 * [FTGLES](https://github.com/cdave1/ftgles) A truetype font rendering library for OpenGL ES on iOS devices (iPad and iPhone) http://cdave1.github.io/ftgles/
 * [TTFPatch](https://github.com/rmuch/ttfpatch) Mirror of TTFPATCH by Wolfram Esser, modified to support fonts conforming to newer OTF specifications, built for modern versions of Windows.
-* [stb-truetype-opengl-examples](https://github.com/0xc0dec/stb-truetype-opengl-examples) Examples of TrueType font rendering in C++11 using stb_truetype library and OpenGL 3+
+* [stb-truetype-opengl-examples](https://github.com/0xc0dec/demos) Examples of TrueType font rendering in C++11 using stb_truetype library and OpenGL 3+
+* [WOFF2](https://github.com/google/woff2)
 
 ### C#
 * [NRasterizer](https://github.com/vidstige/NRasterizer) Simple and clean TrueType font renderer written purely in c#
@@ -122,6 +137,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 ### Java
 * [sfntly](https://github.com/googlei18n/sfntly) A Library for Using, Editing, and Creating SFNT-based Fonts
 * [Emoji-Tools](https://github.com/MitchTalmadge/Emoji-Tools) Multiple useful tools to help Android and iOS/OSX developers with creating and modifying Emoji Font files.
+* [Tehreer-Android](https://github.com/mta452/Tehreer-Android) A library that gives full control over text related technologies such as bidirectional algorithm, open type shaping engine, text typesetting and text rendering.
 
 ### Ruby
 * [emoji-extractor](https://github.com/tmm1/emoji-extractor) Extracts high-resolution emoji pngs from Apple Color Emoji.ttf
@@ -132,12 +148,15 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 
 ### Rust
 * [font-rs](https://github.com/google/font-rs) The fastest font renderer in the world.
-* [RustType](https://github.com/dylanede/rusttype) A pure Rust alternative to libraries like FreeType.
+* [RustType](https://github.com/redox-os/rusttype) A pure Rust alternative to libraries like FreeType. 
 * [Pathfinder](https://github.com/pcwalton/pathfinder) A fast, practical GPU rasterizer for OpenType fonts.
 * [Font toolbox](https://github.com/bodoni/font)
 * [Parser for OpenType fonts](https://github.com/bodoni/opentype)
 * [Parser for PostScript fonts](https://github.com/bodoni/postscript)
 * [Parser for TrueType fonts](https://github.com/bodoni/truetype)
+* [freetype-rs](https://github.com/PistonDevelopers/freetype-rs) Rust bindings for FreeType library
+* [freetype-sys](https://github.com/PistonDevelopers/freetype-sys) Low level bindings for the FreeType font library
+* [truetype](https://github.com/PistonDevelopers/truetype) A library for reading fonts from the TrueType format
 
 ### PHP
 * [PHP Font Lib](https://github.com/PhenX/php-font-lib) A library to read, parse, export and make subsets of different types of font files.
@@ -166,10 +185,11 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [Metapolator](https://github.com/metapolator) Web-based GUI for creating UFO and Metafont fonts.
 * [Birdfont](https://github.com/johanmattssonm/birdfont) A font editor which can generate fonts in TTF, EOT, SVG and BF format.
 * [Glyphr Studio](https://twitter.com/glyphrstudio) A free, web-based font editor, focusing on font design hobbyists.
-* [DTL OTMaster Light](http://www.fontmaster.nl/#) In the Light editions of dtl OTMaster only the saving of files is disabled. Checking fonts and exporting OpenType Layout features ﬁles, be and ik formats, and Character Layout (.cha) ﬁles is possible though.
+* [DTL OTMaster Light](https://www.fontmaster.nl//) In the Light editions of dtl OTMaster only the saving of files is disabled. Checking fonts and exporting OpenType Layout features ﬁles, be and ik formats, and Character Layout (.cha) ﬁles is possible though.
 * [fonteditor](https://github.com/ecomfe/fonteditor) A web-based TTF font editor, live at [fontstore.baidu.com](http://fontstore.baidu.com/static/editor/index-en.html).
 * [FontArk](http://fontark.net/farkwp/) FontArk is an innovative browser-based font editor, font creator (BETA), featuring the most versatile real-time multiple glyph editing system.
 * [TTFEdit](https://sourceforge.net/projects/ttfedit/) TrueType fonts editor. Allows for editing vector-based glyphs.
+* [OpenType-SVG-Font-Editor](https://github.com/Microsoft/OpenType-SVG-Font-Editor)
 
 ### Non-Free
 * [Robofont](http://doc.robofont.com) UFO based, mac only, font editor.
@@ -177,7 +197,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [Prototypo](https://www.prototypo.io) Web based font generator with a parametric approach.
 * [Fontself](https://www.fontself.com) Adobe Illustrator & Photoshop extensions for creating vector and bitmap fonts with Drag&Drop, born on Kickstarter.
 * [FontLab Studio](https://www.fontlab.com/font-editor/fontlab-studio/) Font editor for font professionals. Version 5 for Mac and Windows.
-* [DTL OTMaster](http://www.fontmaster.nl) DTL OTMaster (OTM), is a highly sophisticated application for reviewing, editing and altering tables and contours of fonts with a snft ﬁle structure, as there are CFF and TTF flavored OpenType fonts, TrueType fonts and TrueType Collection fonts.
+* [DTL OTMaster](https://www.fontmaster.nl//) DTL OTMaster (OTM), is a highly sophisticated application for reviewing, editing and altering tables and contours of fonts with a snft ﬁle structure, as there are CFF and TTF flavored OpenType fonts, TrueType fonts and TrueType Collection fonts.
 * [010 Editor](http://www.sweetscape.com/010editor/) Professional text and hex editing with Binary Templates technology. OpenType template http://pikensoft.com/programs/OpenTypeTemplate.bt
 * [Synalyze It!](https://www.synalysis.net) Reverse Engineering and Binary File Analysis made easy. OpenType template https://www.synalysis.net/Grammars/opentype.grammar
 
@@ -185,6 +205,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 ## Font Validator
 * [Font Validator](https://github.com/HinTak/Font-Validator) Font Validator is a tool for testing fonts prior to release. See [Install post for Mac](http://typedrawers.com/discussion/comment/16090/#Comment_16090)
 * [OpenType Sanitiser](https://github.com/khaledhosny/ots) The OpenType Sanitiser (OTS) parses and serialises OpenType files (OTF, TTF) and WOFF and WOFF2 font files, validating them and sanitising them as it goes.
+* [WOFF Validator](http://validator.fontbureau.com/) Online WOFF Validator
 
 ## Others
 * [TypeDrawers](http://typedrawers.com) A discussion forum for professionals and enthusiasts in the fields of typeface design, lettering, and typography.
@@ -200,7 +221,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [Typomanie.fr Ressources](http://typomanie.fr/ressources/)
 * [Drawing good paths Tutorial](https://glyphsapp.com/tutorials/drawing-good-paths) Badly drawn outlines can cause headache. Your letters may look mangled or not appear at all. You can avoid these difficulties if you keep a few basic rules in mind.
 * [Deep Into OpenType Features](http://blog.ricardofilipe.com/post/deep-into-opentype-features) What are OpenType features?
-* [The A-Z of typographic terms](http://www.fontsmith.com/blog/2016/06/29/the-a-z-of-typographic-terms) Typography terms in images.
+* [The A-Z of typographic terms](https://www.fontsmith.com/blog/2016/06/29/the-a-z-of-typographic-terms) Typography terms in images.
 * [Emoj](https://github.com/sindresorhus/emoj) Find relevant emoji from text on the command-line 😮 ✨ 🙌 🐴 💥 🙈
 * [Emoji Wrap Monthly Newsletter](http://emojiwrap.com/) A bite-sized summary of what's happening in the world of emoji and Unicode.
 * [FDBP](http://silnrsi.github.io/FDBP/) Font Development Best Practice documentation
@@ -218,16 +239,22 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [The Terrible Secret of OpenType Glyph Substitution](http://ansuz.sooke.bc.ca/entry/131)
 * [I Can Variable Font](https://github.com/scribbletone/i-can-variable-font) Tips for making variable fonts.
 * [You, Me And The Emoji: Character Sets, Encoding And Emoji](https://www.smashingmagazine.com/2016/11/character-sets-encoding-emoji/)
-* [Emoji Rolodex](http://emoji.codes/rolodex) Resourceful links to emoji-related sites, plug-ins, and apps.
+* [Emoji Rolodex](https://emoji.codes/rolodex) Resourceful links to emoji-related sites, plug-ins, and apps.
 * [OpenType_Table_Source](https://github.com/Monotype/OpenType_Table_Source) Documentation for Monotype's OpenType Layout Source File Format
 * [jenskutilek/TypoLabs2016](https://github.com/jenskutilek/TypoLabs2016) Code examples from Jens Kutilek's TypoLabs workshop.
 * [W3C - Fonts on the Web](https://www.w3.org/Fonts/) Fonts on the Web
 * [W3C - WebFonts Working Group](https://www.w3.org/Fonts/WG/)
-* [Axis-Praxis](http://www.axis-praxis.org/) Axis-Praxis is a web tool for playing with Variable Fonts.
+* [Axis-Praxis](https://www.axis-praxis.org/) Axis-Praxis is a web tool for playing with Variable Fonts.
 * [Twitter Emoji (Twemoji)](https://github.com/twitter/twemoji) The Twemoji library offers support for +2k emojis, including skin tone and gender modifiers.
-* [EmojiOne](https://github.com/Ranks/emojione) EmojiOne™ is the open emoji standard. #iwantemojione http://emojione.com/
+* [EmojiOne](https://github.com/emojione/emojione) EmojiOne™ is the open emoji standard. #iwantemojione https://emojione.com/
 * [No @font-face Syntax will ever be Bulletproof, Nor Should It Be](https://calendar.perfplanet.com/2016/no-font-face-bulletproof-syntax/)
 * [Typography is impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891) The practical guide to why laying out type never quite does what you want.
+* [JavaScript has a Unicode problem](https://mathiasbynens.be/notes/javascript-unicode) The way JavaScript handles Unicode is… surprising, to say the least.
+* [homebrew-webfonttools](https://github.com/bramstein/homebrew-webfonttools) Homebrew formulae for font tools.
+* [Font Falsehoods](https://github.com/RoelN/Font-Falsehoods) Falsehoods programmers believe about fonts.
+* [Letterpress Digest](http://letterpressdigest.com) The new podcast about letterpress.
+* [fontspeed](https://www.fontspeed.io/) Newsletter on font loading by @zachleat
+* [Font-Awesome-SVG-PNG](https://github.com/encharm/Font-Awesome-SVG-PNG) Font Awesome split to individual SVG and PNG files of different sizes along with Node.JS based generator.
 
 ## Fonts
 * [Nanofont](https://github.com/bramstein/nanofont) A nano font for testing font format support (TrueType, WOFF, WOFF2).
@@ -261,7 +288,7 @@ For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 * [Adobe Fonts / Source Emoji](https://github.com/adobe-fonts/source-emoji) Source Emoji is an emoji font project that began development in order to provide monochrome representative glyphs to the Unicode Consortium for emoji candidates that have been accepted by the UTC (Unicode Technical Committee) but have not yet been fully ratified to become a part of the official standard.
 * [Hasklig](https://github.com/i-tu/Hasklig) Hasklig - a code font with monospaced ligatures
 * [Firefox OS Emojis](https://github.com/mozilla/fxemoji)
-* [Iosevka](https://github.com/be5invis/Iosevka) Slender typeface for code, from code. https://be5invis.github.io/Iosevka
+* [Iosevka](https://github.com/be5invis/Iosevka) Slender typeface for code, from code. https://be5invis.github.io/Iosevka/
 * [Raleway](https://github.com/theleagueof/raleway) An elegant sans-serif, designed in a single thin weight.
 * [Adobe NotDef](https://github.com/adobe-fonts/adobe-notdef) Adobe NotDef maps 1,111,998 Unicode code points to 2,048 .notdef glyphs
 * [Adobe Blank](https://github.com/adobe-fonts/adobe-blank) Adobe Blank maps 1,111,998 Unicode code points to 2,048 non-spacing and non-marking glyphs
@@ -269,6 +296,8 @@ For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 * [Width Test](https://github.com/adobe-fonts/width-test) For testing width-related GSUB features, specifically 'fwid' (Full Widths), 'hwid' (Half Widths), 'twid' (Third Widths), and 'qwid' (Quarter Widths).
 * [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) Set of OpenType/CFF Pan-CJK fonts. 
 * [Source Han Serif](https://github.com/adobe-fonts/source-han-serif) Set of OpenType/CFF Pan-CJK fonts.
+* [The Gilbert Font](https://github.com/Fontself/TypeWithPride) An OpenType-SVG font named after Gilbert Baker, the creator of the rainbow flag.
+* [Open Emoji](https://twitter.com/OpenEmoji) Open Emoji exists to provide open and free access to visual communications technology, namely emoji, for the entire universe.
 
 
 ## TrueType
