@@ -74,6 +74,8 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [svgfont2svgicons](https://github.com/nfroidure/svgfont2svgicons) Extract SVG icons from an SVG font 
 * [glyphhanger](https://github.com/filamentgroup/glyphhanger) Your web font utility belt. It shows what unicode-ranges are used on a web site (optionally for a font-family or for each font-family). It can also subset web fonts.
 * [Punycode.js](https://github.com/bestiejs/punycode.js) A robust Punycode converter that fully complies to RFC 3492 and RFC 5891. mths.be/punycode
+* [code-point-at](https://github.com/sindresorhus/code-point-at) ES2015 String#codePointAt() ponyfill
+* [Typefont](https://github.com/vasilepeste/Typefont) The first open-source library that detects the font of a text in a image.
 
 ### Python
 * [fontTools](https://github.com/fonttools/fonttools) A library for manipulating fonts, written in Python.
@@ -105,8 +107,8 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [Noto Tools](https://github.com/googlei18n/nototools) Noto fonts support tools and scripts.
 * [compreffor](https://github.com/googlei18n/compreffor) A CFF table subroutinizer for FontTools 
 * [font-line](https://github.com/source-foundry/font-line) OpenType vertical metrics reporting and font line spacing adjustment tool.
-* [code-point-at](https://github.com/sindresorhus/code-point-at) ES2015 String#codePointAt() ponyfill
 * [Flat](http://xxyxyz.org/flat/) - Library for creating and manipulating digital forms of fine arts.
+* [PageBot](https://github.com/typenetwork/pagebot) Scripted page layout program, as application inside Drawbot generating high quality typographic documents that support high quality fonts.
 
 ### C
 * [otfcc](https://github.com/caryll/otfcc) Parses & writes SFNT structures.
@@ -185,7 +187,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [Metapolator](https://github.com/metapolator) Web-based GUI for creating UFO and Metafont fonts.
 * [Birdfont](https://github.com/johanmattssonm/birdfont) A font editor which can generate fonts in TTF, EOT, SVG and BF format.
 * [Glyphr Studio](https://twitter.com/glyphrstudio) A free, web-based font editor, focusing on font design hobbyists.
-* [DTL OTMaster Light](https://www.fontmaster.nl//) In the Light editions of dtl OTMaster only the saving of files is disabled. Checking fonts and exporting OpenType Layout features ﬁles, be and ik formats, and Character Layout (.cha) ﬁles is possible though.
+* [DTL OTMaster Light](https://www.fontmaster.nl/#light) In the Light editions of dtl OTMaster only the saving of files is disabled. Checking fonts and exporting OpenType Layout features ﬁles, be and ik formats, and Character Layout (.cha) ﬁles is possible though.
 * [fonteditor](https://github.com/ecomfe/fonteditor) A web-based TTF font editor, live at [fontstore.baidu.com](http://fontstore.baidu.com/static/editor/index-en.html).
 * [FontArk](http://fontark.net/farkwp/) FontArk is an innovative browser-based font editor, font creator (BETA), featuring the most versatile real-time multiple glyph editing system.
 * [TTFEdit](https://sourceforge.net/projects/ttfedit/) TrueType fonts editor. Allows for editing vector-based glyphs.
@@ -197,7 +199,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [Prototypo](https://www.prototypo.io) Web based font generator with a parametric approach.
 * [Fontself](https://www.fontself.com) Adobe Illustrator & Photoshop extensions for creating vector and bitmap fonts with Drag&Drop, born on Kickstarter.
 * [FontLab Studio](https://www.fontlab.com/font-editor/fontlab-studio/) Font editor for font professionals. Version 5 for Mac and Windows.
-* [DTL OTMaster](https://www.fontmaster.nl//) DTL OTMaster (OTM), is a highly sophisticated application for reviewing, editing and altering tables and contours of fonts with a snft ﬁle structure, as there are CFF and TTF flavored OpenType fonts, TrueType fonts and TrueType Collection fonts.
+* [DTL OTMaster](https://www.fontmaster.nl) DTL OTMaster (OTM), is a highly sophisticated application for reviewing, editing and altering tables and contours of fonts with a snft ﬁle structure, as there are CFF and TTF flavored OpenType fonts, TrueType fonts and TrueType Collection fonts.
 * [010 Editor](http://www.sweetscape.com/010editor/) Professional text and hex editing with Binary Templates technology. OpenType template http://pikensoft.com/programs/OpenTypeTemplate.bt
 * [Synalyze It!](https://www.synalysis.net) Reverse Engineering and Binary File Analysis made easy. OpenType template https://www.synalysis.net/Grammars/opentype.grammar
 
@@ -239,14 +241,14 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) Technic
 * [The Terrible Secret of OpenType Glyph Substitution](http://ansuz.sooke.bc.ca/entry/131)
 * [I Can Variable Font](https://github.com/scribbletone/i-can-variable-font) Tips for making variable fonts.
 * [You, Me And The Emoji: Character Sets, Encoding And Emoji](https://www.smashingmagazine.com/2016/11/character-sets-encoding-emoji/)
-* [Emoji Rolodex](https://emoji.codes/rolodex) Resourceful links to emoji-related sites, plug-ins, and apps.
+* [Emoji Rolodex](https://www.emojicopy.com/#emojicodes) Resourceful links to emoji-related sites, plug-ins, and apps.
 * [OpenType_Table_Source](https://github.com/Monotype/OpenType_Table_Source) Documentation for Monotype's OpenType Layout Source File Format
 * [jenskutilek/TypoLabs2016](https://github.com/jenskutilek/TypoLabs2016) Code examples from Jens Kutilek's TypoLabs workshop.
 * [W3C - Fonts on the Web](https://www.w3.org/Fonts/) Fonts on the Web
 * [W3C - WebFonts Working Group](https://www.w3.org/Fonts/WG/)
 * [Axis-Praxis](https://www.axis-praxis.org/) Axis-Praxis is a web tool for playing with Variable Fonts.
 * [Twitter Emoji (Twemoji)](https://github.com/twitter/twemoji) The Twemoji library offers support for +2k emojis, including skin tone and gender modifiers.
-* [EmojiOne](https://github.com/emojione/emojione) EmojiOne™ is the open emoji standard. #iwantemojione https://emojione.com/
+* [EmojiOne](https://github.com/emojione/emojione) EmojiOne™ is the open emoji standard. #iwantemojione https://www.emojione.com/
 * [No @font-face Syntax will ever be Bulletproof, Nor Should It Be](https://calendar.perfplanet.com/2016/no-font-face-bulletproof-syntax/)
 * [Typography is impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891) The practical guide to why laying out type never quite does what you want.
 * [JavaScript has a Unicode problem](https://mathiasbynens.be/notes/javascript-unicode) The way JavaScript handles Unicode is… surprising, to say the least.
