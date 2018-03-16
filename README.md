@@ -99,7 +99,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) - Techn
 * [glyphhanger](https://github.com/filamentgroup/glyphhanger) - Your web font utility belt. It shows what unicode-ranges are used on a web site (optionally for a font-family or for each font-family). It can also subset web fonts.
 * [Punycode.js](https://github.com/bestiejs/punycode.js) - Robust Punycode converter that fully complies to RFC 3492 and RFC 5891. mths.be/punycode
 * [code-point-at](https://github.com/sindresorhus/code-point-at) - ES2015 String#codePointAt() ponyfill.
-* [Typefont](https://github.com/vasilepeste/Typefont) - The first open-source library that detects the font of a text in a image.
+* [Typefont](https://github.com/Sir-Vasile/Typefont) - The first open-source library that detects the font of a text in a image.
 
 ## Python
 * [fontTools](https://github.com/fonttools/fonttools) - Library for manipulating fonts, written in Python.
@@ -293,9 +293,9 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) - Techn
 * [AIFont](https://github.com/Denly/AIFont) - The fist Chinese font that generated artificial intelligent.
 * [Noto Fonts](https://github.com/googlei18n/noto-fonts) - Noto’s goal is to provide a beautiful reading experience for all languages.
 * [Noto Emoji](https://github.com/googlei18n/noto-emoji) - Color and Black-and-White Noto emoji fonts, and tools for working with them.
-* [EmojiOne COLR/CPAL](https://github.com/mozilla/emojione-colr) - Project to create a COLR/CPAL-based color OpenType font from the EmojiOne collection of emoji images.
-* [EmojiOne OpenType-SVG](https://github.com/eosrei/emojione-color-font) - Color emoji OpenType-SVG font using EmojiOne Unicode 9.0 emoji with diversity and country flags. Linux/MacOS/Windows.
-* [Twitter Color Emoji Font](https://github.com/eosrei/twemoji-color-font) - Color emoji OpenType-SVG font using Twitter Unicode 9.0 emoji with diversity and country flags. Linux/MacOS/Windows.
+* [EmojiOne COLR/CPAL](https://github.com/mozilla/twemoji-colr) - EmojiOne font in COLR/CPAL layered format.
+* [EmojiOne OpenType-SVG](https://github.com/eosrei/emojione-color-font) - Color emoji OpenType-SVG font using EmojiOne Unicode 9.0 emoji with diversity and country flags.
+* [Twitter Color Emoji Font](https://github.com/eosrei/twemoji-color-font) - Color emoji OpenType-SVG font using Twitter Unicode 9.0 emoji with diversity and country flags.
 * [Bixa Color](https://bixacolor.com) - Building Bixa Color, a color font for the web [pixelambacht.nl/2016/building-bixa-color/](https://pixelambacht.nl/2016/building-bixa-color/).
 * [fontwr-fonts](https://github.com/raphaklaus/fontwr-fonts) - Fonts repository for fontwr.
 * [Bungee](https://github.com/djrrb/Bungee/) - Chromatic signage typeface for vertical and horizontal setting https://djr.com/bungee/.
