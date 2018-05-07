@@ -4,7 +4,7 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 ## Adding to this list
 
-* Insert a new entry **alphabetically**
+* Insert a new entry **at the end** of a category
 * New categories or improvements to the existing categorization are welcome
 * Use the following format: `[entry title](link) - Additional information.`
 * Check your spelling and grammar
