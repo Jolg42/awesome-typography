@@ -312,7 +312,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) - Techn
 * [TestFont](https://github.com/OpenType/TestFont) - Font family for testing OpenType implementations.
 * [BuffaloGals](https://github.com/TrueTyper/BuffaloGals) - Buffalo Gals is one of the very first “Variable Fonts”, originally made in 1992 for an Apple TrueType GX developer CD.
 * [Adobe Fonts / Source Emoji](https://github.com/adobe-fonts/source-emoji) - Source Emoji is an emoji font project that began development in order to provide monochrome representative glyphs to the Unicode Consortium for emoji candidates that have been accepted by the UTC (Unicode Technical Committee) but have not yet been fully ratified to become a part of the official standard.
-* [Hasklig](https://github.com/i-tu/Hasklig) - Hasklig - a code font with monospaced ligatures.
+* [Hasklig](https://github.com/i-tu/Hasklig) - Code font with monospaced ligatures.
 * [Firefox OS Emojis](https://github.com/mozilla/fxemoji).
 * [Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code https://be5invis.github.io/Iosevka/.
 * [Raleway](https://github.com/theleagueof/raleway) - Elegant sans-serif, designed in a single thin weight.
