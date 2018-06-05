@@ -46,21 +46,21 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) - Techn
 * [opentype-layout](https://github.com/Jam3/opentype-layout) - Experimental word-wrapping and layout for OpenType.js https://jam3.github.io/opentype-layout/.
 * [canvas-text-opentypejs-shim](https://github.com/shyiko/canvas-text-opentypejs-shim) - Consistent text rendering for <canvas> (backed by OpenType.js).
 * [CharacterMap](https://github.com/bluejamesbond/CharacterMap/) - Online Character Map / Glyph / Icon / Font Viewer https://bluejamesbond.github.io/CharacterMap/.
-* [font](https://www.npmjs.com/package/font) - Parse otf/ttf file format directory from buffers for metadata.
+* [font](https://www.npmjs.com/package/font) - Parse OTF/TTF file format directory from buffers for metadata.
 * [fontkit](https://github.com/devongovett/fontkit) - Advanced font engine for Node and the browser.
 * [Minimal-font-generator](https://github.com/Pomax/Minimal-font-generator) - Font's Hello world.
 * [simple-cff-builder](https://github.com/Pomax/simple-cff-builder) - Simple CFF builder for testing fonts with different Type2 charstrings.
-* [ttf2woff2](https://github.com/nfroidure/ttf2woff2/) - Convert ttf files to woff2.
-* [ttf2woff](https://github.com/fontello/ttf2woff) - Font convertor, TTF to WOFF, for Node.js
-* [ttf2eot](https://github.com/fontello/ttf2eot) - Font convertor, TTF to EOT, for Node.js
+* [ttf2woff2](https://github.com/nfroidure/ttf2woff2/) - Convert TTF files to WOFF2.
+* [ttf2woff](https://github.com/fontello/ttf2woff) - Convert TTF to WOFF, for Node.js.
 * [sfnt2woff](https://github.com/laoshu133/sfnt2woff) - Convert TTF or OTF to WOFF, support Node.js and Browsers.
+* [ttf2eot](https://github.com/fontello/ttf2eot) - Convert TTF to EOT for Node.js.
 * [cubic2quad](https://github.com/fontello/cubic2quad) - Aproximates cubic bezier curves with quadratic ones.
 * [SVG font creator](https://github.com/fontello/svg-font-create) - Create SVG font from separate images.
 * [node-sfnt](https://github.com/be5invis/node-sfnt) - SFNT parser and generator for Node.js.
 * [node-unicode-data](https://github.com/mathiasbynens/node-unicode-data) - JavaScript-compatible Unicode data generator.
 * [fontwr](https://github.com/raphaklaus/fontwr) - Font manager for web projects.
 * [Open Type playground](https://github.com/magalhini/open-type-playground) - Playground for Open Type experiments with CSS.
-* [ChromaCheck](https://github.com/RoelN/ChromaCheck) - Feature test for color font support in browsers
+* [ChromaCheck](https://github.com/RoelN/ChromaCheck) - Feature test for color font support in browsers.
 * [Font Face Observer](https://github.com/bramstein/fontfaceobserver) - Font load events, simple, small and efficient [fontfaceobserver.com](https://fontfaceobserver.com).
 * [Web Font Loader](https://github.com/typekit/webfontloader) - Web Font Loader gives you added control when using linked fonts via @font-face.
 * [localFont](https://github.com/jaicab/localFont) - Implement localStorage web font caching in seconds https://jaicab.com/localFont/.
@@ -75,8 +75,8 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) - Techn
 * [Typr.js](https://github.com/photopea/Typr.js) - Process fonts in JavaScript.
 * [fonteditor-core](https://github.com/kekee000/fonteditor-core) - Read, write, transform fonts in JavaScript.
 * [fontmin](https://github.com/ecomfe/fontmin) - Minify font seamlessly https://ecomfe.github.io/fontmin/.
-* [fontfacegen](https://github.com/agentk/fontfacegen) - Browser font-face generator for creating browser usable fonts from ttf's or otf's.
-* [NType](https://github.com/kevinzweerink/ntype) - 4D Type Extruder http://ntype.blue.
+* [fontfacegen](https://github.com/agentk/fontfacegen) - Browser font-face generator for creating browser usable fonts from TTF's or OTF's.
+* [NType](https://github.com/kevinzweerink/ntype) - 4D Type Extruder.
 * [node-emoji](https://github.com/omnidan/node-emoji) - 😏 simple emoji support for Node.js projects.
 * [custom-fonts-in-emails](https://github.com/ladjs/custom-fonts-in-emails) - Extremely easy way to use custom fonts in emails without having to use art software.
 * [Google Fonts Infos](https://github.com/thisarmy/fontsinfo) - Extract info out of the Google Fonts archive. http://code.thisarmy.com/fontsinfo/.
@@ -102,7 +102,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) - Techn
 * [glyphhanger](https://github.com/filamentgroup/glyphhanger) - Your web font utility belt. It shows what unicode-ranges are used on a web site (optionally for a font-family or for each font-family). It can also subset web fonts.
 * [Punycode.js](https://github.com/bestiejs/punycode.js) - Robust Punycode converter that fully complies to RFC 3492 and RFC 5891. mths.be/punycode
 * [code-point-at](https://github.com/sindresorhus/code-point-at) - ES2015 String#codePointAt() ponyfill.
-* [Typefont](https://github.com/Sir-Vasile/Typefont) - The first open-source library that detects the font of a text in a image.
+* [Typefont](https://github.com/vasile-peste/Typefont) - First open-source library that detects the font of a text in a image.
 * [node-fonttools](https://github.com/dfrankland/node-fonttools) - Native bindings to fonttools to decompile and compile fonts.
 * [font-toolkit](https://github.com/hsiaosiyuan0/fonts) - Font file manipulating in TypeScript.
 * [variableFont.js](https://github.com/Monotype/variableFont.js) - Handles variable fonts through OpenType.js
@@ -165,7 +165,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) - Techn
 ## C#
 * [NRasterizer](https://github.com/vidstige/NRasterizer) - Simple and clean TrueType font renderer written purely in c#.
 * [Typography](https://github.com/LayoutFarm/Typography) - C# Font Reader (TrueType / OpenType / OpenFont), Glyphs Layout and Rendering.
-* [SixLabors.Fonts](https://github.com/SixLabors/Fonts) - Font loading and drawing library http://fonts.sixlabors.com.
+* [SixLabors.Fonts](https://github.com/SixLabors/Fonts) - Font loading and drawing library.
 * [SharpFont](https://github.com/MikePopoloski/SharpFont) - Pure managed TTF / OTF reader and renderer.
 
 ## Java
@@ -253,7 +253,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) - Techn
 * [ofont](https://github.com/raphaelbastide/ofont) - Web interface for font collections (used by usemodify.com)
 * [Git for Type Designers](https://github.com/frankrolf/git-for-type-designers)
 * [designwithfontforge.com](https://github.com/fontforge/designwithfontforge.com) - Book about how to design new typefaces with FontForge. See [designwithfontforge.com](http://designwithfontforge.com).
-* [FontTesting Page](https://github.com/impallari/Font-Testing-Page) - Webpage for testing typefaces, live at [www.impallari.com/testing](http://www.impallari.com/testing/).
+* [FontTesting Page](https://github.com/impallari/Font-Testing-Page) - Webpage for testing typefaces.
 * [CSS Utility OpenType](https://github.com/kennethormandy/utility-opentype) - Simple, CSS utility classes for advanced typographic features. See it [here](http://utility-opentype.kennethormandy.com/).
 * [Alfred Special Characters](https://github.com/typefacts/alfred-special-characters) - Typefacts Special Characters Workflow for Alfred 3.
 * [Typomanie.fr Ressources](http://typomanie.fr/ressources/)
@@ -325,7 +325,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) - Techn
 * [BuffaloGals](https://github.com/TrueTyper/BuffaloGals) - Buffalo Gals is one of the very first “Variable Fonts”, originally made in 1992 for an Apple TrueType GX developer CD.
 * [Adobe Fonts / Source Emoji](https://github.com/adobe-fonts/source-emoji) - Source Emoji is an emoji font project that began development in order to provide monochrome representative glyphs to the Unicode Consortium for emoji candidates that have been accepted by the UTC (Unicode Technical Committee) but have not yet been fully ratified to become a part of the official standard.
 * [Hasklig](https://github.com/i-tu/Hasklig) - Code font with monospaced ligatures.
-* [Firefox OS Emojis](https://github.com/mozilla/fxemoji) - Emoji set from Mozilla available as SVGs and ttf font.
+* [Firefox OS Emojis](https://github.com/mozilla/fxemoji) - Emoji set from Mozilla available as SVGs and TTF font.
 * [Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code https://be5invis.github.io/Iosevka/.
 * [Raleway](https://github.com/theleagueof/raleway) - Elegant sans-serif, designed in a single thin weight.
 * [Adobe NotDef](https://github.com/adobe-fonts/adobe-notdef) - Maps 1,111,998 Unicode code points to 2,048 .notdef glyphs.
