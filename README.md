@@ -17,6 +17,7 @@ Curated list about typography.
 - [PHP](#php)
 - [Perl](#perl) 
 - [Processing](#processing)
+- [Clojure](#clojure)
 - [UFO](#ufo)
 - [Tools with GUI](#tools-with-gui)
 - [Font Validator](#font-validator)  
@@ -24,6 +25,7 @@ Curated list about typography.
 - [Fonts](#fonts)
 - [TrueType](#truetype)
 - [Books](#books)
+- [Videos](#videos)
 
 
 ## Specifications
@@ -51,6 +53,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) - Techn
 * [ttf2woff2](https://github.com/nfroidure/ttf2woff2/) - Convert ttf files to woff2.
 * [ttf2woff](https://github.com/fontello/ttf2woff) - Font convertor, TTF to WOFF, for Node.js
 * [ttf2eot](https://github.com/fontello/ttf2eot) - Font convertor, TTF to EOT, for Node.js
+* [sfnt2woff](https://github.com/laoshu133/sfnt2woff) - Convert TTF or OTF to WOFF, support Node.js and Browsers.
 * [cubic2quad](https://github.com/fontello/cubic2quad) - Aproximates cubic bezier curves with quadratic ones.
 * [SVG font creator](https://github.com/fontello/svg-font-create) - Create SVG font from separate images.
 * [node-sfnt](https://github.com/be5invis/node-sfnt) - SFNT parser and generator for Node.js.
@@ -100,6 +103,9 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) - Techn
 * [Punycode.js](https://github.com/bestiejs/punycode.js) - Robust Punycode converter that fully complies to RFC 3492 and RFC 5891. mths.be/punycode
 * [code-point-at](https://github.com/sindresorhus/code-point-at) - ES2015 String#codePointAt() ponyfill.
 * [Typefont](https://github.com/Sir-Vasile/Typefont) - The first open-source library that detects the font of a text in a image.
+* [node-fonttools](https://github.com/dfrankland/node-fonttools) - Native bindings to fonttools to decompile and compile fonts.
+* [font-toolkit](https://github.com/hsiaosiyuan0/fonts) - Font file manipulating in TypeScript.
+* [variableFont.js](https://github.com/Monotype/variableFont.js) - Handles variable fonts through OpenType.js
 
 ## Python
 * [fontTools](https://github.com/fonttools/fonttools) - Library for manipulating fonts, written in Python.
@@ -142,6 +148,8 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) - Techn
 * [Raqm](https://github.com/HOST-Oman/libraqm) - Library for complex text layout.
 * [SheenFigure](https://github.com/mta452/SheenFigure) - Implementation of advanced typographic tables of OpenType specification.
 * [SheenBidi](https://github.com/mta452/SheenBidi) - SheenBidi is the world's most sophisticated implementation of latest unicode bidirectional algorithm.
+* [freetype-gl](https://github.com/rougier/freetype-gl) - OpenGL text using one vertex buffer, one texture and FreeType.
+* [WOFF](https://github.com/samboy/WOFF) - WOFF conversion reference code.
 
 ## C++
 * [font to svg](https://github.com/donbright/font_to_svg) - Render characters from font files into an SVG path.
@@ -171,6 +179,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) - Techn
 
 ## Go
 * [font](https://github.com/ConradIrwin/font) - Parsing OpenType fonts in Golang.
+* [freetype](https://github.com/golang/freetype) - Freetype font rasterizer in Go.
 
 ## Rust
 * [font-rs](https://github.com/google/font-rs) - The fastest font renderer in the world.
@@ -194,6 +203,9 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) - Techn
 
 ## Processing
 * [Fontastic](https://github.com/andreaskoller/Fontastic) - Processing library to create TrueType font files.
+
+## Clojure
+* [opentype.clj](https://github.com/ivarref/opentype.clj) - A simple API over opentype.js for Clojure. Runs on the JVM.
 
 ## UFO 
 [unifiedfontobject.org](http://unifiedfontobject.org)
@@ -323,6 +335,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) - Techn
 * [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) - Set of OpenType/CFF Pan-CJK fonts. 
 * [Source Han Serif](https://github.com/adobe-fonts/source-han-serif) - Set of OpenType/CFF Pan-CJK fonts.
 * [Open Emoji](https://twitter.com/OpenEmoji) - Will provide open and free access to visual communications technology, namely emoji, for the entire universe.
+* [Overpass](https://github.com/RedHatBrand/Overpass) - Open source font family inspired by Highway Gothic.
 
 For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 
@@ -333,6 +346,11 @@ For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 ## Books
 * [Fonts & Encodings](http://shop.oreilly.com/product/9780596102425.do) - From Advanced Typography to Unicode and Everything in Between [Google Books Preview](https://books.google.fr/books?id=qrElYgVLDwYC&printsec=frontcover#v=onepage&q&f=false).
 * [Unicode Explained](http://shop.oreilly.com/product/9780596101213.do) - There are hundreds of different encoding systems for mapping characters to numbers, but Unicode promises a single mapping. [Google Books Preview](https://books.google.fr/books?id=lxndiWaFMvMC&printsec=frontcover#v=onepage&q&f=false).
+
+
+## Videos
+* [Talks from TYPO conferences](https://www.typotalks.com/videos/)
+* [Tales of ⌧! Can You Tell Your Story When Your Character Is Undefined?! by Persa Zula](https://github.com/pzula/tales-of-notdef)
 
 
 ## Contribute?
