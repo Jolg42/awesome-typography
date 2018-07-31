@@ -6,7 +6,5 @@ before_install:
 before_script:
 - gem install awesome_bot
 script:
-# `test` target executes `bundle exec rspec spec` and `npm run test`
-# in all appropriate subdirectories
-- make test
+- npm run test
 - awesome_bot README.md --white-list apple.com/fonts,medium.engineering,awesome.re
