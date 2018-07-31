@@ -1,0 +1,4 @@
+*
+!.travis.yml
+!*.md
+!package.json
