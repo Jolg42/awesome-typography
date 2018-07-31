@@ -1,5 +1,5 @@
 # Awesome Typography [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-Curated list about typography.
+Curated list about digital typography.
 
 ## Contents
 
