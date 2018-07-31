@@ -227,6 +227,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) - Techn
 - [DTL OTMaster](https://www.fontmaster.nl) - Highly sophisticated application for reviewing, editing and altering tables and contours of fonts with a snft ﬁle structure, as there are CFF and TTF flavored OpenType fonts, TrueType fonts and TrueType Collection fonts.
 - [010 Editor](http://www.sweetscape.com/010editor/) - Professional text and hex editing with Binary Templates technology. [OpenType template](http://pikensoft.com/programs/OpenTypeTemplate.bt).
 - [Synalyze It!](https://www.synalysis.net) - Reverse Engineering and Binary File Analysis made easy. [OpenType template](https://www.synalysis.net/Grammars/opentype.grammar).
+- [TransType 4](https://www.fontlab.com/font-converter/transtype/) - Universal font converter.
 
 ### Free
 - [FontForge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux.
