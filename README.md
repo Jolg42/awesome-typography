@@ -183,7 +183,8 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) - Techn
 
 ## Rust
 - [font-rs](https://github.com/google/font-rs) - The fastest font renderer in the world.
-- [RustType](https://github.com/redox-os/rusttype) - Pure Rust alternative to libraries like FreeType. 
+- [font-kit](https://github.com/servo/font-kit) - A cross-platform font loading library.
+- [RustType](https://github.com/redox-os/rusttype) - Pure Rust alternative to libraries like FreeType.
 - [Pathfinder](https://github.com/pcwalton/pathfinder) - Fast, practical GPU rasterizer for OpenType fonts.
 - [Font toolbox](https://github.com/bodoni/font)
 - [Parser for OpenType fonts](https://github.com/bodoni/opentype)
