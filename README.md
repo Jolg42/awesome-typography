@@ -223,7 +223,7 @@ Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) - Techn
 - [Fontself](https://www.fontself.com) Adobe Illustrator & Photoshop extensions for creating vector and bitmap fonts by Drag&Drop. Make fonts the easy way!
 - [Robofont](http://doc.robofont.com) - UFO based (Mac only).
 - [Glyphs](https://glyphsapp.com) - Font editor (Mac only).
-- [Prototypo](https://www.prototypo.io) - Web based font generator with a parametric approach.
+- [Prototypo](https://github.com/byte-foundry/prototypo) - Web based font generator with a parametric approach.
 - [FontLab Studio](https://www.fontlab.com/font-editor/fontlab-studio/) - Font editor for font professionals. Version 5 for Mac and Windows.
 - [DTL OTMaster](https://www.fontmaster.nl) - Highly sophisticated application for reviewing, editing and altering tables and contours of fonts with a snft ﬁle structure, as there are CFF and TTF flavored OpenType fonts, TrueType fonts and TrueType Collection fonts.
 - [010 Editor](http://www.sweetscape.com/010editor/) - Professional text and hex editing with Binary Templates technology. [OpenType template](http://pikensoft.com/programs/OpenTypeTemplate.bt).
