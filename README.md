@@ -32,7 +32,7 @@ Curated list about digital typography.
 - [Microsoft's Documentation](https://docs.microsoft.com/en-us/typography/opentype/spec/)
 - [Apple's Documentation](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
 - [The Compact Font Format
-Specification](https://typekit.files.wordpress.com/2013/05/5176.cff.pdf) - Technical Note #5176.
+Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf) - Technical Note #5176.
 - [the-cff-table](https://github.com/Pomax/the-cff-table) - Markdown conversion of the Adobe Tech notes 5176 and 5177 about CFF.
 - [Adobe's Documentation](https://www.adobe.com/devnet/font.html)
 
