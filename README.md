@@ -20,7 +20,8 @@ Curated list about digital typography.
 - [Clojure](#clojure)
 - [UFO](#ufo)
 - [Tools with GUI](#tools-with-gui)
-- [Font Validator](#font-validator)  
+- [Font Validator](#font-validator)
+- [Font Testing Websites](#font-validator) 
 - [Miscellaneous](#miscellaneous)
 - [Fonts](#fonts)
 - [TrueType](#truetype)
@@ -248,6 +249,14 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [OpenType Sanitiser](https://github.com/khaledhosny/ots) - The OpenType Sanitiser (OTS) parses and serialises OpenType files (OTF, TTF) and WOFF and WOFF2 font files, validating them and sanitising them as it goes.
 - [WOFF Validator](http://validator.fontbureau.com) - Online WOFF Validator.
 
+## Font Testing Websites
+- [Axis-Praxis](https://www.axis-praxis.org/) - Axis-Praxis is a website for playing with OpenType variable fonts in modern browsers.
+- [Bulletproof Font Tester](https://bulletproof.italic.space/) - Test your local or remote fonts with the proofing tool developed by a type designer, for type designers. Check out kerning, OpenType features, and language coverage. Explore and animate variation axes in variable fonts.
+- [Cyreal.org Font Testing Page](http://www.cyreal.org/Font-Testing-Page/) - The Font Testing Page is a tool primarily intended for type designers to 'Drag and Drop' and quickly test their fonts into a browser (active fork of Impallari's testing page).
+- [Font Gauntlet](https://fontgauntlet.com) - The Dinamo Font Gauntlet is a tool for proofing, generating and animating fonts.
+- [Wakamai Fondue](https://wakamaifondue.com/) - The tool that answers the question “what can my font do?”
+- [TypeNetwork TypeTools](https://typetools.typenetwork.com/) - Layout tools for exerimenting with variable fonts in various ways.
+
 ## Miscellaneous
 - [TypeDrawers](http://typedrawers.com) - Discussion forum for professionals and enthusiasts in the fields of typeface design, lettering, and typography.
 - [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - Upload OTF or TTF fonts, receive webfonts.
@@ -286,7 +295,6 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [jenskutilek/TypoLabs2016](https://github.com/jenskutilek/TypoLabs2016) - Code examples from Jens Kutilek's TypoLabs workshop.
 - [W3C - Fonts on the Web](https://www.w3.org/Fonts/) - Fonts on the Web.
 - [W3C - WebFonts Working Group](https://www.w3.org/Fonts/WG/)
-- [Axis-Praxis](https://www.axis-praxis.org) - Axis-Praxis is a web tool for playing with Variable Fonts.
 - [Twitter Emoji (Twemoji)](https://github.com/twitter/twemoji) - The Twemoji library offers support for +2k emojis, including skin tone and gender modifiers.
 - [EmojiOne](https://github.com/emojione/emojione) - EmojiOne™ is the open emoji standard.
 - [No @font-face Syntax will ever be Bulletproof, Nor Should It Be](https://calendar.perfplanet.com/2016/no-font-face-bulletproof-syntax/)
