@@ -21,7 +21,7 @@ Curated list about digital typography.
 - [UFO](#ufo)
 - [Tools with GUI](#tools-with-gui)
 - [Font Validator](#font-validator)
-- [Font Testing Websites](#font-validator) 
+- [Font Testing Websites](#font-testing-websites) 
 - [Miscellaneous](#miscellaneous)
 - [Fonts](#fonts)
 - [TrueType](#truetype)
