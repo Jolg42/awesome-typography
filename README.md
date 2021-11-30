@@ -96,6 +96,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [subfont](https://github.com/Munter/subfont) - Command line tool to inject Google font subsets used glyphs into your page.
 - [webfont](https://github.com/itgalaxy/webfont) - Awesome generator of webfont, WOFF2, WOFF, EOT, TTF and SVG.
 - [grapheme-splitter](https://github.com/orling/grapheme-splitter) - JavaScipt library that breaks strings into their individual user-perceived characters.
+- [unicode-properties](https://github.com/foliojs/unicode-properties) - Provides fast access to unicode character properties.
 - [unicode-tr51-emoji](https://github.com/cameronhunter/unicode-tr51-emoji) - Emoji data extracted from Unicode Technical Report #51 v1.0 – v5.0.
 - [fontblast](https://github.com/eugene1g/font-blast) - Give me an icon-font, and I'll create individual SVG/PNG files for all icons in it.
 - [fontplop](https://github.com/matthewgonzalez/fontplop) - Fast, Simple, & Free Open Source Webfont Converter.
@@ -121,7 +122,6 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [woffTools](https://github.com/typesupply/woffTools) - Library for working with WOFF files.
 - [pyftfeatfreeze](https://github.com/twardoch/fonttools-utils/tree/master/pyftfeatfreeze) - With pyftfeatfreeze, you can “freeze” some OpenType features into a font.
 - [RoboFab](https://github.com/robofab-developers/robofab) - Library with objects that deal with data usually associated with fonts and type design.
-- [unicode-properties](https://github.com/foliojs/unicode-properties) - Provides fast access to unicode character properties.
 - [pyfontaine](https://github.com/davelab6/pyfontaine) - Python tool to check font files for language/character set support.
 - [Glyph Nanny](https://github.com/typesupply/glyph-nanny) - Live report about potential drawing issues in your glyph.
 - [Kernagic](https://github.com/hodefoting/kernagic) - Semi-automatic font spacing tool.
