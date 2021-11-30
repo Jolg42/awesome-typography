@@ -114,7 +114,6 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [fontmake](https://github.com/googlei18n/fontmake) - Compile fonts from sources (UFO, Glyphs) to binary (OpenType, TrueType).
 - [FontReport](https://github.com/googlei18n/fontreport) - Tool to create PDF files containing glyph images and information about a font.
 - [fontdiff](https://github.com/googlei18n/fontdiff) - Tool for finding visual differences between two font versions.
-- [Fontuley](https://github.com/googlei18n/fontuley) - Font tools (inspect / modify fonts).
 - [kern-dump](https://github.com/adobe-type-tools/kern-dump) - Scripts for working with and analyzing kerning information (ATypI 2013).
 - [cu2qu](https://github.com/googlei18n/cu2qu) - Cubic-to-quadratic bezier curve conversion.
 - [Font Bakery](https://github.com/googlefonts/fontbakery) - Tools to prepare font families for inclusion in github.com/google/fonts.
