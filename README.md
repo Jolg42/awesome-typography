@@ -139,6 +139,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [font-line](https://github.com/source-foundry/font-line) - OpenType vertical metrics reporting and font line spacing adjustment tool.
 - [Flat](https://xxyxyz.org/flat/) - Library for creating and manipulating digital forms of fine arts.
 - [PageBot](https://github.com/typenetwork/pagebot) - Scripted page layout program, as application inside Drawbot generating high quality typographic documents that support high quality fonts.
+- [Fontbro](https://github.com/fabiocaccamo/python-fontbro) - Friendly font operations on top of fonttools.
 
 ## C
 - [otfcc](https://github.com/caryll/otfcc) - Parses & writes SFNT structures.
