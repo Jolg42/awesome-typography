@@ -55,7 +55,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [ttf2woff](https://github.com/fontello/ttf2woff) - Convert TTF to WOFF, for Node.js.
 - [sfnt2woff](https://github.com/laoshu133/sfnt2woff) - Convert TTF or OTF to WOFF, support Node.js and Browsers.
 - [ttf2eot](https://github.com/fontello/ttf2eot) - Convert TTF to EOT for Node.js.
-- [cubic2quad](https://github.com/fontello/cubic2quad) - Aproximates cubic bezier curves with quadratic ones.
+- [cubic2quad](https://github.com/fontello/cubic2quad) - Approximates cubic bezier curves with quadratic ones.
 - [SVG font creator](https://github.com/fontello/svg-font-create) - Create SVG font from separate images.
 - [node-sfnt](https://github.com/be5invis/node-sfnt) - SFNT parser and generator for Node.js.
 - [node-unicode-data](https://github.com/mathiasbynens/node-unicode-data) - JavaScript-compatible Unicode data generator.
