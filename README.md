@@ -115,7 +115,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [stb-truetype-opengl-examples](https://github.com/0xc0dec/demos) - Examples of TrueType font rendering in C++11 using stb_truetype library and OpenGL 3+.
 - [WOFF2](https://github.com/google/woff2)
 - [vectorfontstorm](https://github.com/VoxelStorm-Ltd/vectorfontstorm) - C++ vector font rendering library for OpenGL 3D text rendering, by VoxelStorm Resources
-- [Slug library](https://sluglibrary.com/) - Dynamic GPU Font Rendering and Advanced Text Layout
+- [Slug library](https://sluglibrary.com/) - Dynamic GPU Font Rendering and Advanced Text Layout (Minimum $1500 for a license and access to the source code, a demo is available, only for Windows)
 - [trex](https://github.com/KyrietS/trex) - Font rendering, atlas generation and text shaping library written in C++
 - [ascii-art](https://github.com/codewithnick/ascii-art) - A C++ library to make everyday alphabets look much better on the terminal , this project uses OOPS concepts to make unique fonts and display letters on command line.
 - [DigiFont](https://github.com/cbm80amiga/DigiFont) - Library for nice, scalable digit rendering using any Arduino GFX libraries.
