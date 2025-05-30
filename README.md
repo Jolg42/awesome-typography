@@ -313,6 +313,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [TTFEdit](https://sourceforge.net/projects/ttfedit/) - TrueType fonts editor. Allows for editing vector-based glyphs.
 - [OpenType-SVG-Font-Editor](https://github.com/Microsoft/OpenType-SVG-Font-Editor).
 - [SdfFontDesigner](https://github.com/aiekick/SdfFontDesigner) - A generator of bitmap font, based on ttf & otf, rendered with custom shaders in glsl
+- [FontFreeze](https://mutsuntsai.github.io/fontfreeze/) - Web-based tool for freezing variations and features in font.
 
 ## Font Validator 
 - [Font Validator](https://github.com/HinTak/Font-Validator) - Font Validator is a tool for testing fonts prior to release. See [Install post for Mac](http://typedrawers.com/discussion/comment/16090/#Comment_16090).
