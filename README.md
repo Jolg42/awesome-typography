@@ -376,6 +376,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Letterpress Digest](http://letterpressdigest.com) - The new podcast about letterpress.
 - [fontspeed](https://www.fontspeed.io) - Newsletter on font loading by @zachleat.
 - [Font-Awesome-SVG-PNG](https://github.com/encharm/Font-Awesome-SVG-PNG) - Font Awesome split to individual SVG and PNG files of different sizes along with Node.js based generator.
+- [Calligraphr](https://www.calligraphr.com) - Convert your handwriting to a font file.
 
 ## Fonts
 - [The Gilbert Font](https://github.com/Fontself/TypeWithPride) - OpenType-SVG font named after Gilbert Baker, the creator of the rainbow flag.
