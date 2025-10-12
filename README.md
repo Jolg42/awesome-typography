@@ -11,16 +11,14 @@ Curated list about digital typography.
 - [C++](#c-1)
 - [C#](#c-2)
 - [Rust](#rust)
-- [APL](#apl)
 - [OCaml](#ocaml)
-- [Haskell](#haskell)
-- [Ruby](#ruby)
-- [Perl](#perl) 
 - [JavaScript](#javascript)
 - [Python](#python)
 - [Java](#java)
+- [Ruby](#ruby)
 - [Go](#go)
 - [PHP](#php)
+- [Perl](#perl) 
 - [Processing](#processing)
 - [Clojure](#clojure)
 - [UFO](#ufo)
@@ -32,6 +30,7 @@ Curated list about digital typography.
 - [TrueType](#truetype)
 - [Books](#books)
 - [Videos](#videos)
+- [Contribute](#contribute)
 
 
 ## Specifications
@@ -48,13 +47,13 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [A bit of font generation](https://pomax.github.io/CFF-glyphlet-fonts/) - Brief excursion into OpenType.
 
 ## Assembly
-- [Fontraption](https://github.com/viler-int10h/Fontraption) - A tiny but powerful VGA text mode font editor for DOS
-- [CGA-font-compare](https://github.com/viler-int10h/CGA-font-compare) - DOS tool to check if your CGA card uses the same ROM font as the original IBM CGA
+- [Fontraption](https://github.com/viler-int10h/Fontraption) - A tiny but powerful VGA text mode font editor for DOS.
+- [CGA-font-compare](https://github.com/viler-int10h/CGA-font-compare) - DOS tool to check if your CGA card uses the same ROM font as the original IBM CGA.
 - [oldschool-pc-fonts](https://int10h.org/oldschool-pc-fonts) - The world's biggest collection of classic text mode fonts, system fonts and BIOS fonts from DOS-era IBM PCs and compatibles - preserving raster typography from pre-GUI times.
 - [x86-Assembly-Font-Renderer](https://github.com/mchlmmc/x86-Assembly-Font-Renderer) - Bootloader that draws characters from a 5x7px font.
 - [atari-font as assemlby source](https://forums.atariage.com/topic/267380-atari-font-as-assembly-source-file)
-- [Atari-Font-To-Code](https://github.com/kenjennings/Atari-Font-To-Code) - An over-engineered linux tool to convert an Atari 8-bit font to BASIC, C, and Assembly source.
-- [Atari-Binary-To-Code](https://github.com/kenjennings/Atari-Binary-To-Code) - Over-engineered linux utility to output binary data as text source for Atari 8-bit BASIC, 6502 Assembly, C, or text.
+- [Atari-Font-To-Code](https://github.com/kenjennings/Atari-Font-To-Code) - An over-engineered Linux tool to convert an Atari 8-bit font to BASIC, C, and Assembly source.
+- [Atari-Binary-To-Code](https://github.com/kenjennings/Atari-Binary-To-Code) - Over-engineered Linux utility to output binary data as text source for Atari 8-bit BASIC, 6502 Assembly, C, or text.
 - [gb-vwf](https://github.com/ISSOtm/gb-vwf) - A very powerful Variable-Width Font engine for the Game Boy & Game Boy Color.
 - [protracker-font](https://github.com/echolevel/protracker-font) - 8x8 pixel font reconstructed as TTF from the Protracker v2.3D/v2.3E assembly source.
 - [x86-Assembly-Fonts](https://github.com/ArTicZera/x86-Assembly-Fonts) - Use different bitmap fonts in your Real Mode OS using bitmaps and pixel routines.
@@ -77,13 +76,13 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [FreeType](https://www.freetype.org) - Freely available software library to render fonts.
 - [Raqm](https://github.com/HOST-Oman/libraqm) - Library for complex text layout.
 - [SheenFigure](https://github.com/mta452/SheenFigure) - Implementation of advanced typographic tables of OpenType specification.
-- [SheenBidi](https://github.com/mta452/SheenBidi) - SheenBidi is the world's most sophisticated implementation of latest unicode bidirectional algorithm.
+- [SheenBidi](https://github.com/mta452/SheenBidi) - World's most sophisticated implementation of latest unicode bidirectional algorithm.
 - [freetype-gl](https://github.com/rougier/freetype-gl) - OpenGL text using one vertex buffer, one texture and FreeType.
-- [WOFF](https://github.com/samboy/WOFF) - WOFF conversion reference code.
-- [QuesoGLC](https://sourceforge.net/projects/quesoglc) - free implementation of the OpenGL Character Renderer.
+- [WOFF](https://github.com/samboy/WOFF) - Conversion reference code.
+- [QuesoGLC](https://sourceforge.net/projects/quesoglc) - Free implementation of the OpenGL Character Renderer.
 - [sfntly](https://github.com/rillig/sfntly) - A Library for Using, Editing, and Creating SFNT-based Fonts.
-- [Sluggish](https://github.com/mightycow/Sluggish) - Toy CPU and GPU implementations of the Slug rendering algorithm
-- [picasso](https://github.com/onecoolx/picasso) - Picasso is a high quality 2D vector graphic rendering library. It support path , matrix , gradient , pattern , image and truetype font.
+- [Sluggish](https://github.com/mightycow/Sluggish) - Toy CPU and GPU implementations of the Slug rendering algorithm.
+- [picasso](https://github.com/onecoolx/picasso) - High quality 2D vector graphic rendering library. It support path , matrix , gradient , pattern , image and truetype font.
 - [fcft](https://codeberg.org/dnkl/fcft) - A simple library for font loading and glyph rasterization using FontConfig, FreeType and pixman.
 - [sway](https://codeberg.org/dnkl/sway) - This is a fork of https://github.com/swaywm/sway that replaces pango with https://codeberg.org/dnkl/fcft for font rendering.
 - [ttf](https://github.com/michaelrsweet/ttf) - TrueType/OpenType Font Library.
@@ -100,31 +99,37 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [craftmicro-fonts](https://github.com/craftmicro/craftmicro-fonts) - Pixel/bitmap font library for Craft Micro SDK. 
 - [libint10h_fonts](https://github.com/cellularmitosis/libint10h_fonts) - The int10h.org bitmap font collection as a library of C structs.
 - [ttf2mesh](https://github.com/fetisov/ttf2mesh) - Standalone library for TrueType font tessellation. Allows to load ttf-file and convert its glyphs to 2D or 3D mesh objects without rasterization.
-- [otf2ttf](https://codeberg.org/zzkt/otf2ttf) - convert an OTF font to TTF.
-- [psftools](https://codeberg.org/gnarz/psftools) - a simple textfile based psf font editor suite.
+- [otf2ttf](https://codeberg.org/zzkt/otf2ttf) - Convert an OTF font to TTF.
+- [psftools](https://codeberg.org/gnarz/psftools) - A simple textfile based psf font editor suite.
 - [font-config-info](https://codeberg.org/derat/font-config-info) - Print Linux font configuration.
 
 ## C++
 - [font to svg](https://github.com/donbright/font_to_svg) - Render characters from font files into an SVG path.
 - [LCDF Typetools](https://github.com/kohler/lcdf-typetools) - Utilities for manipulating OpenType, PostScript Type 1, and Multiple Master fonts.
-- [HarfBuzz](https://github.com/googlei18n/harfbuzz) - HarfBuzz OpenType text shaping engine.
+- [HarfBuzz](https://github.com/googlei18n/harfbuzz) - OpenType text shaping engine.
 - [FontView](https://github.com/googlei18n/fontview) - Demo app that displays fonts with a free/libre/open-source text rendering stack: FreeType, HarfBuzz and Raqm.
 - [Text rendering tests](https://github.com/unicode-org/text-rendering-tests) - Test suite for text rendering.
 - [FTGLES](https://github.com/cdave1/ftgles) - TrueType font rendering library for OpenGL ES on iOS devices (iPad and iPhone).
 - [TTFPatch](https://github.com/rmuch/ttfpatch) - Mirror of TTFPATCH by Wolfram Esser, modified to support fonts conforming to newer OTF specifications, built for modern versions of Windows.
 - [stb-truetype-opengl-examples](https://github.com/0xc0dec/demos) - Examples of TrueType font rendering in C++11 using stb_truetype library and OpenGL 3+.
 - [WOFF2](https://github.com/google/woff2)
-- [vectorfontstorm](https://github.com/VoxelStorm-Ltd/vectorfontstorm) - C++ vector font rendering library for OpenGL 3D text rendering, by VoxelStorm Resources
-- [Slug library](https://sluglibrary.com/) - Dynamic GPU Font Rendering and Advanced Text Layout (Minimum $1500 for a license and access to the source code, a demo is available, only for Windows)
-- [trex](https://github.com/KyrietS/trex) - Font rendering, atlas generation and text shaping library written in C++
+- [vectorfontstorm](https://github.com/VoxelStorm-Ltd/vectorfontstorm) - C++ vector font rendering library for OpenGL 3D text rendering, by VoxelStorm Resources.
+- [Slug library](https://sluglibrary.com/) - Dynamic GPU Font Rendering and Advanced Text Layout (Minimum $1500 for a license and access to the source code, a demo is available, only for Windows).
+- [trex](https://github.com/KyrietS/trex) - Font rendering, atlas generation and text shaping library written in C++.
 - [ascii-art](https://github.com/codewithnick/ascii-art) - A C++ library to make everyday alphabets look much better on the terminal , this project uses OOPS concepts to make unique fonts and display letters on command line.
 - [DigiFont](https://github.com/cbm80amiga/DigiFont) - Library for nice, scalable digit rendering using any Arduino GFX libraries.
 - [artery-font-format](https://github.com/Chlumsky/artery-font-format) - Artery Atlas Font format library.
 - [bmfont](https://sourceforge.net/projects/bmfont) - Bitmap font generator.
-- [psfmaker](https://codeberg.org/CodePoet2005/psfmaker) - Tool for making linux console fonts. Output psf files and c header files.
+- [psfmaker](https://codeberg.org/CodePoet2005/psfmaker) - Tool for making Linux console fonts. Output psf files and c header files.
 - [gpu-font-rendering](https://codeberg.org/daynyte/gpu-font-rendering) - GPU font rendering from vector outlines demonstration.
 - [font](https://codeberg.org/daynyte/font) - FreeType/HarfBuzz Node for Elixir.
 - [scalable-font2](https://codeberg.org/bzt/scalable-font2) - Scalable Screen Font 2.0 renderer and file format specification.
+
+## C#
+- [NRasterizer](https://github.com/vidstige/NRasterizer) - Simple and clean TrueType font renderer written purely in c#.
+- [Typography](https://github.com/LayoutFarm/Typography) - C# Font Reader (TrueType / OpenType / OpenFont), Glyphs Layout and Rendering.
+- [SixLabors.Fonts](https://github.com/SixLabors/Fonts) - Font loading and drawing library.
+- [SharpFont](https://github.com/MikePopoloski/SharpFont) - Pure managed TTF / OTF reader and renderer.
 
 ## Rust
 - [font-rs](https://github.com/google/font-rs) - The fastest font renderer in the world.
@@ -140,12 +145,6 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [truetype](https://github.com/PistonDevelopers/truetype) - Library for reading fonts from the TrueType format.
 - [font-generator](https://codeberg.org/dullbananas/font-generator) - A genetic algorithm for fonts.
 - [bdfreader](https://codeberg.org/heu/bdf-reader) - BDF font format reader.
-
-## C#
-- [NRasterizer](https://github.com/vidstige/NRasterizer) - Simple and clean TrueType font renderer written purely in c#.
-- [Typography](https://github.com/LayoutFarm/Typography) - C# Font Reader (TrueType / OpenType / OpenFont), Glyphs Layout and Rendering.
-- [SixLabors.Fonts](https://github.com/SixLabors/Fonts) - Font loading and drawing library.
-- [SharpFont](https://github.com/MikePopoloski/SharpFont) - Pure managed TTF / OTF reader and renderer.
 
 ## OCaml
 - [font_awesome_icons](https://github.com/janestreet/font_awesome_icons) - An OCaml library for Font-Awesome SVG icons.
@@ -172,14 +171,14 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Open Type playground](https://github.com/magalhini/open-type-playground) - Playground for Open Type experiments with CSS.
 - [ChromaCheck](https://github.com/RoelN/ChromaCheck) - Feature test for color font support in browsers.
 - [Font Face Observer](https://github.com/bramstein/fontfaceobserver) - Font load events, simple, small and efficient [fontfaceobserver.com](https://fontfaceobserver.com).
-- [Web Font Loader](https://github.com/typekit/webfontloader) - Web Font Loader gives you added control when using linked fonts via @font-face.
+- [Web Font Loader](https://github.com/typekit/webfontloader) - Gives you added control when using linked fonts via @font-face.
 - [localFont](https://github.com/jaicab/localFont) - Implement localStorage web font caching in seconds.
 - [Fontello](https://github.com/fontello/fontello) - This tool lets you combine icon webfonts for your own project.
 - [GitHub Font Preview](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-font-preview) - Adds a preview for fonts & glyphs on GitHub with OpenType.js.
 - [unidata](https://github.com/chbrown/unidata) - Unicode Character Database for JavaScript.
 - [UCD](https://github.com/ynakajima/ucd) - Unicode Character Database for JavaScript.
 - [Character Set Inspector](https://github.com/graphicore/charset-inspector) - Unicode Character Database for JavaScript.
-- [OpenType](https://github.com/bramstein/opentype) - OpenType font parser in JavaScript.
+- [OpenType](https://github.com/bramstein/opentype) - Font parser in JavaScript.
 - [opentype-geometry](https://github.com/nascherman/opentype-geometry) - Convert Text from OpenType font to three.js 3D.
 - [Plumin.js](https://github.com/byte-foundry/plumin.js) - Create and manipulate fonts in the browser.
 - [Typr.js](https://github.com/photopea/Typr.js) - Process fonts in JavaScript.
@@ -197,10 +196,10 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Typeset](https://github.com/bramstein/typeset) - TeX line breaking algorithm in JavaScript.
 - [otfcc-cubic2quad](https://github.com/caryll/otfcc-cubic2quad) - Losslessly turn CFF OTF to TTF using otfcc.
 - [caryll / shapeops](https://github.com/caryll/shapeops) - Boolean operations and overlap removal for curves.
-- [OpenType-SVG Workshop](https://github.com/rocallahan/svg-opentype-workshop) - OpenType-SVG Workshop Web application.
+- [OpenType-SVG Workshop](https://github.com/rocallahan/svg-opentype-workshop) - Web application.
 - [A-binary-parser-generator](https://github.com/Pomax/A-binary-parser-generator) - This project aims to create a tool that can turn a spec file into a parser skeleton for binary data files such as OpenType fonts, PNG images, etc.
 - [font-spider](https://github.com/aui/font-spider) - Smart webfont compression and format conversion tool.
-- [Brotli.js](https://github.com/foliojs/brotli.js) A JavaScript port of the Brotli compression algorithm, as used in WOFF2.
+- [Brotli.js](https://github.com/foliojs/brotli.js) - A JavaScript port of the Brotli compression algorithm, as used in WOFF2.
 - [ideohint](https://github.com/caryll/ideohint) - Optimized hinter for Ideographs.
 - [subfont](https://github.com/Munter/subfont) - Command line tool to inject Google font subsets used glyphs into your page.
 - [webfont](https://github.com/itgalaxy/webfont) - Awesome generator of webfont, WOFF2, WOFF, EOT, TTF and SVG.
@@ -216,7 +215,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Typefont](https://github.com/vasile-peste/Typefont) - First open-source library that detects the font of a text in a image.
 - [node-fonttools](https://github.com/dfrankland/node-fonttools) - Native bindings to fonttools to decompile and compile fonts.
 - [font-toolkit](https://github.com/hsiaosiyuan0/fonts) - Font file manipulating in TypeScript.
-- [variableFont.js](https://github.com/Monotype/variableFont.js) - Handles variable fonts through OpenType.js
+- [variableFont.js](https://github.com/Monotype/variableFont.js) - Handles variable fonts through OpenType.js.
 - [bdfparser-js](https://github.com/tomchen/bdfparser-js) - BDF (Glyph Bitmap Distribution) format bitmap font file parser library in TypeScript (JavaScript).
 
 ## Python
@@ -253,7 +252,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 
 ## Java
 - [sfntly](https://github.com/googlei18n/sfntly) - Library for Using, Editing, and Creating SFNT-based Fonts.
-- [Emoji-Tools](https://github.com/EmojiTools/Emoji-Tools) - Multiple useful tools to help Android and iOS/OSX developers with creating and modifying Emoji Font files.
+- [Emoji-Tools](https://github.com/EmojiTools/Emoji-Tools) - Multiple useful tools to help Android and iOS/macOS developers with creating and modifying Emoji Font files.
 - [Tehreer-Android](https://github.com/mta452/Tehreer-Android) - Library that gives full control over text related technologies such as bidirectional algorithm, open type shaping engine, text typesetting and text rendering.
 
 ## Ruby
@@ -262,7 +261,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 
 ## Go
 - [font](https://github.com/ConradIrwin/font) - Parsing OpenType fonts in Golang.
-- [freetype](https://github.com/golang/freetype) - Freetype font rasterizer in Go.
+- [freetype](https://github.com/golang/freetype) - Font rasterizer in Go.
 - [checkfont](https://codeberg.org/lapingvino/checkfont) - Checks which system fonts contain the desired characters.
 
 ## PHP
@@ -291,7 +290,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 ## Tools with GUI
 
 ### Non-Free
-- [Fontself](https://www.fontself.com) Adobe Illustrator & Photoshop extensions for creating vector and bitmap fonts by Drag&Drop. Make fonts the easy way!
+- [Fontself](https://www.fontself.com) - Adobe Illustrator & Photoshop extensions for creating vector and bitmap fonts by Drag&Drop. Make fonts the easy way!
 - [Robofont](http://doc.robofont.com) - UFO based (Mac only).
 - [Glyphs](https://glyphsapp.com) - Font editor (Mac only).
 - [Prototypo](https://github.com/byte-foundry/prototypo) - Web based font generator with a parametric approach.
@@ -302,26 +301,26 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [TransType 4](https://www.fontlab.com/font-converter/transtype/) - Universal font converter.
 
 ### Free
-- [FontForge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux.
+- [FontForge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, macOS and GNU+Linux.
 - [TruFont](https://github.com/trufont/trufont) - UFO3 font editor. À l’ancienne.
 - [Metapolator](https://github.com/metapolator) - Web-based GUI for creating UFO and Metafont fonts.
 - [Birdfont](https://github.com/johanmattssonm/birdfont) - Font editor which can generate fonts in TTF, EOT, SVG and BF format.
 - [Glyphr Studio](https://twitter.com/glyphrstudio) - Free, web-based font editor, focusing on font design hobbyists.
 - [DTL OTMaster Light](https://www.fontmaster.nl/#light) - In the Light editions of dtl OTMaster only the saving of files is disabled. Checking fonts and exporting OpenType Layout features ﬁles, be and ik formats, and Character Layout (.cha) ﬁles is possible though.
 - [fonteditor](https://github.com/ecomfe/fonteditor) - Web-based TTF font editor, live at [fontstore.baidu.com](http://fontstore.baidu.com/static/editor/index-en.html).
-- [FontArk](https://fontark.net/farkwp/) FontArk is an innovative browser-based font editor, font creator (BETA), featuring the most versatile real-time multiple glyph editing system.
+- [FontArk](https://fontark.net/farkwp/) - Innovative browser-based font editor and creator (BETA), featuring the most versatile real-time multiple glyph editing system.
 - [TTFEdit](https://sourceforge.net/projects/ttfedit/) - TrueType fonts editor. Allows for editing vector-based glyphs.
-- [OpenType-SVG-Font-Editor](https://github.com/Microsoft/OpenType-SVG-Font-Editor).
-- [SdfFontDesigner](https://github.com/aiekick/SdfFontDesigner) - A generator of bitmap font, based on ttf & otf, rendered with custom shaders in glsl
+- [OpenType-SVG-Font-Editor](https://github.com/Microsoft/OpenType-SVG-Font-Editor) - OpenType-SVG font editor.
+- [SdfFontDesigner](https://github.com/aiekick/SdfFontDesigner) - A generator of bitmap font, based on ttf & otf, rendered with custom shaders in glsl.
 - [FontFreeze](https://mutsuntsai.github.io/fontfreeze/) - Web-based tool for freezing variations and features in font.
 
 ## Font Validator 
-- [Font Validator](https://github.com/HinTak/Font-Validator) - Font Validator is a tool for testing fonts prior to release. See [Install post for Mac](http://typedrawers.com/discussion/comment/16090/#Comment_16090).
+- [Font Validator](https://github.com/HinTak/Font-Validator) - Tool for testing fonts prior to release. See [Install post for Mac](http://typedrawers.com/discussion/comment/16090/#Comment_16090).
 - [OpenType Sanitiser](https://github.com/khaledhosny/ots) - The OpenType Sanitiser (OTS) parses and serialises OpenType files (OTF, TTF) and WOFF and WOFF2 font files, validating them and sanitising them as it goes.
 - [WOFF Validator](http://validator.fontbureau.com) - Online WOFF Validator.
 
 ## Font Testing Websites
-- [Axis-Praxis](https://www.axis-praxis.org/) - Axis-Praxis is a website for playing with OpenType variable fonts in modern browsers.
+- [Axis-Praxis](https://www.axis-praxis.org/) - Website for playing with OpenType variable fonts in modern browsers.
 - [Bulletproof Font Tester](https://bulletproof.italic.space/) - Test your local or remote fonts with the proofing tool developed by a type designer, for type designers. Check out kerning, OpenType features, and language coverage. Explore and animate variation axes in variable fonts.
 - [Cyreal.org Font Testing Page](http://www.cyreal.org/Font-Testing-Page/) - The Font Testing Page is a tool primarily intended for type designers to 'Drag and Drop' and quickly test their fonts into a browser (active fork of Impallari's testing page).
 - [Font Gauntlet](https://fontgauntlet.com) - The Dinamo Font Gauntlet is a tool for proofing, generating and animating fonts.
@@ -349,12 +348,12 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [FDBP](http://silnrsi.github.io/FDBP/) - Font Development Best Practice documentation.
 - [UnicodeChecker](http://earthlingsoft.net/UnicodeChecker/) - Explore and convert Unicode.
 - [unicodes](https://github.com/jessetane/unicodes) - Browse all of the unicodes.
-- [Method of Action](http://method.ac) - Method of Action is a collection of tools, games and articles to help you learn design.
+- [Method of Action](http://method.ac) - Collection of tools, games and articles to help you learn design.
 - [Encodings and character sets for Programmers](http://kunststube.net/encoding/) - What every programmer absolutely, positively needs to know about encodings and character sets to work with text.
 - [Kernall](https://github.com/n8willis/kernall) - Kerning and letterspacing research.
 - [Type Facet](https://github.com/charlesmchen/typefacet) - Collection of Python scripts for working with fonts. See [TypeFacet Autokern](http://charlesmchen.github.io/typefacet/topics/autokern/index.html)
-- [OpenType feature reference](https://github.com/opensource-opentype/features) - Documentation and other info about advanced font features
-- [Typography Supply](http://typography.supply) An inventory of typographic tools.
+- [OpenType feature reference](https://github.com/opensource-opentype/features) - Documentation and other info about advanced font features.
+- [Typography Supply](http://typography.supply) - An inventory of typographic tools.
 - [OpenType Feature Bundle](https://github.com/brew/opentype-feature-bundle) - Syntax highlighting and snippets for OpenType feature development in TextMate/Sublime Text.
 - [Type Tools dotfiles](https://github.com/benkiel/dotfiles) - Setup for type tools.
 - [AGL & AGLFN](https://github.com/adobe-type-tools/agl-aglfn) - AGL / AGLFN (Adobe Glyph List / For New Fonts) simply provides mappings from glyph names to Unicode scalar values. [See specification](https://github.com/adobe-type-tools/agl-specification).
@@ -381,7 +380,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 ## Fonts
 - [The Gilbert Font](https://github.com/Fontself/TypeWithPride) - OpenType-SVG font named after Gilbert Baker, the creator of the rainbow flag.
 - [Nanofont](https://github.com/bramstein/nanofont) - Nano font for testing font format support (TrueType, WOFF, WOFF2).
-- [FiraSystemFontReplacement](https://github.com/jenskutilek/FiraSystemFontReplacement) - Modified version of the Fira Sans fonts to replace the default system font on Mac OS X 10.10 and 10.11.
+- [FiraSystemFontReplacement](https://github.com/jenskutilek/FiraSystemFontReplacement) - Modified version of the Fira Sans fonts to replace the default system font on macOS 10.10 and 10.11.
 - [SansBullshitSans Font](https://github.com/RoelN/SansBullshitSans) - Every buzzword will be replaced by a Comic Sans-styled censorship bar.
 - [Blackout](https://github.com/RoelN/Blackout) - One font to blackout them all.
 - [Compyx](https://github.com/RoelN/Compyx) - 8-bit Multicolor OpenType font.
@@ -395,14 +394,14 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Bixa Color](https://bixacolor.com) - Building Bixa Color, a color font for the web [pixelambacht.nl/2016/building-bixa-color/](https://pixelambacht.nl/2016/building-bixa-color/).
 - [fontwr-fonts](https://github.com/raphaklaus/fontwr-fonts) - Fonts repository for fontwr.
 - [Bungee](https://github.com/djrrb/Bungee/) - Chromatic signage typeface for vertical and horizontal setting.
-- [Aerial Bold](http://type.aerial-bold.com/tw/) Aerial Bold is the first map and typeface of the earth.
-- [wavefont](https://github.com/audio-lab/wavefont) Typeface for rendering data: waveforms, spectrums, diagrams, bars etc.
+- [Aerial Bold](http://type.aerial-bold.com/tw/) - First map and typeface of the earth.
+- [wavefont](https://github.com/audio-lab/wavefont) - Typeface for rendering data: waveforms, spectrums, diagrams, bars etc.
 - [Adobe Variable Font Prototype](https://github.com/adobe-fonts/adobe-variable-font-prototype) - Variable font example in OpenType-CFF2 & TrueType formats.
 - [Microsoft open source fonts](https://github.com/Microsoft/fonts) - Central location to share Microsoft's open source fonts.
 - [Reinebow](https://github.com/xerographer/reinebow-color-font) - OpenType-SVG color font.
 - [Freizer](https://github.com/xerographer/freizer-color-font) - OpenType-SVG color font.
 - [Multicoloure](https://github.com/xerographer/multicoloure-font) - OpenType-SVG color font based on Multicolore Vector Typeface.
-- [null-ttf](https://github.com/grzegorzrolek/null-ttf) - This font is null. It's the smallest possible TrueType binary still valid on OS X and with most of its bytes wiped out.
+- [null-ttf](https://github.com/grzegorzrolek/null-ttf) - This font is null. It's the smallest possible TrueType binary still valid on macOS and with most of its bytes wiped out.
 - [Monotype Variable Font Demo](https://github.com/Monotype/Monotype_prototype_variable_fonts)
 - [CFF opcode test fonts](https://github.com/Pomax/cff-opcode-fonts) - OTF fonts for testing CFF opcode support.
 - [TestFont](https://github.com/OpenType/TestFont) - Font family for testing OpenType implementations.
@@ -439,9 +438,3 @@ For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 
 ## Contribute
 ➡️Pull request! (Or open an issue [here](https://github.com/Jolg42/awesome-typography/issues)).
-
-
-## License
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Joël Galeran](https://github.com/Jolg42) has waived all copyright and related or neighboring rights to this work.
