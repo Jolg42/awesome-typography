@@ -326,6 +326,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Font Gauntlet](https://fontgauntlet.com) - The Dinamo Font Gauntlet is a tool for proofing, generating and animating fonts.
 - [Wakamai Fondue](https://wakamaifondue.com/) - The tool that answers the question “what can my font do?”
 - [TypeNetwork TypeTools](https://typetools.typenetwork.com/) - Layout tools for exerimenting with variable fonts in various ways.
+- [FontAlternatives](https://fontalternatives.com/) - Free alternatives to premium fonts with visual comparisons
 
 ## Miscellaneous
 - [TypeDrawers](http://typedrawers.com) - Discussion forum for professionals and enthusiasts in the fields of typeface design, lettering, and typography.
