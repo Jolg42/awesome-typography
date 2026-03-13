@@ -290,6 +290,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 ## Tools with GUI
 
 ### Non-Free
+- [FontCraft](https://fontcraft.app) - Browser-based app for turning your handwriting into a font
 - [Fontself](https://www.fontself.com) - Adobe Illustrator & Photoshop extensions for creating vector and bitmap fonts by Drag&Drop. Make fonts the easy way!
 - [Robofont](http://doc.robofont.com) - UFO based (Mac only).
 - [Glyphs](https://glyphsapp.com) - Font editor (Mac only).
