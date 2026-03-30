@@ -193,6 +193,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Hyphenator.js](https://github.com/mnater/Hyphenator) - JavaScript that implements client-side hyphenation of HTML-Documents.
 - [Hypher](https://github.com/bramstein/hypher) - Fast and small JavaScript hyphenation engine.
 - [Typeset.js](https://github.com/davidmerfield/Typeset) - HTML pre-processor for web typography (hanging punctuation, soft hyphen insertion, optical margin outdents, small-caps conversion and punctuation substitution).
+- [Marginalia](https://github.com/andyed/marginalia) - Typographic callout library with 3D perspective pull quotes, margin notes, drop caps, footnotes, and editorial layout components. Zero dependencies, includes markdown converter.
 - [Typeset](https://github.com/bramstein/typeset) - TeX line breaking algorithm in JavaScript.
 - [otfcc-cubic2quad](https://github.com/caryll/otfcc-cubic2quad) - Losslessly turn CFF OTF to TTF using otfcc.
 - [caryll / shapeops](https://github.com/caryll/shapeops) - Boolean operations and overlap removal for curves.
