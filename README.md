@@ -1,6 +1,7 @@
 # Awesome Typography [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Curated list about digital typography.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for typography workflow orchestration, automated font management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Specifications](#specifications)
