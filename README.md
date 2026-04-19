@@ -378,6 +378,8 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Calligraphr](https://www.calligraphr.com) - Convert your handwriting to a font file.
 - [Coding Font](https://www.codingfont.com) - Gamified experience to help you find your ideal coding font through a playful comparison tool.
 
+- [FontsWiki](https://fontswiki.com/) - Free typography reference with downloadable fonts, font pairing guides, and font-in-use examples for logos, films, games, and design projects.
+
 ## Fonts
 - [The Gilbert Font](https://github.com/Fontself/TypeWithPride) - OpenType-SVG font named after Gilbert Baker, the creator of the rainbow flag.
 - [Nanofont](https://github.com/bramstein/nanofont) - Nano font for testing font format support (TrueType, WOFF, WOFF2).
