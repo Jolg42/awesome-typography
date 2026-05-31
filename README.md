@@ -328,6 +328,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Cyreal.org Font Testing Page](http://www.cyreal.org/Font-Testing-Page/) - The Font Testing Page is a tool primarily intended for type designers to 'Drag and Drop' and quickly test their fonts into a browser (active fork of Impallari's testing page).
 - [Font Gauntlet](https://fontgauntlet.com) - The Dinamo Font Gauntlet is a tool for proofing, generating and animating fonts.
 - [Wakamai Fondue](https://wakamaifondue.com/) - The tool that answers the question “what can my font do?”
+- [What The Google Font](https://www.serbyte.net/tools/what-the-google-font) - Upload an image and find the closest free Google Font match.
 - [TypeNetwork TypeTools](https://typetools.typenetwork.com/) - Layout tools for exerimenting with variable fonts in various ways.
 
 ## Miscellaneous
