@@ -380,6 +380,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Font-Awesome-SVG-PNG](https://github.com/encharm/Font-Awesome-SVG-PNG) - Font Awesome split to individual SVG and PNG files of different sizes along with Node.js based generator.
 - [Calligraphr](https://www.calligraphr.com) - Convert your handwriting to a font file.
 - [Coding Font](https://www.codingfont.com) - Gamified experience to help you find your ideal coding font through a playful comparison tool.
+- [1000 Font Generator](https://1000fontgenerator.com/) - Free Unicode font generator with copy-and-paste text styles for social bios, captions, usernames, and messages.
 
 ## Fonts
 - [The Gilbert Font](https://github.com/Fontself/TypeWithPride) - OpenType-SVG font named after Gilbert Baker, the creator of the rainbow flag.
