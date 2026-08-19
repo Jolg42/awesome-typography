@@ -252,6 +252,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Flat](https://xxyxyz.org/flat/) - Library for creating and manipulating digital forms of fine arts.
 - [PageBot](https://github.com/typenetwork/pagebot) - Scripted page layout program, as application inside Drawbot generating high quality typographic documents that support high quality fonts.
 - [bdfparser](https://github.com/tomchen/bdfparser) - BDF (Glyph Bitmap Distribution) format bitmap font file parser library in Python.
+- [font-contrast](https://github.com/ayaanahad/font-contrast) - Extracts x-height, cap height and true advance widths from font binaries; ships a CC0 dataset for 54 open-source families.
 
 ## Java
 - [sfntly](https://github.com/googlei18n/sfntly) - Library for Using, Editing, and Creating SFNT-based Fonts.
