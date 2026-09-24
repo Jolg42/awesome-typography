@@ -220,6 +220,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [font-toolkit](https://github.com/hsiaosiyuan0/fonts) - Font file manipulating in TypeScript.
 - [variableFont.js](https://github.com/Monotype/variableFont.js) - Handles variable fonts through OpenType.js.
 - [bdfparser-js](https://github.com/tomchen/bdfparser-js) - BDF (Glyph Bitmap Distribution) format bitmap font file parser library in TypeScript (JavaScript).
+- [gpu-font](https://github.com/dy/gpu-font) - Finds the font in an image of text and ranks the closest open fonts, with weight and italic, on WebGPU in the browser.
 
 ## Python
 - [fontTools](https://github.com/fonttools/fonttools) - Library for manipulating fonts, written in Python.
