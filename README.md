@@ -240,6 +240,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [OpenType-SVG Tools](https://github.com/adobe-type-tools/opentype-svg) - Tools and sample files for making OpenType-SVG fonts.
 - [boxDrawing.py](https://github.com/adobe-type-tools/box-drawing) - Python script to draw all the box drawing characters and block elements based on parameters.
 - [scfbuild](https://github.com/eosrei/scfbuild/) - Create OpenType-SVG color fonts from a set of SVG source files.
+- [color-emoji](https://github.com/behdad/color-emoji) - Tool to build color fonts using Google color-font format (CBDT/CBLC).
 - [monospacifier.py](https://github.com/cpitclaudel/monospacifier) - Convert variable-pitch fonts to monospace (useful for unicode and indentation-friendly programming).
 - [edf825/SVG-OpenType-Utils](https://github.com/edf825/SVG-OpenType-Utils) - SVG in OpenType Utils (!Old: 2013).
 - [Icon Font to PNG](https://github.com/Pythonity/icon-font-to-png) - Python script (and library) for exporting icons from icon fonts (e.g. Font Awesome, Octicons) as PNG images.
