@@ -437,7 +437,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Bixa Color](https://pixelambacht.nl/2016/building-bixa-color/) - Article about building a color font for the web.
 - [fontwr-fonts](https://github.com/raphaklaus/fontwr-fonts) - Fonts repository for fontwr.
 - [Bungee](https://github.com/djrrb/Bungee/) - Chromatic signage typeface for vertical and horizontal setting.
-- [Aerial Bold](https://web.archive.org/web/20221129120347/http://type.aerial-bold.com/tw/) - First map and typeface of the earth. Archived website.
+- [Aerial Bold](https://web.archive.org/web/20211226052158/http://type.aerial-bold.com/tw/) - First map and typeface of the earth. Archived website.
 - [wavefont](https://github.com/audio-lab/wavefont) - Typeface for rendering data: waveforms, spectrums, diagrams, bars etc.
 - [Adobe Variable Font Prototype](https://github.com/adobe-fonts/adobe-variable-font-prototype) - Variable font example in OpenType-CFF2 & TrueType formats.
 - [Microsoft open source fonts](https://github.com/Microsoft/fonts) - Central location to share Microsoft's open source fonts.
