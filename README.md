@@ -103,6 +103,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [otf2ttf](https://codeberg.org/zzkt/otf2ttf) - Convert an OTF font to TTF.
 - [psftools](https://codeberg.org/gnarz/psftools) - A simple textfile based psf font editor suite.
 - [font-config-info](https://codeberg.org/derat/font-config-info) - Print Linux font configuration.
+- [Fontconfig](https://gitlab.freedesktop.org/fontconfig/fontconfig) - Library for font discovery, configuration, and matching.
 
 ## C++
 - [font to svg](https://github.com/donbright/font_to_svg) - Render characters from font files into an SVG path.
@@ -125,6 +126,8 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [gpu-font-rendering](https://codeberg.org/daynyte/gpu-font-rendering) - GPU font rendering from vector outlines demonstration.
 - [font](https://codeberg.org/daynyte/font) - FreeType/HarfBuzz Node for Elixir.
 - [scalable-font2](https://codeberg.org/bzt/scalable-font2) - Scalable Screen Font 2.0 renderer and file format specification.
+- [msdfgen](https://github.com/Chlumsky/msdfgen) - Generate multi-channel signed distance fields from font glyphs for scalable text rendering in real-time graphics.
+- [ICU](https://unicode-org.github.io/icu/userguide/) - Unicode and internationalization libraries with support for text boundaries, bidirectional text, and normalization.
 
 ## C#
 - [NRasterizer](https://github.com/vidstige/NRasterizer) - Simple and clean TrueType font renderer written purely in c#.
@@ -152,6 +155,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [rustybuzz](https://github.com/harfbuzz/rustybuzz) - Rust port of the HarfBuzz text shaping algorithm.
 - [cosmic-text](https://github.com/pop-os/cosmic-text) - Text shaping, font fallback, layout, and rendering in Rust.
 - [Fontations](https://github.com/googlefonts/fontations) - Collection of Rust libraries for reading and writing font files.
+- [fontc](https://github.com/googlefonts/fontc) - Compile Glyphs, Designspace, and Fontra font sources into font binaries.
 
 ## OCaml
 - [font_awesome_icons](https://github.com/janestreet/font_awesome_icons) - An OCaml library for Font-Awesome SVG icons.
@@ -227,9 +231,11 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Fontsource](https://github.com/fontsource/fontsource) - Self-host open-source fonts through npm packages.
 - [Capsize](https://github.com/seek-oss/capsize) - Size and align text in CSS using font metrics, trimming space above capital letters and below the baseline.
 - [Satori](https://github.com/vercel/satori) - Render HTML and CSS layouts, including text and custom fonts, into SVG.
+- [harfbuzzjs](https://github.com/harfbuzz/harfbuzzjs) - HarfBuzz text shaping for browser and Node.js projects through WebAssembly.
+- [Troika Three Text](https://github.com/protectwise/troika/tree/main/packages/troika-three-text) - Render text in Three.js with signed distance fields, kerning, ligatures, bidirectional layout, and font fallback.
 
 ## Python
-- [fontTools](https://github.com/fonttools/fonttools) - Library for manipulating fonts, written in Python.
+- [fontTools](https://github.com/fonttools/fonttools) - Python library for inspecting and manipulating fonts, including TTX table conversion, subsetting, and variable-font tooling.
 - [fontmake](https://github.com/googlei18n/fontmake) - Compile fonts from sources (UFO, Glyphs) to binary (OpenType, TrueType).
 - [FontReport](https://github.com/googlei18n/fontreport) - Tool to create PDF files containing glyph images and information about a font.
 - [fontdiff](https://github.com/googlei18n/fontdiff) - Tool for finding visual differences between two font versions.
@@ -266,6 +272,14 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [DrawBot](https://www.drawbot.com/) - Script drawings and typography on macOS to create specimens, proofs, and visual experiments.
 - [gftools](https://github.com/googlefonts/gftools) - Build, modify, and package fonts for Google Fonts.
 - [nanoemoji](https://github.com/googlefonts/nanoemoji) - Build color fonts from SVG artwork, including COLRv1 fonts.
+- [Diffenator 2](https://github.com/googlefonts/diffenator2) - Compare static and variable TrueType font families visually and structurally, and generate proofing documents.
+- [FoundryTools-CLI](https://github.com/ftCLI/FoundryTools-CLI) - Inspect, convert, and modify font binaries and metadata from the command line.
+- [statmake](https://github.com/daltonmaag/statmake) - Generate variable-font STAT tables from .stylespace files.
+- [shaperglot](https://github.com/googlefonts/shaperglot) - Test font files for language support.
+- [BlackRenderer](https://github.com/fontra/black-renderer) - Render OpenType COLR and COLRv1 color fonts, including variable color data, using multiple graphics backends.
+- [fontFeatures](https://github.com/simoncozens/fontFeatures) - Inspect and manipulate OpenType font features programmatically.
+- [babelfont](https://github.com/simoncozens/babelfont) - Access and manipulate font formats through a common interface.
+- [fontquant](https://github.com/googlefonts/fontquant) - Measure and quantify font properties and technical quality.
 
 ## Java
 - [sfntly](https://github.com/googlei18n/sfntly) - Library for Using, Editing, and Creating SFNT-based Fonts.
@@ -338,6 +352,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [MFEKufo](https://github.com/MFEK/ufo) - UFO font viewer for Modular Font Editor K. Work in progress.
 - [Runebender](https://github.com/linebender/runebender) - Experimental font editor written in Rust. Early-stage software, not yet suitable for production use.
 - [FontGoggles](https://github.com/justvanrossum/fontgoggles) - Font preview and inspection app for macOS with support for OpenType layout and variable fonts.
+- [Fontra](https://github.com/fontra/fontra) - Open-source browser-based font editor.
 
 ## Font Validator
 - [Font Validator](https://github.com/HinTak/Font-Validator) - Tool for testing fonts prior to release. See [Install post for Mac](http://typedrawers.com/discussion/comment/16090/#Comment_16090).
@@ -351,6 +366,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Font Gauntlet](https://fontgauntlet.com) - The Dinamo Font Gauntlet is a tool for proofing, generating and animating fonts.
 - [Wakamai Fondue](https://wakamaifondue.com/) - The tool that answers the question “what can my font do?”
 - [TypeNetwork TypeTools](https://typetools.typenetwork.com/) - Layout tools for experimenting with variable fonts in various ways.
+- [FontDrop!](https://fontdrop.info/) - Inspect font glyphs, metadata, language coverage, OpenType features, and variations in the browser.
 
 ## Miscellaneous
 - [TypeDrawers](http://typedrawers.com) - Discussion forum for professionals and enthusiasts in the fields of typeface design, lettering, and typography.
@@ -402,6 +418,8 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Calligraphr](https://www.calligraphr.com) - Convert your handwriting to a font file.
 - [Coding Font](https://www.codingfont.com) - Gamified experience to help you find your ideal coding font through a playful comparison tool.
 - [Google Fonts Knowledge](https://fonts.google.com/knowledge) - Guides to typography, choosing typefaces, and using variable fonts.
+- [Variable Fonts](https://v-fonts.com/) - Interactive catalog for exploring variable typefaces and their axes.
+- [Typewolf](https://www.typewolf.com/) - Typography examples, font identification, and pairing ideas.
 
 ## Fonts
 - [The Gilbert Font](https://github.com/Fontself/TypeWithPride) - OpenType-SVG font named after Gilbert Baker, the creator of the rainbow flag.
