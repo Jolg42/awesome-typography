@@ -103,6 +103,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [otf2ttf](https://codeberg.org/zzkt/otf2ttf) - Convert an OTF font to TTF.
 - [psftools](https://codeberg.org/gnarz/psftools) - A simple textfile based psf font editor suite.
 - [font-config-info](https://codeberg.org/derat/font-config-info) - Print Linux font configuration.
+- [Fontconfig](https://gitlab.freedesktop.org/fontconfig/fontconfig) - Library for font discovery, configuration, and matching.
 
 ## C++
 - [font to svg](https://github.com/donbright/font_to_svg) - Render characters from font files into an SVG path.
@@ -125,6 +126,8 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [gpu-font-rendering](https://codeberg.org/daynyte/gpu-font-rendering) - GPU font rendering from vector outlines demonstration.
 - [font](https://codeberg.org/daynyte/font) - FreeType/HarfBuzz Node for Elixir.
 - [scalable-font2](https://codeberg.org/bzt/scalable-font2) - Scalable Screen Font 2.0 renderer and file format specification.
+- [msdfgen](https://github.com/Chlumsky/msdfgen) - Generate multi-channel signed distance fields from font glyphs for scalable text rendering in real-time graphics.
+- [ICU](https://unicode-org.github.io/icu/userguide/) - Unicode and internationalization libraries with support for text boundaries, bidirectional text, and normalization.
 
 ## C#
 - [NRasterizer](https://github.com/vidstige/NRasterizer) - Simple and clean TrueType font renderer written purely in c#.
@@ -149,6 +152,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [MFEKstroke](https://github.com/MFEK/stroke) - Utilities for stroking paths in UFO glyphs, written in Rust.
 - [glifparser](https://github.com/MFEK/glifparser.rlib) - Parser and writer for UFO `.glif` files.
 - [glifrenderer](https://github.com/MFEK/glifrenderer.rlib) - Skia renderer for MFEK glyphs, used by MFEKglif and MFEKufo.
+- [fontc](https://github.com/googlefonts/fontc) - Compile Glyphs, Designspace, and Fontra font sources into font binaries.
 
 ## OCaml
 - [font_awesome_icons](https://github.com/janestreet/font_awesome_icons) - An OCaml library for Font-Awesome SVG icons.
@@ -221,9 +225,11 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [font-toolkit](https://github.com/hsiaosiyuan0/fonts) - Font file manipulating in TypeScript.
 - [variableFont.js](https://github.com/Monotype/variableFont.js) - Handles variable fonts through OpenType.js.
 - [bdfparser-js](https://github.com/tomchen/bdfparser-js) - BDF (Glyph Bitmap Distribution) format bitmap font file parser library in TypeScript (JavaScript).
+- [harfbuzzjs](https://github.com/harfbuzz/harfbuzzjs) - HarfBuzz text shaping for browser and Node.js projects through WebAssembly.
+- [Troika Three Text](https://github.com/protectwise/troika/tree/main/packages/troika-three-text) - Render text in Three.js with signed distance fields, kerning, ligatures, bidirectional layout, and font fallback.
 
 ## Python
-- [fontTools](https://github.com/fonttools/fonttools) - Library for manipulating fonts, written in Python.
+- [fontTools](https://github.com/fonttools/fonttools) - Python library for inspecting and manipulating fonts, including TTX table conversion, subsetting, and variable-font tooling.
 - [fontmake](https://github.com/googlei18n/fontmake) - Compile fonts from sources (UFO, Glyphs) to binary (OpenType, TrueType).
 - [FontReport](https://github.com/googlei18n/fontreport) - Tool to create PDF files containing glyph images and information about a font.
 - [fontdiff](https://github.com/googlei18n/fontdiff) - Tool for finding visual differences between two font versions.
@@ -257,6 +263,14 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [unicodedata2](https://github.com/fonttools/unicodedata2) - Backport and updates of the Unicode character database for Python.
 - [skia-pathops](https://github.com/fonttools/skia-pathops) - Python bindings for Skia's Path Ops library for Boolean operations on paths.
 - [ttfautohint-py](https://github.com/fonttools/ttfautohint-py) - Python wrapper for ttfautohint, an automatic hinter for TrueType fonts.
+- [Diffenator 2](https://github.com/googlefonts/diffenator2) - Compare static and variable TrueType font families visually and structurally, and generate proofing documents.
+- [FoundryTools-CLI](https://github.com/ftCLI/FoundryTools-CLI) - Inspect, convert, and modify font binaries and metadata from the command line.
+- [statmake](https://github.com/daltonmaag/statmake) - Generate variable-font STAT tables from .stylespace files.
+- [shaperglot](https://github.com/googlefonts/shaperglot) - Test font files for language support.
+- [BlackRenderer](https://github.com/fontra/black-renderer) - Render OpenType COLR and COLRv1 color fonts, including variable color data, using multiple graphics backends.
+- [fontFeatures](https://github.com/simoncozens/fontFeatures) - Inspect and manipulate OpenType font features programmatically.
+- [babelfont](https://github.com/simoncozens/babelfont) - Access and manipulate font formats through a common interface.
+- [fontquant](https://github.com/googlefonts/fontquant) - Measure and quantify font properties and technical quality.
 
 ## Java
 - [sfntly](https://github.com/googlei18n/sfntly) - Library for Using, Editing, and Creating SFNT-based Fonts.
@@ -328,6 +342,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [MFEKglif](https://github.com/MFEK/glif) - Stand-alone viewer and editor for UFO glyphs, part of Modular Font Editor K.
 - [MFEKufo](https://github.com/MFEK/ufo) - UFO font viewer for Modular Font Editor K. Work in progress.
 - [Runebender](https://github.com/linebender/runebender) - Experimental font editor written in Rust. Early-stage software, not yet suitable for production use.
+- [Fontra](https://github.com/fontra/fontra) - Open-source browser-based font editor.
 
 ## Font Validator
 - [Font Validator](https://github.com/HinTak/Font-Validator) - Tool for testing fonts prior to release. See [Install post for Mac](http://typedrawers.com/discussion/comment/16090/#Comment_16090).
@@ -341,6 +356,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Font Gauntlet](https://fontgauntlet.com) - The Dinamo Font Gauntlet is a tool for proofing, generating and animating fonts.
 - [Wakamai Fondue](https://wakamaifondue.com/) - The tool that answers the question “what can my font do?”
 - [TypeNetwork TypeTools](https://typetools.typenetwork.com/) - Layout tools for experimenting with variable fonts in various ways.
+- [FontDrop!](https://fontdrop.info/) - Inspect font glyphs, metadata, language coverage, OpenType features, and variations in the browser.
 
 ## Miscellaneous
 - [TypeDrawers](http://typedrawers.com) - Discussion forum for professionals and enthusiasts in the fields of typeface design, lettering, and typography.
@@ -391,6 +407,8 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Font-Awesome-SVG-PNG](https://github.com/encharm/Font-Awesome-SVG-PNG) - Font Awesome split to individual SVG and PNG files of different sizes along with Node.js based generator.
 - [Calligraphr](https://www.calligraphr.com) - Convert your handwriting to a font file.
 - [Coding Font](https://www.codingfont.com) - Gamified experience to help you find your ideal coding font through a playful comparison tool.
+- [Variable Fonts](https://v-fonts.com/) - Interactive catalog for exploring variable typefaces and their axes.
+- [Typewolf](https://www.typewolf.com/) - Typography examples, font identification, and pairing ideas.
 
 ## Fonts
 - [The Gilbert Font](https://github.com/Fontself/TypeWithPride) - OpenType-SVG font named after Gilbert Baker, the creator of the rainbow flag.
