@@ -69,7 +69,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 
 ## C
 - [otfcc](https://github.com/caryll/otfcc) - Parses & writes SFNT structures.
-- [AFDKO](https://github.com/adobe-type-tools/afdko) - Adobe Font Development Kit for OpenType. See [AFDKO Overview](https://www.adobe.com/devnet/opentype/afdko/topic_overview.html).
+- [AFDKO](https://github.com/adobe-type-tools/afdko) - Adobe Font Development Kit for OpenType. See [AFDKO Overview](https://adobe-type-tools.github.io/afdko/AFDKO-Overview.html).
 - [stb_truetype](https://github.com/nothings/stb/) - Parse, decode, and rasterize characters for TrueType fonts. Single header file.
 - [FreeType](https://www.freetype.org) - Freely available software library to render fonts.
 - [Raqm](https://github.com/HOST-Oman/libraqm) - Library for complex text layout.
@@ -262,7 +262,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Noto Tools](https://github.com/googlei18n/nototools) - Noto fonts support tools and scripts.
 - [compreffor](https://github.com/googlei18n/compreffor) - CFF table subroutinizer for FontTools.
 - [font-line](https://github.com/source-foundry/font-line) - OpenType vertical metrics reporting and font line spacing adjustment tool.
-- [Flat](https://xxyxyz.org/flat/) - Library for creating and manipulating digital forms of fine arts.
+- [Flat](https://github.com/xxyxyz/flat) - Library for creating and manipulating digital forms of fine arts.
 - [PageBot](https://github.com/typenetwork/pagebot) - Scripted page layout program, as application inside Drawbot generating high quality typographic documents that support high quality fonts.
 - [bdfparser](https://github.com/tomchen/bdfparser) - BDF (Glyph Bitmap Distribution) format bitmap font file parser library in Python.
 - [glyphsLib](https://github.com/googlefonts/glyphsLib) - Convert Glyphs source files to UFOs and back.
@@ -341,8 +341,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Birdfont](https://github.com/johanmattssonm/birdfont) - Font editor which can generate fonts in TTF, EOT, SVG and BF format.
 - [Glyphr Studio](https://twitter.com/glyphrstudio) - Free, web-based font editor, focusing on font design hobbyists.
 - [DTL OTMaster Light](https://www.fontmaster.nl/#light) - In the Light editions of dtl OTMaster only the saving of files is disabled. Checking fonts and exporting OpenType Layout features files, be and ik formats, and Character Layout (.cha) files is possible though.
-- [fonteditor](https://github.com/ecomfe/fonteditor) - Web-based TTF font editor, live at [fontstore.baidu.com](http://fontstore.baidu.com/static/editor/index-en.html).
-- [FontArk](https://fontark.net/farkwp/) - Innovative browser-based font editor and creator (BETA), featuring the most versatile real-time multiple glyph editing system.
+- [fonteditor](https://github.com/ecomfe/fonteditor) - Web-based TTF font editor.
 - [TTFEdit](https://sourceforge.net/projects/ttfedit/) - TrueType fonts editor. Allows for editing vector-based glyphs.
 - [OpenType-SVG-Font-Editor](https://github.com/Microsoft/OpenType-SVG-Font-Editor) - OpenType-SVG font editor.
 - [SdfFontDesigner](https://github.com/aiekick/SdfFontDesigner) - A generator of bitmap font, based on ttf & otf, rendered with custom shaders in glsl.
@@ -382,10 +381,10 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Typomanie.fr Ressources](http://typomanie.fr/ressources/)
 - [Drawing good paths Tutorial](https://glyphsapp.com/tutorials/drawing-good-paths) - Badly drawn outlines can cause headache. Your letters may look mangled or not appear at all. You can avoid these difficulties if you keep a few basic rules in mind.
 - [Deep Into OpenType Features](https://web.archive.org/web/20190916123318/https://blog.ricardofilipe.com/post/deep-into-opentype-features) - What are OpenType features? Archived article.
-- [The A-Z of typographic terms](https://www.fontsmith.com/blog/2016/06/29/the-a-z-of-typographic-terms) - Typography terms in images.
+- [Typographic terms](https://www.monotype.com/resources/typographic-terms) - Glossary of typography terms.
 - [Emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line 😮 ✨ 🙌 🐴 💥 🙈.
 - [Emoji Wrap Monthly Newsletter](http://emojiwrap.com) - Bite-sized summary of what's happening in the world of emoji and Unicode.
-- [Crypto Puzzles](https://github.com/2d4d/crypto_puzzles) - Functions for encryption and steganography as puzzles or brain teasers. [Online demo](http://rupp.de/crypto_puzzles/crypto_puzzles_web.py).
+- [Crypto Puzzles](https://github.com/ruppde/crypto_puzzles) - Functions for encryption and steganography as puzzles or brain teasers.
 - [FDBP](http://silnrsi.github.io/FDBP/) - Font Development Best Practice documentation.
 - [UnicodeChecker](http://earthlingsoft.net/UnicodeChecker/) - Explore and convert Unicode.
 - [unicodes](https://github.com/jessetane/unicodes) - Browse all of the unicodes.
@@ -435,10 +434,10 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [EmojiOne COLR/CPAL](https://github.com/mozilla/twemoji-colr) - EmojiOne font in COLR/CPAL layered format.
 - [EmojiOne OpenType-SVG](https://github.com/eosrei/emojione-color-font) - Color emoji OpenType-SVG font using EmojiOne Unicode 9.0 emoji with diversity and country flags.
 - [Twitter Color Emoji Font](https://github.com/eosrei/twemoji-color-font) - Color emoji OpenType-SVG font using Twitter Unicode 9.0 emoji with diversity and country flags.
-- [Bixa Color](https://bixacolor.com) - Building Bixa Color, a color font for the web [pixelambacht.nl/2016/building-bixa-color/](https://pixelambacht.nl/2016/building-bixa-color/).
+- [Bixa Color](https://pixelambacht.nl/2016/building-bixa-color/) - Article about building a color font for the web.
 - [fontwr-fonts](https://github.com/raphaklaus/fontwr-fonts) - Fonts repository for fontwr.
 - [Bungee](https://github.com/djrrb/Bungee/) - Chromatic signage typeface for vertical and horizontal setting.
-- [Aerial Bold](http://type.aerial-bold.com/tw/) - First map and typeface of the earth.
+- [Aerial Bold](https://web.archive.org/web/20211226052158/http://type.aerial-bold.com/tw/) - First map and typeface of the earth. Archived website.
 - [wavefont](https://github.com/audio-lab/wavefont) - Typeface for rendering data: waveforms, spectrums, diagrams, bars etc.
 - [Adobe Variable Font Prototype](https://github.com/adobe-fonts/adobe-variable-font-prototype) - Variable font example in OpenType-CFF2 & TrueType formats.
 - [Microsoft open source fonts](https://github.com/Microsoft/fonts) - Central location to share Microsoft's open source fonts.
