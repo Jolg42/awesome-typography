@@ -22,6 +22,8 @@ npm ci
 npm test
 ```
 
+The lint command validates repository metadata against the upstream project, so it also works in forks and on local branches without an upstream.
+
 Pull requests run the README lint check automatically. External links are checked weekly and can also be checked manually from the repository's Actions tab. Review link failures before removing entries: a temporary outage or bot protection does not necessarily mean a resource has disappeared.
 
 ## Updating your pull request
