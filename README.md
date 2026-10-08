@@ -215,6 +215,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [glyphhanger](https://github.com/filamentgroup/glyphhanger) - Your web font utility belt. It shows what unicode-ranges are used on a web site (optionally for a font-family or for each font-family). It can also subset web fonts.
 - [Punycode.js](https://github.com/bestiejs/punycode.js) - Robust Punycode converter that fully complies to RFC 3492 and RFC 5891.
 - [code-point-at](https://github.com/sindresorhus/code-point-at) - ES2015 String#codePointAt() ponyfill.
+- [Typefont](https://github.com/boldprogressives/Typefont) - First open-source library that detects the font of a text in a image.
 - [node-fonttools](https://github.com/dfrankland/node-fonttools) - Native bindings to fonttools to decompile and compile fonts.
 - [font-toolkit](https://github.com/hsiaosiyuan0/fonts) - Font file manipulating in TypeScript.
 - [variableFont.js](https://github.com/Monotype/variableFont.js) - Handles variable fonts through OpenType.js.
@@ -340,6 +341,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Alfred Special Characters](https://github.com/typefacts/alfred-special-characters) - Typefacts Special Characters Workflow for Alfred 3.
 - [Typomanie.fr Ressources](http://typomanie.fr/ressources/)
 - [Drawing good paths Tutorial](https://glyphsapp.com/tutorials/drawing-good-paths) - Badly drawn outlines can cause headache. Your letters may look mangled or not appear at all. You can avoid these difficulties if you keep a few basic rules in mind.
+- [Deep Into OpenType Features](https://web.archive.org/web/20190916123318/https://blog.ricardofilipe.com/post/deep-into-opentype-features) - What are OpenType features? Archived article.
 - [The A-Z of typographic terms](https://www.fontsmith.com/blog/2016/06/29/the-a-z-of-typographic-terms) - Typography terms in images.
 - [Emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line 😮 ✨ 🙌 🐴 💥 🙈.
 - [Emoji Wrap Monthly Newsletter](http://emojiwrap.com) - Bite-sized summary of what's happening in the world of emoji and Unicode.
