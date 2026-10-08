@@ -84,7 +84,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Slug](https://github.com/EricLengyel/Slug) - Reference code for the Slug Algorithm.
 - [Sluggish](https://github.com/mightycow/Sluggish) - Toy CPU and GPU implementations of the Slug rendering algorithm.
 - [slughorn](https://github.com/AlphaPixel/slughorn) - Library for shoehorning the Slug text/graphics GPU rendering library into projects.
-- [osgSlug](https://github.com/AlphaPixel/osgSlug) - Slug support for OpenSceneGraph via SlugHorn
+- [osgSlug](https://github.com/AlphaPixel/osgSlug) - Slug support for OpenSceneGraph via SlugHorn.
 - [picasso](https://github.com/onecoolx/picasso) - High quality 2D vector graphic rendering library. It support path , matrix , gradient , pattern , image and truetype font.
 - [fcft](https://codeberg.org/dnkl/fcft) - A simple library for font loading and glyph rasterization using FontConfig, FreeType and pixman.
 - [sway](https://codeberg.org/dnkl/sway) - This is a fork of https://github.com/swaywm/sway that replaces pango with https://codeberg.org/dnkl/fcft for font rendering.
