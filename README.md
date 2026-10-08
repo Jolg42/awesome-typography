@@ -149,6 +149,9 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [MFEKstroke](https://github.com/MFEK/stroke) - Utilities for stroking paths in UFO glyphs, written in Rust.
 - [glifparser](https://github.com/MFEK/glifparser.rlib) - Parser and writer for UFO `.glif` files.
 - [glifrenderer](https://github.com/MFEK/glifrenderer.rlib) - Skia renderer for MFEK glyphs, used by MFEKglif and MFEKufo.
+- [rustybuzz](https://github.com/harfbuzz/rustybuzz) - Rust port of the HarfBuzz text shaping algorithm.
+- [cosmic-text](https://github.com/pop-os/cosmic-text) - Text shaping, font fallback, layout, and rendering in Rust.
+- [Fontations](https://github.com/googlefonts/fontations) - Collection of Rust libraries for reading and writing font files.
 
 ## OCaml
 - [font_awesome_icons](https://github.com/janestreet/font_awesome_icons) - An OCaml library for Font-Awesome SVG icons.
@@ -221,6 +224,9 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [font-toolkit](https://github.com/hsiaosiyuan0/fonts) - Font file manipulating in TypeScript.
 - [variableFont.js](https://github.com/Monotype/variableFont.js) - Handles variable fonts through OpenType.js.
 - [bdfparser-js](https://github.com/tomchen/bdfparser-js) - BDF (Glyph Bitmap Distribution) format bitmap font file parser library in TypeScript (JavaScript).
+- [Fontsource](https://github.com/fontsource/fontsource) - Self-host open-source fonts through npm packages.
+- [Capsize](https://github.com/seek-oss/capsize) - Size and align text in CSS using font metrics, trimming space above capital letters and below the baseline.
+- [Satori](https://github.com/vercel/satori) - Render HTML and CSS layouts, including text and custom fonts, into SVG.
 
 ## Python
 - [fontTools](https://github.com/fonttools/fonttools) - Library for manipulating fonts, written in Python.
@@ -257,6 +263,9 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [unicodedata2](https://github.com/fonttools/unicodedata2) - Backport and updates of the Unicode character database for Python.
 - [skia-pathops](https://github.com/fonttools/skia-pathops) - Python bindings for Skia's Path Ops library for Boolean operations on paths.
 - [ttfautohint-py](https://github.com/fonttools/ttfautohint-py) - Python wrapper for ttfautohint, an automatic hinter for TrueType fonts.
+- [DrawBot](https://www.drawbot.com/) - Script drawings and typography on macOS to create specimens, proofs, and visual experiments.
+- [gftools](https://github.com/googlefonts/gftools) - Build, modify, and package fonts for Google Fonts.
+- [nanoemoji](https://github.com/googlefonts/nanoemoji) - Build color fonts from SVG artwork, including COLRv1 fonts.
 
 ## Java
 - [sfntly](https://github.com/googlei18n/sfntly) - Library for Using, Editing, and Creating SFNT-based Fonts.
@@ -328,6 +337,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [MFEKglif](https://github.com/MFEK/glif) - Stand-alone viewer and editor for UFO glyphs, part of Modular Font Editor K.
 - [MFEKufo](https://github.com/MFEK/ufo) - UFO font viewer for Modular Font Editor K. Work in progress.
 - [Runebender](https://github.com/linebender/runebender) - Experimental font editor written in Rust. Early-stage software, not yet suitable for production use.
+- [FontGoggles](https://github.com/justvanrossum/fontgoggles) - Font preview and inspection app for macOS with support for OpenType layout and variable fonts.
 
 ## Font Validator
 - [Font Validator](https://github.com/HinTak/Font-Validator) - Tool for testing fonts prior to release. See [Install post for Mac](http://typedrawers.com/discussion/comment/16090/#Comment_16090).
@@ -391,6 +401,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Font-Awesome-SVG-PNG](https://github.com/encharm/Font-Awesome-SVG-PNG) - Font Awesome split to individual SVG and PNG files of different sizes along with Node.js based generator.
 - [Calligraphr](https://www.calligraphr.com) - Convert your handwriting to a font file.
 - [Coding Font](https://www.codingfont.com) - Gamified experience to help you find your ideal coding font through a playful comparison tool.
+- [Google Fonts Knowledge](https://fonts.google.com/knowledge) - Guides to typography, choosing typefaces, and using variable fonts.
 
 ## Fonts
 - [The Gilbert Font](https://github.com/Fontself/TypeWithPride) - OpenType-SVG font named after Gilbert Baker, the creator of the rainbow flag.
@@ -435,6 +446,8 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Overpass](https://github.com/RedHatBrand/Overpass) - Open source font family inspired by Highway Gothic.
 - [oldschool-pc-fonts](https://int10h.org/oldschool-pc-fonts) - The world's biggest collection of classic text mode fonts, system fonts and BIOS fonts from DOS-era IBM PCs and compatibles - preserving raster typography from pre-GUI times.
 - [Crimson Pro](https://github.com/Fonthausen/CrimsonPro) - The Crimson Text typeface.
+- [Inter](https://github.com/rsms/inter) - Variable font family designed for readability on computer screens.
+- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - Collection of icon-patched programming fonts and tools for patching fonts.
 
 For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 
@@ -446,6 +459,7 @@ For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 - [Fonts & Encodings](http://shop.oreilly.com/product/9780596102425.do) - From Advanced Typography to Unicode and Everything in Between [Google Books Preview](https://books.google.fr/books?id=qrElYgVLDwYC&printsec=frontcover#v=onepage&q&f=false).
 - [Unicode Explained](http://shop.oreilly.com/product/9780596101213.do) - There are hundreds of different encoding systems for mapping characters to numbers, but Unicode promises a single mapping. [Google Books Preview](https://books.google.fr/books?id=lxndiWaFMvMC&printsec=frontcover#v=onepage&q&f=false).
 - [Footnotes](https://www.footnotes.ch/) - Print periodical on applied research in type design, published by La Police since 2016. [Selected articles online](https://lapolice.ch/stories/).
+- [Butterick’s Practical Typography](https://practicaltypography.com/) - Online book about choosing and using type, text formatting, and page layout.
 
 
 ## Videos
