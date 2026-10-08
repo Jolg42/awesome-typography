@@ -2,7 +2,7 @@
   "name": "awesome-typography",
   "private": true,
   "scripts": {
-    "test": "awesome-lint"
+    "test": "node scripts/lint.mjs"
   },
   "engines": {
     "node": ">=20"
