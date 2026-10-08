@@ -148,6 +148,9 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [truetype](https://github.com/PistonDevelopers/truetype) - Library for reading fonts from the TrueType format.
 - [font-generator](https://codeberg.org/dullbananas/font-generator) - A genetic algorithm for fonts.
 - [bdfreader](https://codeberg.org/heu/bdf-reader) - BDF font format reader.
+- [MFEKstroke](https://github.com/MFEK/stroke) - Utilities for stroking paths in UFO glyphs, written in Rust.
+- [glifparser](https://github.com/MFEK/glifparser.rlib) - Parser and writer for UFO `.glif` files.
+- [glifrenderer](https://github.com/MFEK/glifrenderer.rlib) - Skia renderer for MFEK glyphs, used by MFEKglif and MFEKufo.
 
 ## OCaml
 - [font_awesome_icons](https://github.com/janestreet/font_awesome_icons) - An OCaml library for Font-Awesome SVG icons.
@@ -252,6 +255,10 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Flat](https://xxyxyz.org/flat/) - Library for creating and manipulating digital forms of fine arts.
 - [PageBot](https://github.com/typenetwork/pagebot) - Scripted page layout program, as application inside Drawbot generating high quality typographic documents that support high quality fonts.
 - [bdfparser](https://github.com/tomchen/bdfparser) - BDF (Glyph Bitmap Distribution) format bitmap font file parser library in Python.
+- [glyphsLib](https://github.com/googlefonts/glyphsLib) - Convert Glyphs source files to UFOs and back.
+- [unicodedata2](https://github.com/fonttools/unicodedata2) - Backport and updates of the Unicode character database for Python.
+- [skia-pathops](https://github.com/fonttools/skia-pathops) - Python bindings for Skia's Path Ops library for Boolean operations on paths.
+- [ttfautohint-py](https://github.com/fonttools/ttfautohint-py) - Python wrapper for ttfautohint, an automatic hinter for TrueType fonts.
 
 ## Java
 - [sfntly](https://github.com/googlei18n/sfntly) - Library for Using, Editing, and Creating SFNT-based Fonts.
@@ -261,6 +268,8 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 ## Ruby
 - [emoji-extractor](https://github.com/tmm1/emoji-extractor) - Extracts high-resolution emoji pngs from Apple Color Emoji.ttf.
 - [font](https://github.com/alyssais/font) - Command-line font manager.
+- [Fontisan](https://github.com/fontist/fontisan) - Ruby library and command-line tools for analyzing font metadata, tables and glyphs.
+- [Fontist](https://github.com/fontist/fontist) - Find, download and install fonts on Windows, Linux and macOS.
 
 ## Go
 - [font](https://github.com/ConradIrwin/font) - Parsing OpenType fonts in Golang.
@@ -288,6 +297,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [ufoNormalizer](https://github.com/unified-font-object/ufoNormalizer) - Tool that will normalize the XML and other data inside of a UFO.
 - [ufo2ft](https://github.com/googlei18n/ufo2ft) - UFO to FontTools.
 - [ufoJS](https://github.com/graphicore/ufoJS) - JavaScript API for the Unified Font Object.
+- [ufoLib2](https://github.com/fonttools/ufoLib2) - Python library for reading, writing and manipulating UFO font sources.
 
 
 ## Tools with GUI
@@ -316,10 +326,15 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [OpenType-SVG-Font-Editor](https://github.com/Microsoft/OpenType-SVG-Font-Editor) - OpenType-SVG font editor.
 - [SdfFontDesigner](https://github.com/aiekick/SdfFontDesigner) - A generator of bitmap font, based on ttf & otf, rendered with custom shaders in glsl.
 - [FontFreeze](https://mutsuntsai.github.io/fontfreeze/) - Web-based tool for freezing variations and features in font.
+- [Modular Font Editor K](https://github.com/MFEK/docs) - Open-source modular font editor project. See its [design goals](https://github.com/MFEK/docs/blob/master/doc/Why.md).
+- [MFEKglif](https://github.com/MFEK/glif) - Stand-alone viewer and editor for UFO glyphs, part of Modular Font Editor K.
+- [MFEKufo](https://github.com/MFEK/ufo) - UFO font viewer for Modular Font Editor K. Work in progress.
+- [Runebender](https://github.com/linebender/runebender) - Experimental font editor written in Rust. Early-stage software, not yet suitable for production use.
 
 ## Font Validator 
 - [Font Validator](https://github.com/HinTak/Font-Validator) - Tool for testing fonts prior to release. See [Install post for Mac](http://typedrawers.com/discussion/comment/16090/#Comment_16090).
 - [OpenType Sanitiser](https://github.com/khaledhosny/ots) - The OpenType Sanitiser (OTS) parses and serialises OpenType files (OTF, TTF) and WOFF and WOFF2 font files, validating them and sanitising them as it goes.
+- [Fontspector](https://github.com/fonttools/fontspector) - Command-line font quality assurance tool written in Rust, a successor to Font Bakery.
 
 ## Font Testing Websites
 - [Axis-Praxis](https://www.axis-praxis.org/) - Website for playing with OpenType variable fonts in modern browsers.
