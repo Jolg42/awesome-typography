@@ -58,6 +58,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [protracker-font](https://github.com/echolevel/protracker-font) - 8x8 pixel font reconstructed as TTF from the Protracker v2.3D/v2.3E assembly source.
 - [x86-Assembly-Fonts](https://github.com/ArTicZera/x86-Assembly-Fonts) - Use different bitmap fonts in your Real Mode OS using bitmaps and pixel routines.
 - [xfnt](https://github.com/hexagonix/xfnt) - Fontes gráficas para Hexagon/Hexagon graphic fonts.
+- [cracker](https://codefloe.com/shred/cracker) - Text, graphics and font ripper for the ZX Spectrum.
 - [persian-assembly-font](https://github.com/imnr/persian-assembly-font) -  Design and implementation of Persian alphabet letters in Assembly.
 - [again](https://github.com/samoylenko/again) - My custom DirectX/Assembly/Raster-font PC Intro engine (2005).
 - [amigafonts](https://github.com/rewtnull/amigafonts) - Faithfully remade multi platform Amiga fonts in Amiga aspect.
@@ -202,6 +203,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [A-binary-parser-generator](https://github.com/Pomax/A-binary-parser-generator) - This project aims to create a tool that can turn a spec file into a parser skeleton for binary data files such as OpenType fonts, PNG images, etc.
 - [font-spider](https://github.com/aui/font-spider) - Smart webfont compression and format conversion tool.
 - [Brotli.js](https://github.com/foliojs/brotli.js) - A JavaScript port of the Brotli compression algorithm, as used in WOFF2.
+- [ideohint](https://github.com/caryll/ideohint-archive) - Optimized hinter for Ideographs. Archived; no longer maintained.
 - [subfont](https://github.com/Munter/subfont) - Command line tool to inject Google font subsets used glyphs into your page.
 - [webfont](https://github.com/itgalaxy/webfont) - Awesome generator of webfont, WOFF2, WOFF, EOT, TTF and SVG.
 - [grapheme-splitter](https://github.com/orling/grapheme-splitter) - JavaScipt library that breaks strings into their individual user-perceived characters.
@@ -229,6 +231,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [glyphNameFormatter](https://github.com/LettError/glyphNameFormatter) - Generate list of glyphnames from unicode names.
 - [woffTools](https://github.com/typesupply/woffTools) - Library for working with WOFF files.
 - [pyftfeatfreeze](https://github.com/twardoch/fonttools-opentype-feature-freezer) - With pyftfeatfreeze, you can “freeze” some OpenType features into a font.
+- [RoboFab](https://github.com/robotools/robofab) - Library with objects that deal with data usually associated with fonts and type design. Archived; no longer maintained.
 - [pyfontaine](https://github.com/davelab6/pyfontaine) - Python tool to check font files for language/character set support.
 - [Glyph Nanny](https://github.com/typesupply/glyph-nanny) - Live report about potential drawing issues in your glyph.
 - [Kernagic](https://github.com/hodefoting/kernagic) - Semi-automatic font spacing tool.
@@ -318,6 +321,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 
 ## Font Testing Websites
 - [Axis-Praxis](https://www.axis-praxis.org/) - Website for playing with OpenType variable fonts in modern browsers.
+- [Bulletproof Font Tester](https://www.adamjagosz.com/bulletproof/) - Test your local or remote fonts with the proofing tool developed by a type designer, for type designers. Check out kerning, OpenType features, and language coverage. Explore and animate variation axes in variable fonts.
 - [Cyreal.org Font Testing Page](http://www.cyreal.org/Font-Testing-Page/) - The Font Testing Page is a tool primarily intended for type designers to 'Drag and Drop' and quickly test their fonts into a browser (active fork of Impallari's testing page).
 - [Font Gauntlet](https://fontgauntlet.com) - The Dinamo Font Gauntlet is a tool for proofing, generating and animating fonts.
 - [Wakamai Fondue](https://wakamaifondue.com/) - The tool that answers the question “what can my font do?”
