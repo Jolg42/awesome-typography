@@ -1,4 +1,7 @@
-*
-!.travis.yml
-!*.md
-!package.json
+node_modules/
+.idea/
+.serena/
+.DS_Store
+ab-results-*.json
+.lycheecache
+lychee/

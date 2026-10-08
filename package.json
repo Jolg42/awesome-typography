@@ -1,8 +1,13 @@
 {
+  "name": "awesome-typography",
+  "private": true,
   "scripts": {
     "test": "awesome-lint"
   },
+  "engines": {
+    "node": ">=20"
+  },
   "devDependencies": {
-    "awesome-lint": "*"
+    "awesome-lint": "2.3.0"
   }
 }

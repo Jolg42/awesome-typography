@@ -1,0 +1,25 @@
+name: Check links
+
+on:
+  schedule:
+    - cron: '17 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - name: Check documentation links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --verbose --no-progress --max-concurrency 4 --timeout 30 --max-retries 2 README.md CONTRIBUTING.md CODE_OF_CONDUCT.md
+          fail: true
+          jobSummary: true
+          token: ${{ github.token }}

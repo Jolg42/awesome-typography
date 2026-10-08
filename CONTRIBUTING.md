@@ -1,37 +1,29 @@
 # Contribution Guidelines
 
-Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+By participating in this project, you agree to abide by its [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Adding to this list
 
-* Insert a new entry **at the end** of a category
-* New categories or improvements to the existing categorization are welcome
-* Use the following format: `[entry title](link) - Additional information.`
-* Check your spelling and grammar
-* Make sure your text editor is set to remove trailing whitespace
-* The pull request and commit should have a useful title
-* In your pull request, include a link in the textual description
+- Add entries at the end of the most relevant category. Put font families and collections under Fonts; use language categories for libraries and tools implemented in that language.
+- Use the format `[Entry title](https://example.com) - Short description.`
+- Explain what the resource does. Start descriptions with a capital letter, end with punctuation, and avoid repeating the entry title.
+- Prefer the official project website or repository. Check that the link works and that the resource is not already listed.
+- Check spelling and grammar, and remove trailing whitespace.
+- When adding or renaming a category, update the table of contents and its heading links.
 
-# Contribution Guidelines
+## Submitting a pull request
 
-Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+Edit `README.md` in your fork or through GitHub's file editor, then open a pull request against `main`. Use a descriptive title and include the resource link and a brief explanation of why it belongs in this list.
 
-## Adding something to the list
+For local validation, use Node.js 20 or newer:
 
-If you have something awesome to contribute to an awesome list, this is how you do it.
+```sh
+npm ci
+npm test
+```
 
-You'll need a [GitHub account](https://github.com/join)!
+Pull requests run the README lint check automatically. External links are checked weekly and can also be checked manually from the repository's Actions tab. Review link failures before removing entries: a temporary outage or bot protection does not necessarily mean a resource has disappeared.
 
-1. Access the awesome list's GitHub page. https://github.com/Jolg42/awesome-typography
-2. Click on the `readme.md` file: ![Step 2 Click on Readme.md](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
-3. Now click on the edit icon. ![Step 3 - Click on Edit](https://cloud.githubusercontent.com/assets/170270/9402927/6506af22-480c-11e5-8c18-7ea823530099.png)
-4. You can start editing the text of the file in the in-browser editor. Make sure you follow the guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). ![Step 4 - Edit the file](https://cloud.githubusercontent.com/assets/170270/9402932/7301c3a0-480c-11e5-81f5-7e343b71674f.png)
-5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
-6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
+## Updating your pull request
 
-## Updating your Pull Request
-
-Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
-
-[Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request and the different ways you can do that.
-
+Push follow-up changes to the same branch to update your pull request. Check the lint results and address any review feedback before requesting another review.
