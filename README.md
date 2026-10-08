@@ -28,7 +28,7 @@ Curated list about digital typography.
 - [Miscellaneous](#miscellaneous)
 - [Fonts](#fonts)
 - [TrueType](#truetype)
-- [Books](#books)
+- [Publications](#publications)
 - [Videos](#videos)
 - [Contribute](#contribute)
 
@@ -430,9 +430,10 @@ For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 - [Truetype font software](http://luc.devroye.org/ttsoftware-index.html) - List (Big!) with descriptions [here](http://luc.devroye.org/ttsoftware.html).
 
 
-## Books
+## Publications
 - [Fonts & Encodings](http://shop.oreilly.com/product/9780596102425.do) - From Advanced Typography to Unicode and Everything in Between [Google Books Preview](https://books.google.fr/books?id=qrElYgVLDwYC&printsec=frontcover#v=onepage&q&f=false).
 - [Unicode Explained](http://shop.oreilly.com/product/9780596101213.do) - There are hundreds of different encoding systems for mapping characters to numbers, but Unicode promises a single mapping. [Google Books Preview](https://books.google.fr/books?id=lxndiWaFMvMC&printsec=frontcover#v=onepage&q&f=false).
+- [Footnotes](https://www.footnotes.ch/) - Print periodical on applied research in type design, published by La Police since 2016. [Selected articles online](https://lapolice.ch/stories/).
 
 
 ## Videos
