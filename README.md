@@ -419,6 +419,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Google Fonts Knowledge](https://fonts.google.com/knowledge) - Guides to typography, choosing typefaces, and using variable fonts.
 - [Variable Fonts](https://v-fonts.com/) - Interactive catalog for exploring variable typefaces and their axes.
 - [Typewolf](https://www.typewolf.com/) - Typography examples, font identification, and pairing ideas.
+- [Cute Font Generator](https://cutefontgen.com/cute-fonts/) - Free browser tool that turns plain text into Unicode cute, kawaii, bubble, and script styles for copy-paste use.
 
 ## Fonts
 - [The Gilbert Font](https://github.com/Fontself/TypeWithPride) - OpenType-SVG font named after Gilbert Baker, the creator of the rainbow flag.
