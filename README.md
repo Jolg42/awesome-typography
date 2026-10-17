@@ -233,6 +233,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Satori](https://github.com/vercel/satori) - Render HTML and CSS layouts, including text and custom fonts, into SVG.
 - [harfbuzzjs](https://github.com/harfbuzz/harfbuzzjs) - HarfBuzz text shaping for browser and Node.js projects through WebAssembly.
 - [Troika Three Text](https://github.com/protectwise/troika/tree/main/packages/troika-three-text) - Render text in Three.js with signed distance fields, kerning, ligatures, bidirectional layout, and font fallback.
+- [polytypo](https://github.com/polytypo/polytypo-js) - Locale-aware typography fixer for 19 languages: curly quotes, dashes, ellipses and no-break spaces in text, HTML, Markdown and YAML.
 
 ## Python
 - [fontTools](https://github.com/fonttools/fonttools) - Python library for inspecting and manipulating fonts, including TTX table conversion, subsetting, and variable-font tooling.
@@ -280,6 +281,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [fontFeatures](https://github.com/simoncozens/fontFeatures) - Inspect and manipulate OpenType font features programmatically.
 - [babelfont](https://github.com/simoncozens/babelfont) - Access and manipulate font formats through a common interface.
 - [fontquant](https://github.com/googlefonts/fontquant) - Measure and quantify font properties and technical quality.
+- [polytypo](https://github.com/polytypo/polytypo-python) - Locale-aware typography fixer for 19 languages: curly quotes, dashes, ellipses and no-break spaces in text, HTML, Markdown and YAML.
 
 ## Java
 - [sfntly](https://github.com/googlei18n/sfntly) - Library for Using, Editing, and Creating SFNT-based Fonts.
@@ -291,16 +293,19 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [font](https://github.com/alyssais/font) - Command-line font manager.
 - [Fontisan](https://github.com/fontist/fontisan) - Ruby library and command-line tools for analyzing font metadata, tables and glyphs.
 - [Fontist](https://github.com/fontist/fontist) - Find, download and install fonts on Windows, Linux and macOS.
+- [polytypo](https://github.com/polytypo/polytypo-ruby) - Locale-aware typography fixer for 19 languages: curly quotes, dashes, ellipses and no-break spaces in text, HTML, Markdown and YAML.
 
 ## Go
 - [font](https://github.com/ConradIrwin/font) - Parsing OpenType fonts in Golang.
 - [freetype](https://github.com/golang/freetype) - Font rasterizer in Go.
 - [checkfont](https://codeberg.org/lapingvino/checkfont) - Checks which system fonts contain the desired characters.
+- [polytypo](https://github.com/polytypo/polytypo-go) - Locale-aware typography fixer for 19 languages: curly quotes, dashes, ellipses and no-break spaces in text, HTML, Markdown and YAML.
 
 ## PHP
 - [PHP Font Lib](https://github.com/PhenX/php-font-lib) - Library to read, parse, export and make subsets of different types of font files.
 - [JoliTypo](https://github.com/jolicode/JoliTypo) - Microtypography fixer for the web.
 - [PHP SmartyPants](https://github.com/michelf/php-smartypants) - SmartyPants is a free web typography prettifyier tool for web writers. It easily translates plain ASCII punctuation characters into "smart" typographic punctuation HTML entities.
+- [polytypo](https://github.com/polytypo/polytypo-php) - Locale-aware typography fixer for 19 languages: curly quotes, dashes, ellipses and no-break spaces in text, HTML, Markdown and YAML.
 
 ## Perl
 - [Font::TTFMetrics](https://metacpan.org/release/Font-TTFMetrics) - Fast & easy-to-use parser for true-type font (TTF) file.
