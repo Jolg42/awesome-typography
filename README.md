@@ -233,6 +233,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Satori](https://github.com/vercel/satori) - Render HTML and CSS layouts, including text and custom fonts, into SVG.
 - [harfbuzzjs](https://github.com/harfbuzz/harfbuzzjs) - HarfBuzz text shaping for browser and Node.js projects through WebAssembly.
 - [Troika Three Text](https://github.com/protectwise/troika/tree/main/packages/troika-three-text) - Render text in Three.js with signed distance fields, kerning, ligatures, bidirectional layout, and font fallback.
+- [hangul-type-lint](https://github.com/johndefine404/hangul-type-lint) - Check rendered web pages at desktop and mobile widths for Korean typesetting problems, such as Hangul words broken mid-word without `word-break: keep-all`, forced line breaks in headlines, and Hangul web fonts that hide text while loading, with a one-line CSS fix for each finding.
 
 ## Python
 - [fontTools](https://github.com/fonttools/fonttools) - Python library for inspecting and manipulating fonts, including TTX table conversion, subsetting, and variable-font tooling.
