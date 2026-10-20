@@ -2,6 +2,14 @@
 
 By participating in this project, you agree to abide by its [Code of Conduct](CODE_OF_CONDUCT.md).
 
+## Who can suggest new resources
+
+We currently do not accept new-resource submissions from their owners, maintainers, employees, sponsors, or paid promoters. This applies to pull requests and issues.
+
+Recommend resources you have used independently. Explain what you used them for and why you recommend them over existing entries. Do not submit on behalf of someone affiliated with the resource.
+
+Corrections and updates to existing entries remain welcome, including from their owners and maintainers. These must fix or update the listed information, not add promotional text or new resources.
+
 ## Resource quality and scope
 
 Submit resources you have used and would recommend for a digital typography task. Explain what they offer that the listed resources do not.
@@ -17,7 +25,7 @@ We do not accept:
 - Generic Unicode "fancy font", social-media bio, or copy-and-paste text generators without a typography use that existing entries do not cover.
 - Pages stuffed with search keywords, false technical claims, or descriptions that hide restrictions on what users can do.
 
-You may submit your own work or a commercial resource. Disclose if you own or maintain it, work for its publisher, receive sponsorship, or benefit financially from it. Link to the official resource without referral or campaign tracking parameters.
+Independent recommendations of commercial resources may qualify. Disclose any relationship or financial interest you have in a resource, including when correcting an existing entry. Link to the official resource without referral or campaign tracking parameters.
 
 Maintainers choose what to include. Completing the checklist does not guarantee acceptance, and maintainers may close a submission without a detailed review or requests for changes. Only resubmit a rejected resource if you can explain how it has improved enough to address the rejection.
 
