@@ -485,4 +485,4 @@ For more, check [awesome-fonts](https://github.com/brabadu/awesome-fonts)!
 
 
 ## Contribute
-Read the [contribution guidelines](CONTRIBUTING.md) before opening a pull request or an [issue](https://github.com/Jolg42/awesome-typography/issues). Explain what a new resource offers that the listed resources do not. We reject submissions made for backlinks or promotion, and tools or content that add nothing useful.
+Read the [contribution guidelines](CONTRIBUTING.md) before opening a pull request or an [issue](https://github.com/Jolg42/awesome-typography/issues). We currently accept new-resource recommendations only from independent users, not their owners, maintainers, employees, sponsors, or paid promoters. Explain what you used the resource for and what it offers beyond existing entries. Corrections and updates to existing entries remain welcome.
