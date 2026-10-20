@@ -40,6 +40,7 @@ Curated list about digital typography.
 Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf) - Technical Note #5176.
 - [the-cff-table](https://github.com/Pomax/the-cff-table) - Markdown conversion of the Adobe Tech notes 5176 and 5177 about CFF.
 - [Adobe's Documentation](https://www.adobe.com/devnet/font.html)
+- [Boring Expansion](https://github.com/harfbuzz/boring-expansion-spec) - Font format proposals for larger glyph sets, cubic outlines, variable components, and enhanced variation mapping.
 
 ## OpenType
 - [OpenType: let's learn how modern fonts actually work](https://pomax.github.io/#gh-weblog-1449777175633)
@@ -152,7 +153,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [MFEKstroke](https://github.com/MFEK/stroke) - Utilities for stroking paths in UFO glyphs, written in Rust.
 - [glifparser](https://github.com/MFEK/glifparser.rlib) - Parser and writer for UFO `.glif` files.
 - [glifrenderer](https://github.com/MFEK/glifrenderer.rlib) - Skia renderer for MFEK glyphs, used by MFEKglif and MFEKufo.
-- [rustybuzz](https://github.com/harfbuzz/rustybuzz) - Rust port of the HarfBuzz text shaping algorithm.
+- [HarfRust](https://github.com/harfbuzz/harfrust) - Rust port of the HarfBuzz text shaping engine, using Fontations for font parsing.
 - [cosmic-text](https://github.com/pop-os/cosmic-text) - Text shaping, font fallback, layout, and rendering in Rust.
 - [Fontations](https://github.com/googlefonts/fontations) - Collection of Rust libraries for reading and writing font files.
 - [fontc](https://github.com/googlefonts/fontc) - Compile Glyphs, Designspace, and Fontra font sources into font binaries.
@@ -280,6 +281,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [fontFeatures](https://github.com/simoncozens/fontFeatures) - Inspect and manipulate OpenType font features programmatically.
 - [babelfont](https://github.com/simoncozens/babelfont) - Access and manipulate font formats through a common interface.
 - [fontquant](https://github.com/googlefonts/fontquant) - Measure and quantify font properties and technical quality.
+- [uharfbuzz](https://github.com/harfbuzz/uharfbuzz) - Python bindings for HarfBuzz to shape text and inspect glyph indices and positions.
 
 ## Java
 - [sfntly](https://github.com/googlei18n/sfntly) - Library for Using, Editing, and Creating SFNT-based Fonts.
