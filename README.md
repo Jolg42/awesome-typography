@@ -331,7 +331,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Glyphs](https://glyphsapp.com) - Font editor (Mac only).
 - [Prototypo](https://github.com/byte-foundry/prototypo) - Web based font generator with a parametric approach.
 - [FontLab Studio](https://www.fontlab.com/font-editor/fontlab-studio/) - Font editor for font professionals. Version 5 for Mac and Windows.
-- [DTL OTMaster](https://www.fontmaster.nl) - Highly sophisticated application for reviewing, editing and altering tables and contours of fonts with an SFNT file structure, as there are CFF and TTF flavored OpenType fonts, TrueType fonts and TrueType Collection fonts.
+- [DTL OTMaster](https://www.fontmaster.nl/otmaster.html) - Highly sophisticated application for reviewing, editing and altering tables and contours of fonts with an SFNT file structure, as there are CFF and TTF flavored OpenType fonts, TrueType fonts and TrueType Collection fonts.
 - [010 Editor](http://www.sweetscape.com/010editor/) - Professional text and hex editing with Binary Templates technology. [OpenType template](http://pikensoft.com/programs/OpenTypeTemplate.bt).
 - [Synalyze It!](https://www.synalysis.net) - Reverse Engineering and Binary File Analysis made easy. [OpenType template](https://www.synalysis.net/Grammars/opentype.grammar).
 - [TransType 4](https://www.fontlab.com/font-converter/transtype/) - Universal font converter.
@@ -354,6 +354,9 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Runebender](https://github.com/linebender/runebender) - Experimental font editor written in Rust. Early-stage software, not yet suitable for production use.
 - [FontGoggles](https://github.com/justvanrossum/fontgoggles) - Font preview and inspection app for macOS with support for OpenType layout and variable fonts.
 - [Fontra](https://github.com/fontra/fontra) - Open-source browser-based font editor.
+- [Hibizcus](https://hibizcus.com/) - macOS app for proofing and debugging font shaping for South and Southeast Asian scripts with built-in test data.
+- [FontTableViewer](https://glyphsapp.com/tools/fonttableviewer) - macOS app for comparing OpenType tables side by side with the relevant specification.
+- [MergeGlyphs](https://glyphsapp.com/tools/mergeglyphs) - macOS app for visually comparing `.glyphs` source files and selectively merging outlines, kerning, and font settings. Available as a free public beta.
 
 ## Font Validator
 - [Font Validator](https://github.com/HinTak/Font-Validator) - Tool for testing fonts prior to release. See [Install post for Mac](http://typedrawers.com/discussion/comment/16090/#Comment_16090).
