@@ -41,11 +41,14 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [the-cff-table](https://github.com/Pomax/the-cff-table) - Markdown conversion of the Adobe Tech notes 5176 and 5177 about CFF.
 - [Adobe's Documentation](https://www.adobe.com/devnet/font.html)
 - [Boring Expansion](https://github.com/harfbuzz/boring-expansion-spec) - Font format proposals for larger glyph sets, cubic outlines, variable components, and enhanced variation mapping.
+- [Unicode CLDR Exemplar Characters](https://www.unicode.org/cldr/charts/latest/by_type/core_data.alphabetic_information.main.html) - Compare locale-specific letter sets and browse related punctuation and numbering charts when planning font coverage.
+- [W3C Language Enablement Index](https://www.w3.org/International/typography/) - Find script-specific layout requirements, tests, and browser support gaps for web typography.
 
 ## OpenType
 - [OpenType: let's learn how modern fonts actually work](https://pomax.github.io/#gh-weblog-1449777175633)
 - [The OpenType Cookbook](http://opentypecookbook.com) - Introduction to OpenType features for type designers. [(Source)](https://github.com/typesupply/opentype-feature-intro).
 - [A bit of font generation](https://pomax.github.io/CFF-glyphlet-fonts/) - Brief excursion into OpenType.
+- [OpenType Language System Tags](https://learn.microsoft.com/en-us/typography/opentype/spec/languagetags) - Look up registered tags for language-specific OpenType layout, including localized glyph forms.
 
 ## Assembly
 - [Fontraption](https://github.com/viler-int10h/Fontraption) - A tiny but powerful VGA text mode font editor for DOS.
@@ -282,6 +285,8 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [babelfont](https://github.com/simoncozens/babelfont) - Access and manipulate font formats through a common interface.
 - [fontquant](https://github.com/googlefonts/fontquant) - Measure and quantify font properties and technical quality.
 - [uharfbuzz](https://github.com/harfbuzz/uharfbuzz) - Python bindings for HarfBuzz to shape text and inspect glyph indices and positions.
+- [Hyperglot](https://github.com/rosettatype/hyperglot) - Check fonts for language coverage and selected shaping behaviors. Browse the [orthography database](https://hyperglot.rosettatype.com/database) or consult the [database guide](https://github.com/rosettatype/hyperglot/blob/master/README_database.md) for character sets, combining marks, and data sources.
+- [Google Fonts Glyphset Definitions](https://github.com/googlefonts/glyphsets) - Use curated character and glyph inventories for font authoring, with starter files and custom filters for Glyphs.
 
 ## Java
 - [sfntly](https://github.com/googlei18n/sfntly) - Library for Using, Editing, and Creating SFNT-based Fonts.
@@ -371,6 +376,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Wakamai Fondue](https://wakamaifondue.com/) - The tool that answers the question “what can my font do?”
 - [TypeNetwork TypeTools](https://typetools.typenetwork.com/) - Layout tools for experimenting with variable fonts in various ways.
 - [FontDrop!](https://fontdrop.info/) - Inspect font glyphs, metadata, language coverage, OpenType features, and variations in the browser.
+- [Hyperglot Font Checker](https://hyperglot.rosettatype.com/checker) - Check which languages a font supports in the browser. Optional shaping checks process the font on Rosetta's server.
 
 ## Miscellaneous
 - [TypeDrawers](http://typedrawers.com) - Discussion forum for professionals and enthusiasts in the fields of typeface design, lettering, and typography.
