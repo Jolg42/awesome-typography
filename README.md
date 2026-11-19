@@ -432,6 +432,7 @@ Specification](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.
 - [Typewolf](https://www.typewolf.com/) - Typography examples, font identification, and pairing ideas.
 
 ## Fonts
+- [Line Height Calculator](https://tooeasytools.com.au/line-height-calculator/) - Free CSS line height calculator with unit conversion, live Google Fonts preview, readability checks and a type scale generator.
 - [The Gilbert Font](https://github.com/Fontself/TypeWithPride) - OpenType-SVG font named after Gilbert Baker, the creator of the rainbow flag.
 - [Nanofont](https://github.com/bramstein/nanofont) - Nano font for testing font format support (TrueType, WOFF, WOFF2).
 - [FiraSystemFontReplacement](https://github.com/jenskutilek/FiraSystemFontReplacement) - Modified version of the Fira Sans fonts to replace the default system font on macOS 10.10 and 10.11.
